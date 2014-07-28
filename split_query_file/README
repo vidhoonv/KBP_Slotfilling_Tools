@@ -1,0 +1,10 @@
+SPLIT QUERIES:
+==============
+
+After extracting second run queries, it can be divided into parts to run in parallel in condor system.
+This script divides the given query file into valid XML sub parts that can be used for individual condor runs.
+
+USAGE:
+python split_queries.py <input_query_file.xml> <output_file_prefix> <num_of_queries_per_file>
+
+This is common for KBP 2013 and 2014 query files.
