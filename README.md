@@ -4,12 +4,11 @@ In the KBP slot filling task, to provide scope for inference component to kick i
 
 The python script in this repo can be used to extract these new query entities out from the response file of a KBP SF system. Then, the SF system can be run on this new query file to produce more slot fills for using in inference.
 
-Usage:
 
-
-Note:
 USAGE:
+======
 python extract_secondset_queries.py <OUTPUT_OF_ORIGINAL_QUERIES> <NEW_QUERIES_FILE.XML>
 
 Known issues:
+=============
 Some queries had "&" character in their text which created problem in XML file. So I removed "&" manually.
