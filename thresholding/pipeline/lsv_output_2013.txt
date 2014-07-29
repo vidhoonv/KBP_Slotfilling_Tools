@@ -1,0 +1,2415 @@
+SF13_ENG_001	per:age	lsv	APW_ENG_20100110.0251	about 80	4588-4595	4576-4585	4563-4673	0.6868
+SF13_ENG_001	per:cause_of_death	lsv	NIL
+SF13_ENG_001	per:city_of_birth	lsv	NIL
+SF13_ENG_001	per:city_of_death	lsv	NIL
+SF13_ENG_001	per:country_of_birth	lsv	XIN_ENG_20090820.0039	Pakistan	2280-2287	2176-2185	2176-2348	1.0000
+SF13_ENG_001	per:country_of_death	lsv	NIL
+SF13_ENG_001	per:date_of_birth	lsv	NIL
+SF13_ENG_001	per:date_of_death	lsv	NIL
+SF13_ENG_001	per:religion	lsv	NIL
+SF13_ENG_001	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_001	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_001	per:alternate_names	lsv	NIL
+SF13_ENG_001	per:charges	lsv	NIL
+SF13_ENG_001	per:children	lsv	NIL
+SF13_ENG_001	per:cities_of_residence	lsv	XIN_ENG_20090817.0134	Kabul	3859-3863	3830-3839	3567-3864	0.0094
+SF13_ENG_001	per:countries_of_residence	lsv	NIL
+SF13_ENG_001	per:employee_or_member_of	lsv	AFP_ENG_20090820.0759	International Republican Institute	1612-1645	1735-1752	1608-1825	0.2732
+SF13_ENG_001	per:origin	lsv	NIL
+SF13_ENG_001	per:other_family	lsv	NIL
+SF13_ENG_001	per:parents	lsv	NIL
+SF13_ENG_001	per:schools_attended	lsv	NYT_ENG_20090619.0062	Foreign Affairs Ministry	4264-4287	4125-4134	4081-4288	0.2008
+SF13_ENG_001	per:siblings	lsv	NIL
+SF13_ENG_001	per:spouse	lsv	NIL
+SF13_ENG_001	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_001	per:title	lsv	NYT_ENG_20090619.0062	philosopher	2191-2201	2144-2153	2039-2332	0.4122
+SF13_ENG_001	per:title	lsv	XIN_ENG_20090819.0143	Dr.	712-714	716-733	712-809	0.6485
+SF13_ENG_001	per:title	lsv	XIN_ENG_20091220.0054	parliamentarian	745-759	761-778	670-855	0.7021
+SF13_ENG_001	per:title	lsv	NYT_ENG_20090619.0062	scholar	879-885	856-865	769-1022	0.0013
+SF13_ENG_001	per:title	lsv	LTW_ENG_20090727.0007	legislator	3579-3588	3551-3560	3489-3678	0.2160
+SF13_ENG_001	per:title	lsv	NYT_ENG_20090816.0111	finance minister	4082-4097	4021-4038	3889-4098	0.0814
+SF13_ENG_002	per:age	lsv	AFP_ENG_20091118.0466	50	348-349	339-345	339-502	1.0000
+SF13_ENG_002	per:cause_of_death	lsv	NIL
+SF13_ENG_002	per:city_of_birth	lsv	NIL
+SF13_ENG_002	per:city_of_death	lsv	NIL
+SF13_ENG_002	per:country_of_birth	lsv	NIL
+SF13_ENG_002	per:country_of_death	lsv	NIL
+SF13_ENG_002	per:date_of_birth	lsv	NIL
+SF13_ENG_002	per:date_of_death	lsv	NIL
+SF13_ENG_002	per:religion	lsv	NIL
+SF13_ENG_002	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_002	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_002	per:alternate_names	lsv	NIL
+SF13_ENG_002	per:charges	lsv	NIL
+SF13_ENG_002	per:children	lsv	NIL
+SF13_ENG_002	per:cities_of_residence	lsv	NIL
+SF13_ENG_002	per:countries_of_residence	lsv	NIL
+SF13_ENG_002	per:employee_or_member_of	lsv	AFP_ENG_20091118.0466	Morrisons	407-415	339-345	339-502	0.0093
+SF13_ENG_002	per:employee_or_member_of	lsv	AFP_ENG_20101109.0296	Marks & Spencer	973-991	1048-1059	972-1135	0.0094
+SF13_ENG_002	per:employee_or_member_of	lsv	APW_ENG_20100318.0722	Morrison Supermarkets PLC	526-550	498-509	498-607	0.6538
+SF13_ENG_002	per:origin	lsv	NIL
+SF13_ENG_002	per:other_family	lsv	NIL
+SF13_ENG_002	per:parents	lsv	NIL
+SF13_ENG_002	per:schools_attended	lsv	NIL
+SF13_ENG_002	per:siblings	lsv	NIL
+SF13_ENG_002	per:spouse	lsv	NIL
+SF13_ENG_002	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_002	per:title	lsv	AFP_ENG_20091118.0289	chief operating officer	1838-1860	1816-1822	1816-1987	0.7650
+SF13_ENG_002	per:title	lsv	AFP_ENG_20091118.0167	boss	302-305	307-318	184-346	0.8454
+SF13_ENG_002	per:title	lsv	AFP_ENG_20100707.0510	chairman	2280-2287	2151-2157	2142-2333	0.6543
+SF13_ENG_002	per:title	lsv	APW_ENG_20100106.0361	analyst	1025-1031	809-820	784-1050	0.4562
+SF13_ENG_002	per:title	lsv	AFP_ENG_20101007.0269	chief executive	715-729	731-742	665-743	1.0000
+SF13_ENG_003	per:age	lsv	NIL
+SF13_ENG_003	per:cause_of_death	lsv	NIL
+SF13_ENG_003	per:city_of_birth	lsv	NIL
+SF13_ENG_003	per:city_of_death	lsv	NIL
+SF13_ENG_003	per:country_of_birth	lsv	NIL
+SF13_ENG_003	per:country_of_death	lsv	NIL
+SF13_ENG_003	per:date_of_birth	lsv	NIL
+SF13_ENG_003	per:date_of_death	lsv	NIL
+SF13_ENG_003	per:religion	lsv	NIL
+SF13_ENG_003	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_003	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_003	per:alternate_names	lsv	NIL
+SF13_ENG_003	per:charges	lsv	NIL
+SF13_ENG_003	per:children	lsv	NIL
+SF13_ENG_003	per:cities_of_residence	lsv	NIL
+SF13_ENG_003	per:countries_of_residence	lsv	NIL
+SF13_ENG_003	per:employee_or_member_of	lsv	bolt-eng-DF-200-192448-6195383	Marks & Spencer	34642-34660	34673-34687	34476-34742	0.4071
+SF13_ENG_003	per:employee_or_member_of	lsv	AFP_ENG_20091104.0393	Marks	871-875	886-896	871-1011	0.8079
+SF13_ENG_003	per:employee_or_member_of	lsv	bolt-eng-DF-200-192448-6195383	Institute of Directors	34582-34603	34673-34687	34476-34742	0.1573
+SF13_ENG_003	per:origin	lsv	NIL
+SF13_ENG_003	per:other_family	lsv	NIL
+SF13_ENG_003	per:parents	lsv	NIL
+SF13_ENG_003	per:schools_attended	lsv	NIL
+SF13_ENG_003	per:siblings	lsv	NIL
+SF13_ENG_003	per:spouse	lsv	NIL
+SF13_ENG_003	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_003	per:title	lsv	AFP_ENG_20100525.0561	chairman	721-728	730-740	658-741	1.0000
+SF13_ENG_003	per:title	lsv	AFP_ENG_20091123.0613	boss	2313-2316	2318-2328	2240-2436	0.8802
+SF13_ENG_003	per:title	lsv	APW_ENG_20100823.0309	chief executive	424-438	367-381	311-473	0.1530
+SF13_ENG_004	per:age	lsv	NIL
+SF13_ENG_004	per:cause_of_death	lsv	NIL
+SF13_ENG_004	per:city_of_birth	lsv	NIL
+SF13_ENG_004	per:city_of_death	lsv	NIL
+SF13_ENG_004	per:country_of_birth	lsv	NIL
+SF13_ENG_004	per:country_of_death	lsv	NIL
+SF13_ENG_004	per:date_of_birth	lsv	NIL
+SF13_ENG_004	per:date_of_death	lsv	NIL
+SF13_ENG_004	per:religion	lsv	NIL
+SF13_ENG_004	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_004	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_004	per:alternate_names	lsv	NIL
+SF13_ENG_004	per:charges	lsv	NIL
+SF13_ENG_004	per:children	lsv	NIL
+SF13_ENG_004	per:cities_of_residence	lsv	NIL
+SF13_ENG_004	per:countries_of_residence	lsv	NIL
+SF13_ENG_004	per:employee_or_member_of	lsv	APW_ENG_20100924.0223	Financial Times	508-522	693-705	504-728	0.6531
+SF13_ENG_004	per:employee_or_member_of	lsv	APW_ENG_20091110.0470	Finance	1883-1889	1900-1912	1845-2031	0.4028
+SF13_ENG_004	per:employee_or_member_of	lsv	APW_ENG_20100924.0223	Geoghegan	631-639	693-705	504-728	0.7007
+SF13_ENG_004	per:employee_or_member_of	lsv	APW_ENG_20100924.0223	HSBC	570-573	693-705	504-728	0.5339
+SF13_ENG_004	per:origin	lsv	NIL
+SF13_ENG_004	per:other_family	lsv	NIL
+SF13_ENG_004	per:parents	lsv	NIL
+SF13_ENG_004	per:schools_attended	lsv	NIL
+SF13_ENG_004	per:siblings	lsv	NIL
+SF13_ENG_004	per:spouse	lsv	NIL
+SF13_ENG_004	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_004	per:title	lsv	AFP_ENG_20100924.0251	director	486-493	495-507	478-674	0.7347
+SF13_ENG_004	per:title	lsv	AFP_ENG_20100924.0089	finance director	348-363	365-377	187-401	0.7897
+SF13_ENG_004	per:title	lsv	NYT_ENG_20100924.0023	chairman	520-527	487-499	458-631	1.0000
+SF13_ENG_005	per:age	lsv	NIL
+SF13_ENG_005	per:cause_of_death	lsv	NIL
+SF13_ENG_005	per:city_of_birth	lsv	LTW_ENG_20091028.0076	Chicago	3750-3756	3666-3669	3666-3762	0.1100
+SF13_ENG_005	per:city_of_death	lsv	NIL
+SF13_ENG_005	per:country_of_birth	lsv	AFP_ENG_20091027.0264	Canada	576-581	524-527	404-582	1.0000
+SF13_ENG_005	per:country_of_death	lsv	NIL
+SF13_ENG_005	per:date_of_birth	lsv	NIL
+SF13_ENG_005	per:date_of_death	lsv	NIL
+SF13_ENG_005	per:religion	lsv	NIL
+SF13_ENG_005	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_005	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_005	per:alternate_names	lsv	NIL
+SF13_ENG_005	per:charges	lsv	NIL
+SF13_ENG_005	per:children	lsv	NIL
+SF13_ENG_005	per:cities_of_residence	lsv	APW_ENG_20091209.1241	Chicago	2388-2394	2408-2428	2388-2573	0.8052
+SF13_ENG_005	per:cities_of_residence	lsv	APW_ENG_20091104.0032	Mumbai	3333-3338	2979-2982	2934-3353	0.1671
+SF13_ENG_005	per:cities_of_residence	lsv	APW_ENG_20091028.0100	Toronto	1299-1305	1187-1190	1155-1392	0.1156
+SF13_ENG_005	per:countries_of_residence	lsv	XIN_ENG_20091117.0103	India	1963-1967	1950-1953	1906-2001	0.2834
+SF13_ENG_005	per:employee_or_member_of	lsv	NIL
+SF13_ENG_005	per:origin	lsv	APW_ENG_20100127.1042	Danish	1217-1222	1063-1075	1032-1233	0.1018
+SF13_ENG_005	per:origin	lsv	NYT_ENG_20091207.0152	India	2391-2395	2228-2231	2196-2396	0.0735
+SF13_ENG_005	per:origin	lsv	APW_ENG_20091028.0350	Canadian	2917-2924	2902-2905	2902-2967	1.0000
+SF13_ENG_005	per:origin	lsv	AFP_ENG_20091027.0162	Pakistan	1310-1317	1271-1291	1190-1340	0.3294
+SF13_ENG_005	per:origin	lsv	APW_ENG_20101230.0019	U.S.	5251-5254	5264-5276	5251-5412	0.4164
+SF13_ENG_005	per:other_family	lsv	NIL
+SF13_ENG_005	per:parents	lsv	XIN_ENG_20091117.0103	Mahesh Bhatt	2575-2586	2459-2462	2369-2687	0.1780
+SF13_ENG_005	per:schools_attended	lsv	APW_ENG_20091209.0048	Hasan Abdal Cadet College	1772-1796	1730-1733	1723-1916	0.0568
+SF13_ENG_005	per:schools_attended	lsv	APW_ENG_20091028.1116	Metropolitan Correctional Center	2678-2709	2653-2656	2653-2710	0.0324
+SF13_ENG_005	per:siblings	lsv	NIL
+SF13_ENG_005	per:spouse	lsv	NIL
+SF13_ENG_005	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_005	per:title	lsv	XIN_ENG_20091108.0085	associate	754-762	764-784	606-966	0.5647
+SF13_ENG_005	per:title	lsv	APW_ENG_20100116.0014	owner	402-406	375-395	375-607	0.2511
+SF13_ENG_005	per:title	lsv	APW_ENG_20100318.1098	businessman	851-861	863-875	806-911	0.5216
+SF13_ENG_005	per:title	lsv	LTW_ENG_20091120.0112	medical doctor	4393-4406	4368-4371	4262-4438	0.0508
+SF13_ENG_005	per:title	lsv	APW_ENG_20091110.0030	counselor	836-844	846-858	720-965	0.4899
+SF13_ENG_005	per:title	lsv	AFP_ENG_20100125.0292	pacifist	3547-3554	3386-3389	3386-3585	0.1574
+SF13_ENG_005	per:title	lsv	APW_ENG_20091104.0032	terrorist	2323-2331	2244-2247	2190-2339	0.2059
+SF13_ENG_005	per:title	lsv	LTW_ENG_20091120.0112	Dr.	4641-4643	4645-4648	4600-4722	0.4821
+SF13_ENG_005	per:title	lsv	APW_ENG_20100125.1042	count	2443-2447	2405-2408	2405-2540	0.4063
+SF13_ENG_005	per:title	lsv	APW_ENG_20091124.0539	cartoonist	1846-1855	1779-1782	1762-2005	0.0093
+SF13_ENG_006	per:age	lsv	NIL
+SF13_ENG_006	per:cause_of_death	lsv	NIL
+SF13_ENG_006	per:city_of_birth	lsv	NIL
+SF13_ENG_006	per:city_of_death	lsv	NYT_ENG_20090620.0004	San Anselmo	423-433	150-163	150-452	1.0000
+SF13_ENG_006	per:country_of_birth	lsv	NIL
+SF13_ENG_006	per:country_of_death	lsv	NIL
+SF13_ENG_006	per:date_of_birth	lsv	NIL
+SF13_ENG_006	per:date_of_death	lsv	NIL
+SF13_ENG_006	per:religion	lsv	NIL
+SF13_ENG_006	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_006	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_006	per:alternate_names	lsv	NIL
+SF13_ENG_006	per:charges	lsv	NIL
+SF13_ENG_006	per:children	lsv	NIL
+SF13_ENG_006	per:cities_of_residence	lsv	NYT_ENG_20090620.0004	Bombay	4571-4576	4557-4560	4537-4728	1.0000
+SF13_ENG_006	per:cities_of_residence	lsv	eng-NG-31-142898-10119792	Beijing	56456-56462	56416-56419	56380-56550	0.1182
+SF13_ENG_006	per:cities_of_residence	lsv	NYT_ENG_20090620.0004	Shibpur	2168-2174	2086-2089	2086-2219	0.4352
+SF13_ENG_006	per:cities_of_residence	lsv	NYT_ENG_20090620.0004	Allahabad	3256-3264	3158-3161	3151-3265	0.9169
+SF13_ENG_006	per:countries_of_residence	lsv	NIL
+SF13_ENG_006	per:employee_or_member_of	lsv	NIL
+SF13_ENG_006	per:origin	lsv	NIL
+SF13_ENG_006	per:other_family	lsv	NIL
+SF13_ENG_006	per:parents	lsv	NYT_ENG_20090620.0004	Allauddin Khan	678-691	555-558	555-850	0.3367
+SF13_ENG_006	per:schools_attended	lsv	NIL
+SF13_ENG_006	per:siblings	lsv	NYT_ENG_20090620.0004	Annapurna Devi	2984-2997	2961-2964	2961-3140	1.0000
+SF13_ENG_006	per:spouse	lsv	NIL
+SF13_ENG_006	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_006	per:title	lsv	eng-NG-31-131714-9426300	host	5255-5258	5191-5204	5161-5301	0.2509
+SF13_ENG_006	per:title	lsv	NYT_ENG_20101001.0038	player	2491-2496	2498-2511	2289-2543	0.6003
+SF13_ENG_006	per:title	lsv	APW_ENG_20090620.0267	musician	75-82	84-97	58-102	0.6775
+SF13_ENG_006	per:title	lsv	NYT_ENG_20090620.0004	author	3564-3569	3533-3536	3417-3612	0.4314
+SF13_ENG_006	per:title	lsv	NYT_ENG_20090620.0004	virtuoso	179-186	150-163	150-452	1.0000
+SF13_ENG_006	per:title	lsv	NYT_ENG_20090620.0004	elder	4913-4917	4919-4922	4870-4954	0.6360
+SF13_ENG_006	per:title	lsv	AFP_ENG_20090619.0538	maestro	65-71	73-86	58-97	0.6058
+SF13_ENG_007	per:age	lsv	AFP_ENG_20100310.0068	81	406-407	382-403	375-466	1.0000
+SF13_ENG_007	per:cause_of_death	lsv	AFP_ENG_20100319.0387	heart attack	678-689	641-662	565-718	1.0000
+SF13_ENG_007	per:city_of_birth	lsv	NIL
+SF13_ENG_007	per:city_of_death	lsv	NIL
+SF13_ENG_007	per:country_of_birth	lsv	NIL
+SF13_ENG_007	per:country_of_death	lsv	NIL
+SF13_ENG_007	per:date_of_birth	lsv	NIL
+SF13_ENG_007	per:date_of_death	lsv	XIN_ENG_20100310.0296	Wednesday	238-246	207-228	183-310	1.0000
+SF13_ENG_007	per:religion	lsv	eng-NG-31-142498-8699086	Islamic	14768-14774	14736-14757	14701-14914	0.3713
+SF13_ENG_007	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_007	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_007	per:alternate_names	lsv	NIL
+SF13_ENG_007	per:charges	lsv	NIL
+SF13_ENG_007	per:children	lsv	NIL
+SF13_ENG_007	per:cities_of_residence	lsv	NIL
+SF13_ENG_007	per:countries_of_residence	lsv	NIL
+SF13_ENG_007	per:employee_or_member_of	lsv	NIL
+SF13_ENG_007	per:origin	lsv	NIL
+SF13_ENG_007	per:other_family	lsv	NIL
+SF13_ENG_007	per:parents	lsv	NIL
+SF13_ENG_007	per:schools_attended	lsv	APW_ENG_20100310.0491	Al-Azhar University	3772-3790	3666-3672	3666-3799	0.0096
+SF13_ENG_007	per:siblings	lsv	NIL
+SF13_ENG_007	per:spouse	lsv	NIL
+SF13_ENG_007	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_007	per:title	lsv	APW_ENG_20100310.0761	scholar	629-635	542-548	542-771	0.2196
+SF13_ENG_007	per:title	lsv	AFP_ENG_20100319.0300	Imam	634-637	639-660	567-734	0.5770
+SF13_ENG_007	per:title	lsv	AFP_ENG_20100312.0442	cleric	92-97	99-105	58-105	0.5744
+SF13_ENG_007	per:title	lsv	APW_ENG_20100310.0761	civil servant	705-717	542-548	542-771	0.5998
+SF13_ENG_007	per:title	lsv	AFP_ENG_20100310.0422	sheikh	3099-3104	2974-2980	2974-3117	1.0000
+SF13_ENG_007	per:title	lsv	AFP_ENG_20100310.0422	mufti	2996-3000	2974-2980	2974-3117	0.7989
+SF13_ENG_008	per:cause_of_death	lsv	APW_ENG_20090709.0981	heart attack	234-245	206-222	185-282	1.0000
+SF13_ENG_008	per:city_of_death	lsv	NIL
+SF13_ENG_008	per:country_of_death	lsv	NIL
+SF13_ENG_008	per:date_of_death	lsv	NIL
+SF13_ENG_008	per:religion	lsv	NIL
+SF13_ENG_008	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_008	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_008	per:alternate_names	lsv	NIL
+SF13_ENG_008	per:charges	lsv	NIL
+SF13_ENG_008	per:children	lsv	NIL
+SF13_ENG_008	per:cities_of_residence	lsv	NIL
+SF13_ENG_008	per:countries_of_residence	lsv	NIL
+SF13_ENG_008	per:employee_or_member_of	lsv	NIL
+SF13_ENG_008	per:origin	lsv	NIL
+SF13_ENG_008	per:other_family	lsv	NIL
+SF13_ENG_008	per:parents	lsv	NIL
+SF13_ENG_008	per:schools_attended	lsv	NIL
+SF13_ENG_008	per:siblings	lsv	NIL
+SF13_ENG_008	per:spouse	lsv	NIL
+SF13_ENG_008	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_008	per:title	lsv	APW_ENG_20090709.0981	tennis player	85-97	99-107	58-107	1.0000
+SF13_ENG_008	per:title	lsv	APW_ENG_20090707.0407	player	73-78	80-96	58-101	0.9428
+SF13_ENG_009	per:age	lsv	NIL
+SF13_ENG_009	per:cause_of_death	lsv	APW_ENG_20100619.0649	heart attack	349-360	330-337	277-398	1.0000
+SF13_ENG_009	per:city_of_birth	lsv	APW_ENG_20100619.0374	Karachi	446-452	385-392	326-453	0.0095
+SF13_ENG_009	per:city_of_death	lsv	APW_ENG_20100619.0649	Karachi	391-397	330-337	277-398	0.3195
+SF13_ENG_009	per:country_of_birth	lsv	NIL
+SF13_ENG_009	per:country_of_death	lsv	NIL
+SF13_ENG_009	per:date_of_birth	lsv	NIL
+SF13_ENG_009	per:date_of_death	lsv	NIL
+SF13_ENG_009	per:religion	lsv	NIL
+SF13_ENG_009	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_009	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_009	per:alternate_names	lsv	NIL
+SF13_ENG_009	per:charges	lsv	NIL
+SF13_ENG_009	per:children	lsv	NIL
+SF13_ENG_009	per:cities_of_residence	lsv	NIL
+SF13_ENG_009	per:countries_of_residence	lsv	NIL
+SF13_ENG_009	per:employee_or_member_of	lsv	APW_ENG_20100619.0374	Ex-AIBA	58-64	76-89	58-94	0.1499
+SF13_ENG_009	per:employee_or_member_of	lsv	APW_ENG_20101102.0397	AIBA	501-504	556-569	491-637	0.1270
+SF13_ENG_009	per:origin	lsv	APW_ENG_20100804.0679	Pakistan	519-526	499-512	444-582	0.9812
+SF13_ENG_009	per:other_family	lsv	NIL
+SF13_ENG_009	per:parents	lsv	NIL
+SF13_ENG_009	per:schools_attended	lsv	NIL
+SF13_ENG_009	per:siblings	lsv	NIL
+SF13_ENG_009	per:spouse	lsv	NIL
+SF13_ENG_009	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_009	per:title	lsv	APW_ENG_20100619.0374	Prof.	379-383	385-392	326-453	0.9110
+SF13_ENG_009	per:title	lsv	APW_ENG_20101102.0397	incumbent	546-554	556-569	491-637	1.0000
+SF13_ENG_009	per:title	lsv	APW_ENG_20100619.0649	president	66-74	76-89	58-94	0.9650
+SF13_ENG_010	per:cause_of_death	lsv	APW_ENG_20100516.0824	stomach cancer	459-472	407-409	407-613	0.5737
+SF13_ENG_010	per:city_of_death	lsv	NYT_ENG_20100517.0003	Los Angeles	345-355	145-147	132-356	0.3335
+SF13_ENG_010	per:country_of_death	lsv	NIL
+SF13_ENG_010	per:date_of_death	lsv	AFP_ENG_20100516.0010	Sunday	276-281	200-202	168-317	1.0000
+SF13_ENG_010	per:religion	lsv	NIL
+SF13_ENG_010	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_010	per:alternate_names	lsv	NIL
+SF13_ENG_010	per:charges	lsv	NIL
+SF13_ENG_010	per:children	lsv	APW_ENG_20100517.0030	Daniel	3569-3574	3546-3548	3521-3621	0.2553
+SF13_ENG_010	per:children	lsv	APW_ENG_20100531.0419	Dan Padavona	1756-1767	1745-1747	1745-1904	1.0000
+SF13_ENG_010	per:cities_of_residence	lsv	NYT_ENG_20100517.0003	Portsmouth	1135-1144	1240-1242	1101-1306	0.1734
+SF13_ENG_010	per:cities_of_residence	lsv	NYT_ENG_20100517.0003	Cortland	1168-1175	1240-1242	1101-1306	0.2705
+SF13_ENG_010	per:countries_of_residence	lsv	NIL
+SF13_ENG_010	per:employee_or_member_of	lsv	NIL
+SF13_ENG_010	per:origin	lsv	NIL
+SF13_ENG_010	per:other_family	lsv	NIL
+SF13_ENG_010	per:parents	lsv	NIL
+SF13_ENG_010	per:schools_attended	lsv	NIL
+SF13_ENG_010	per:siblings	lsv	NIL
+SF13_ENG_010	per:spouse	lsv	NIL
+SF13_ENG_010	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_010	per:title	lsv	NYT_ENG_20090629.0075	rock musician	4002-4014	4016-4031	3906-4032	0.9123
+SF13_ENG_010	per:title	lsv	APW_ENG_20100516.0864	singer	1819-1824	1776-1778	1776-1933	1.0000
+SF13_ENG_010	per:title	lsv	APW_ENG_20100531.0419	performer	1291-1299	1271-1273	1158-1334	0.4609
+SF13_ENG_011	per:age	lsv	AFP_ENG_20091008.0040	105	594-596	375-390	375-597	0.7216
+SF13_ENG_011	per:cause_of_death	lsv	AFP_ENG_20091008.0095	dementia	331-338	185-200	185-384	0.0003
+SF13_ENG_011	per:city_of_birth	lsv	NIL
+SF13_ENG_011	per:city_of_death	lsv	NIL
+SF13_ENG_011	per:country_of_birth	lsv	NIL
+SF13_ENG_011	per:country_of_death	lsv	NIL
+SF13_ENG_011	per:date_of_birth	lsv	NIL
+SF13_ENG_011	per:date_of_death	lsv	eng-NG-31-142091-9998597	yesterday	1159-1167	1134-1141	1113-1278	1.0000
+SF13_ENG_011	per:religion	lsv	NIL
+SF13_ENG_011	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_011	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_011	per:alternate_names	lsv	NIL
+SF13_ENG_011	per:charges	lsv	APW_ENG_20091221.0741	larceny	915-921	849-856	849-1000	0.5246
+SF13_ENG_011	per:children	lsv	APW_ENG_20091221.0974	Philip	3251-3256	3234-3241	3189-3380	0.8815
+SF13_ENG_011	per:children	lsv	AFP_ENG_20091009.0701	Philip Marshall	2970-2984	2951-2958	2919-3159	1.0000
+SF13_ENG_011	per:cities_of_residence	lsv	NIL
+SF13_ENG_011	per:countries_of_residence	lsv	NIL
+SF13_ENG_011	per:employee_or_member_of	lsv	NIL
+SF13_ENG_011	per:origin	lsv	NYT_ENG_20091010.0123	U.S.	559-562	514-521	514-621	0.1394
+SF13_ENG_011	per:other_family	lsv	NIL
+SF13_ENG_011	per:parents	lsv	eng-NG-31-142091-8682859	Astor	798-802	822-829	734-830	0.3812
+SF13_ENG_011	per:parents	lsv	APW_ENG_20090623.0060	Brooke Astor	197-208	217-232	185-288	1.0000
+SF13_ENG_011	per:schools_attended	lsv	NIL
+SF13_ENG_011	per:siblings	lsv	NIL
+SF13_ENG_011	per:spouse	lsv	APW_ENG_20091205.0057	Charlene	2873-2880	2782-2789	2769-3044	1.0000
+SF13_ENG_011	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_011	per:title	lsv	APW_ENG_20091221.0974	lawyer	5051-5056	5106-5113	4818-5114	0.1317
+SF13_ENG_011	per:title	lsv	AFP_ENG_20091009.0701	ambassador	1099-1108	1077-1084	1077-1233	1.0000
+SF13_ENG_011	per:title	lsv	LTW_ENG_20091009.0063	producer	738-745	717-724	717-922	0.4487
+SF13_ENG_011	per:title	lsv	APW_ENG_20091221.0863	thief	1846-1850	1750-1757	1750-2037	0.6038
+SF13_ENG_012	per:age	lsv	bolt-eng-DF-212-191666-3034711	28	25817-25818	25804-25814	25794-25926	1.0000
+SF13_ENG_012	per:cause_of_death	lsv	NIL
+SF13_ENG_012	per:city_of_birth	lsv	AFP_ENG_20100308.0492	Karachi	1539-1545	1480-1485	1335-1546	0.4735
+SF13_ENG_012	per:city_of_death	lsv	NIL
+SF13_ENG_012	per:country_of_birth	lsv	NIL
+SF13_ENG_012	per:country_of_death	lsv	NIL
+SF13_ENG_012	per:date_of_birth	lsv	NIL
+SF13_ENG_012	per:date_of_death	lsv	NIL
+SF13_ENG_012	per:religion	lsv	APW_ENG_20101023.0269	Muslim	388-393	353-363	304-532	1.0000
+SF13_ENG_012	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_012	per:stateorprovince_of_death	lsv	eng-NG-31-142885-10104557	California	11573-11582	11464-11469	11447-11697	0.2594
+SF13_ENG_012	per:alternate_names	lsv	bolt-eng-DF-170-181125-9109477	Azzam al-Amriki	1084-1098	1072-1077	1068-1280	0.9322
+SF13_ENG_012	per:alternate_names	lsv	eng-NG-31-142148-8686773	Azzam al-Ameriki	12115-12130	12098-12108	12065-12437	0.9888
+SF13_ENG_012	per:alternate_names	lsv	eng-NG-31-128483-8351128	Adam Pearlman	569-581	545-562	381-694	1.0000
+SF13_ENG_012	per:charges	lsv	eng-NG-31-142887-8744193	treason	4579-4585	4545-4550	4545-4805	0.1065
+SF13_ENG_012	per:children	lsv	NIL
+SF13_ENG_012	per:cities_of_residence	lsv	WPB_ENG_20100606.0035	Fort Hood	4351-4359	4438-4448	4123-4484	0.7531
+SF13_ENG_012	per:cities_of_residence	lsv	APW_ENG_20100307.0800	Karachi	509-515	422-432	419-516	0.5903
+SF13_ENG_012	per:cities_of_residence	lsv	APW_ENG_20101023.0554	Detroit	1502-1508	1426-1431	1323-1574	0.2008
+SF13_ENG_012	per:countries_of_residence	lsv	APW_ENG_20100307.0664	Pakistan	1194-1201	1178-1183	1178-1358	0.0858
+SF13_ENG_012	per:employee_or_member_of	lsv	AFP_ENG_20100105.0002	Al-Qaeda	2199-2206	2215-2225	2059-2283	1.0000
+SF13_ENG_012	per:employee_or_member_of	lsv	NYT_ENG_20100307.0135	Qaida	1243-1247	1195-1205	1146-1343	0.0910
+SF13_ENG_012	per:employee_or_member_of	lsv	eng-NG-31-142687-8719916	ADL	11281-11283	11211-11216	11161-11290	0.0426
+SF13_ENG_012	per:origin	lsv	WPB_ENG_20100307.0023	U.S.	574-577	527-537	480-732	1.0000
+SF13_ENG_012	per:other_family	lsv	NIL
+SF13_ENG_012	per:parents	lsv	eng-NG-31-113099-9052056	Phil Pearlman	1995-2007	1975-1985	1935-2047	1.0000
+SF13_ENG_012	per:schools_attended	lsv	NIL
+SF13_ENG_012	per:siblings	lsv	NIL
+SF13_ENG_012	per:spouse	lsv	NIL
+SF13_ENG_012	per:statesorprovinces_of_residence	lsv	APW_ENG_20100307.0750	California	1908-1917	1857-1862	1857-1978	0.2659
+SF13_ENG_012	per:statesorprovinces_of_residence	lsv	NYT_ENG_20100307.0135	Texas	2107-2111	1962-1967	1943-2125	0.4230
+SF13_ENG_012	per:title	lsv	AFP_ENG_20090923.0370	soldier	2240-2246	2120-2125	2108-2440	0.0964
+SF13_ENG_012	per:title	lsv	bolt-eng-DF-200-192451-5798243	representative	638-651	601-611	504-661	0.0108
+SF13_ENG_012	per:title	lsv	APW_ENG_20100308.0563	army officer	841-852	830-835	727-892	0.0977
+SF13_ENG_012	per:title	lsv	eng-NG-31-128483-8351128	security guard	3348-3361	3303-3308	3273-3416	0.2626
+SF13_ENG_012	per:title	lsv	bolt-eng-DF-212-191668-3063184	author	64356-64361	64278-64288	64239-64405	0.1784
+SF13_ENG_012	per:title	lsv	XIN_ENG_20100307.0085	associate	357-365	341-346	341-454	0.6792
+SF13_ENG_012	per:title	lsv	APW_ENG_20100307.0460	model	487-491	408-418	357-555	0.3713
+SF13_ENG_012	per:title	lsv	eng-NG-31-142148-8686773	terrorist	12179-12187	12139-12156	12065-12437	0.2641
+SF13_ENG_012	per:title	lsv	APW_ENG_20100308.0432	intelligence officer	867-886	830-835	727-892	0.0067
+SF13_ENG_012	per:title	lsv	APW_ENG_20100307.0800	spokesman	448-456	422-432	419-516	0.4723
+SF13_ENG_012	per:title	lsv	APW_ENG_20100307.0677	pioneer	2143-2149	2104-2109	2044-2240	0.4807
+SF13_ENG_012	per:title	lsv	APW_ENG_20100307.0677	translator	1319-1328	1178-1183	1178-1358	0.1267
+SF13_ENG_012	per:title	lsv	APW_ENG_20100307.0664	consultant	1334-1343	1178-1183	1178-1358	0.1235
+SF13_ENG_012	per:title	lsv	bolt-eng-DF-212-191666-3034711	Fugitive	25795-25802	25804-25814	25794-25926	0.3328
+SF13_ENG_012	per:title	lsv	eng-NG-31-142885-10104557	advisor	10912-10918	10755-10772	10755-10961	0.3701
+SF13_ENG_012	per:title	lsv	bolt-eng-DF-212-191668-3063184	architect	64946-64954	64795-64800	64795-64975	0.3598
+SF13_ENG_012	per:title	lsv	eng-NG-31-102460-8865959	commander	1341-1349	1351-1361	1091-1362	0.3374
+SF13_ENG_013	per:age	lsv	NIL
+SF13_ENG_013	per:cause_of_death	lsv	NIL
+SF13_ENG_013	per:city_of_birth	lsv	NIL
+SF13_ENG_013	per:city_of_death	lsv	NIL
+SF13_ENG_013	per:country_of_birth	lsv	NIL
+SF13_ENG_013	per:country_of_death	lsv	NIL
+SF13_ENG_013	per:date_of_birth	lsv	NIL
+SF13_ENG_013	per:date_of_death	lsv	NIL
+SF13_ENG_013	per:religion	lsv	NIL
+SF13_ENG_013	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_013	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_013	per:alternate_names	lsv	NIL
+SF13_ENG_013	per:charges	lsv	NIL
+SF13_ENG_013	per:children	lsv	NIL
+SF13_ENG_013	per:cities_of_residence	lsv	NIL
+SF13_ENG_013	per:countries_of_residence	lsv	NIL
+SF13_ENG_013	per:employee_or_member_of	lsv	NIL
+SF13_ENG_013	per:origin	lsv	AFP_ENG_20100722.0303	South Africa	835-846	715-720	715-878	0.0997
+SF13_ENG_013	per:origin	lsv	AFP_ENG_20100722.0303	Zimbabwe	870-877	715-720	715-878	0.0625
+SF13_ENG_013	per:other_family	lsv	NIL
+SF13_ENG_013	per:parents	lsv	NIL
+SF13_ENG_013	per:schools_attended	lsv	NIL
+SF13_ENG_013	per:siblings	lsv	NIL
+SF13_ENG_013	per:spouse	lsv	NIL
+SF13_ENG_013	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_013	per:title	lsv	APW_ENG_20101111.0455	cricketer	764-772	737-748	590-831	0.7624
+SF13_ENG_013	per:title	lsv	AFP_ENG_20100722.0303	bowler	200-205	207-218	179-292	0.9965
+SF13_ENG_014	per:age	lsv	eng-NG-31-113099-9051630	25	2549-2550	2542-2546	2537-2583	1.0000
+SF13_ENG_014	per:cause_of_death	lsv	NIL
+SF13_ENG_014	per:city_of_birth	lsv	NYT_ENG_20100704.0043	Jerusalem	2963-2971	2936-2940	2936-3003	0.3987
+SF13_ENG_014	per:city_of_death	lsv	NIL
+SF13_ENG_014	per:country_of_birth	lsv	NIL
+SF13_ENG_014	per:country_of_death	lsv	NIL
+SF13_ENG_014	per:date_of_birth	lsv	NIL
+SF13_ENG_014	per:date_of_death	lsv	NIL
+SF13_ENG_014	per:religion	lsv	NIL
+SF13_ENG_014	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_014	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_014	per:alternate_names	lsv	NIL
+SF13_ENG_014	per:charges	lsv	NIL
+SF13_ENG_014	per:children	lsv	NIL
+SF13_ENG_014	per:cities_of_residence	lsv	NYT_ENG_20100704.0043	Jerusalem	2963-2971	2936-2940	2936-3003	0.6225
+SF13_ENG_014	per:cities_of_residence	lsv	eng-NG-31-113099-9051630	Gaza	2558-2561	2542-2546	2537-2583	0.0902
+SF13_ENG_014	per:countries_of_residence	lsv	NIL
+SF13_ENG_014	per:employee_or_member_of	lsv	eng-NG-31-113099-9051630	Fatah	2642-2646	2615-2619	2615-2773	0.0102
+SF13_ENG_014	per:origin	lsv	NIL
+SF13_ENG_014	per:other_family	lsv	NIL
+SF13_ENG_014	per:parents	lsv	NIL
+SF13_ENG_014	per:schools_attended	lsv	NIL
+SF13_ENG_014	per:siblings	lsv	NIL
+SF13_ENG_014	per:spouse	lsv	NIL
+SF13_ENG_014	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_014	per:title	lsv	APW_ENG_20101224.0060	planner	379-385	351-364	349-484	1.0000
+SF13_ENG_014	per:title	lsv	NYT_ENG_20100704.0043	math teacher	256-267	231-244	231-388	0.7453
+SF13_ENG_015	per:age	lsv	NIL
+SF13_ENG_015	per:cause_of_death	lsv	WPB_ENG_20100221.0011	bacterial infection	1380-1398	1349-1363	1349-1518	1.0000
+SF13_ENG_015	per:city_of_birth	lsv	NIL
+SF13_ENG_015	per:city_of_death	lsv	APW_ENG_20100214.0143	Columbia	572-579	503-509	456-629	0.1036
+SF13_ENG_015	per:country_of_birth	lsv	NIL
+SF13_ENG_015	per:country_of_death	lsv	NIL
+SF13_ENG_015	per:date_of_birth	lsv	NIL
+SF13_ENG_015	per:date_of_death	lsv	NYT_ENG_20101005.0054	XXXX-02-XX	5688-5695	5574-5588	5545-5696	0.1239
+SF13_ENG_015	per:religion	lsv	NIL
+SF13_ENG_015	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_015	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_015	per:alternate_names	lsv	NIL
+SF13_ENG_015	per:charges	lsv	NIL
+SF13_ENG_015	per:children	lsv	NIL
+SF13_ENG_015	per:cities_of_residence	lsv	NIL
+SF13_ENG_015	per:countries_of_residence	lsv	NIL
+SF13_ENG_015	per:employee_or_member_of	lsv	NYT_ENG_20100217.0056	University at Buffalo	3402-3422	3335-3341	3310-3465	0.2259
+SF13_ENG_015	per:origin	lsv	NIL
+SF13_ENG_015	per:other_family	lsv	NIL
+SF13_ENG_015	per:parents	lsv	NIL
+SF13_ENG_015	per:schools_attended	lsv	NYT_ENG_20100217.0056	Howard University	3156-3172	3139-3145	3139-3217	1.0000
+SF13_ENG_015	per:siblings	lsv	APW_ENG_20100214.0143	Elaine Philip	310-322	292-298	292-445	1.0000
+SF13_ENG_015	per:spouse	lsv	NIL
+SF13_ENG_015	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_015	per:title	lsv	WPB_ENG_20100221.0011	philosopher	3707-3717	3733-3739	3613-3766	0.1733
+SF13_ENG_015	per:title	lsv	NYT_ENG_20101005.0054	writer	5620-5625	5574-5588	5545-5696	0.8482
+SF13_ENG_015	per:title	lsv	NYT_ENG_20101005.0054	poet	5611-5614	5574-5588	5545-5696	1.0000
+SF13_ENG_016	per:cause_of_death	lsv	NIL
+SF13_ENG_016	per:city_of_death	lsv	APW_ENG_20100525.1233	Des Moines	287-296	258-266	198-425	0.4487
+SF13_ENG_016	per:country_of_birth	lsv	NIL
+SF13_ENG_016	per:country_of_death	lsv	NIL
+SF13_ENG_016	per:date_of_death	lsv	eng-NG-31-140107-9858181	this year	390-398	367-375	300-399	0.1398
+SF13_ENG_016	per:religion	lsv	NIL
+SF13_ENG_016	per:stateorprovince_of_death	lsv	AFP_ENG_20100525.0093	Iowa	303-306	236-244	175-318	0.1918
+SF13_ENG_016	per:alternate_names	lsv	NIL
+SF13_ENG_016	per:charges	lsv	NIL
+SF13_ENG_016	per:children	lsv	NIL
+SF13_ENG_016	per:cities_of_residence	lsv	APW_ENG_20100525.0070	Johnston	957-964	922-925	922-965	0.2590
+SF13_ENG_016	per:countries_of_residence	lsv	NIL
+SF13_ENG_016	per:employee_or_member_of	lsv	NYT_ENG_20100720.0143	Texas Council of Teachers of Mathematics	3634-3673	3602-3610	3602-3753	0.0017
+SF13_ENG_016	per:employee_or_member_of	lsv	APW_ENG_20100525.0070	TownePlace Suites	421-437	389-392	366-503	0.2922
+SF13_ENG_016	per:employee_or_member_of	lsv	eng-NG-31-142679-10068101	HMRC	3716-3719	3693-3701	3693-3786	0.1574
+SF13_ENG_016	per:origin	lsv	NIL
+SF13_ENG_016	per:other_family	lsv	NIL
+SF13_ENG_016	per:parents	lsv	NIL
+SF13_ENG_016	per:schools_attended	lsv	NIL
+SF13_ENG_016	per:siblings	lsv	NIL
+SF13_ENG_016	per:spouse	lsv	APW_ENG_20100526.0037	Brenna Gray	602-612	589-592	589-625	0.8853
+SF13_ENG_016	per:spouse	lsv	APW_ENG_20100526.0071	Brenna	680-685	658-661	570-727	0.7606
+SF13_ENG_016	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_016	per:title	lsv	APW_ENG_20100526.0071	bassist	264-270	272-280	193-362	0.4848
+SF13_ENG_016	per:title	lsv	AFP_ENG_20100525.0093	star	231-234	236-244	175-318	0.4809
+SF13_ENG_016	per:title	lsv	NYT_ENG_20100513.0011	painting	3764-3771	3743-3746	3663-3977	0.1204
+SF13_ENG_016	per:title	lsv	eng-NG-31-105230-11939091	Chairman	6256-6263	6265-6273	6118-6274	0.4595
+SF13_ENG_016	per:title	lsv	APW_ENG_20100525.0070	singer	3537-3542	3452-3455	3414-3629	1.0000
+SF13_ENG_016	per:title	lsv	NYT_ENG_20100720.0143	president	3617-3625	3602-3610	3602-3753	0.5087
+SF13_ENG_016	per:title	lsv	bolt-eng-DF-170-181122-15800354	captain	29899-29905	29886-29889	29684-29944	0.0479
+SF13_ENG_017	per:cause_of_death	lsv	WPB_ENG_20100220.0001	infection	478-486	239-252	221-487	0.3735
+SF13_ENG_017	per:city_of_death	lsv	AFP_ENG_20100220.0076	Baltimore	459-467	424-427	424-488	0.2018
+SF13_ENG_017	per:country_of_birth	lsv	NIL
+SF13_ENG_017	per:country_of_death	lsv	NIL
+SF13_ENG_017	per:date_of_death	lsv	XIN_ENG_20100220.0115	Saturday	227-234	204-217	175-253	1.0000
+SF13_ENG_017	per:stateorprovince_of_death	lsv	AFP_ENG_20100220.0261	Maryland	470-477	424-427	424-488	0.1711
+SF13_ENG_017	per:alternate_names	lsv	NIL
+SF13_ENG_017	per:charges	lsv	NIL
+SF13_ENG_017	per:children	lsv	NIL
+SF13_ENG_017	per:cities_of_residence	lsv	APW_ENG_20101224.0033	Baltimore	2480-2488	2337-2350	2335-2525	0.2763
+SF13_ENG_017	per:countries_of_residence	lsv	NIL
+SF13_ENG_017	per:employee_or_member_of	lsv	WPB_ENG_20100220.0001	United Technologies	8536-8554	8514-8517	8514-8657	0.0530
+SF13_ENG_017	per:employee_or_member_of	lsv	eng-NG-31-142889-8744726	National Security Advisor Zbigniew Brzezinski	4354-4398	4447-4460	4099-4704	0.1337
+SF13_ENG_017	per:employee_or_member_of	lsv	eng-NG-31-126273-9129927	Defense	14084-14090	13996-13999	13996-14159	0.3108
+SF13_ENG_017	per:employee_or_member_of	lsv	NYT_ENG_20100220.0106	Loyola University Maryland	6603-6628	6309-6312	6309-6642	0.0627
+SF13_ENG_017	per:employee_or_member_of	lsv	eng-NG-31-126841-9161485	Halliburton Corp.	12027-12043	11864-11877	11742-12208	0.1673
+SF13_ENG_017	per:employee_or_member_of	lsv	eng-NG-31-126273-9129927	Army	14052-14055	13996-13999	13996-14159	0.1921
+SF13_ENG_017	per:employee_or_member_of	lsv	eng-NG-31-126273-9129927	CFR	14023-14025	13996-13999	13996-14159	0.4948
+SF13_ENG_017	per:employee_or_member_of	lsv	XIN_ENG_20100220.0115	US	182-183	204-217	175-253	0.1719
+SF13_ENG_017	per:employee_or_member_of	lsv	WPB_ENG_20100220.0001	State Department	11737-11752	11625-11628	11596-11778	0.2836
+SF13_ENG_017	per:origin	lsv	eng-NG-31-142161-8691323	Cuba	10875-10878	10717-10730	10611-10898	0.0815
+SF13_ENG_017	per:other_family	lsv	NIL
+SF13_ENG_017	per:parents	lsv	NIL
+SF13_ENG_017	per:schools_attended	lsv	AFP_ENG_20100220.0076	US Army	2103-2109	2085-2088	2085-2236	1.0000
+SF13_ENG_017	per:schools_attended	lsv	eng-NG-31-126273-9129926	U. S. Military Academy	8939-8960	8881-8897	8640-8993	0.2260
+SF13_ENG_017	per:siblings	lsv	APW_ENG_20100221.0007	Barbara	8673-8679	8587-8590	8587-8744	0.0040
+SF13_ENG_017	per:spouse	lsv	NIL
+SF13_ENG_017	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_017	per:title	lsv	eng-NG-31-126273-9129926	Deputy Secretary	17228-17243	16988-17001	16906-17305	0.3387
+SF13_ENG_017	per:title	lsv	eng-NG-31-151724-10662118	CEO	10963-10965	10813-10826	10693-11154	0.3814
+SF13_ENG_017	per:title	lsv	NYT_ENG_20100220.0052	vicar	3655-3659	3628-3631	3606-3828	0.0242
+SF13_ENG_017	per:title	lsv	APW_ENG_20100221.0007	public servant	1037-1050	1015-1018	984-1159	0.8901
+SF13_ENG_017	per:title	lsv	bolt-eng-DF-170-181125-9108103	carrier	134214-134220	134118-134131	134066-134364	0.5438
+SF13_ENG_017	per:title	lsv	APW_ENG_20100221.0007	soldier	3024-3030	2956-2969	2955-3065	0.1725
+SF13_ENG_017	per:title	lsv	AFP_ENG_20100220.0225	Secretary	1250-1258	1260-1263	1156-1285	0.8225
+SF13_ENG_017	per:title	lsv	NYT_ENG_20100220.0106	professor emeritus	6570-6587	6309-6312	6309-6642	0.7010
+SF13_ENG_017	per:title	lsv	eng-NG-31-142283-10041336	General	6648-6654	6656-6669	6648-6898	0.9288
+SF13_ENG_017	per:title	lsv	NYT_ENG_20100220.0052	spokesman	5079-5087	5017-5020	5017-5113	0.6723
+SF13_ENG_017	per:title	lsv	APW_ENG_20100221.0007	president	6022-6030	5899-5902	5899-6111	0.9170
+SF13_ENG_017	per:title	lsv	APW_ENG_20100221.0007	colonel	3518-3524	3502-3505	3460-3642	0.7810
+SF13_ENG_017	per:title	lsv	APW_ENG_20100221.0007	commander in chief	5671-5688	5563-5566	5532-5801	0.3244
+SF13_ENG_017	per:title	lsv	NYT_ENG_20100220.0106	Lieutenant	8172-8181	8183-8186	8161-8379	0.8809
+SF13_ENG_017	per:title	lsv	NYT_ENG_20100220.0052	assistant	8231-8239	8208-8211	8194-8294	0.7204
+SF13_ENG_017	per:title	lsv	AFP_ENG_20100220.0185	commander	93-101	103-106	58-106	0.9610
+SF13_ENG_017	per:title	lsv	eng-NG-31-151724-8810314	lobbyist	10872-10879	10812-10825	10692-11153	0.4893
+SF13_ENG_017	per:title	lsv	WPB_ENG_20100220.0001	chief of staff	7726-7739	7696-7699	7696-7796	0.7837
+SF13_ENG_017	per:title	lsv	AFP_ENG_20100220.0076	visionary	3931-3939	3872-3875	3835-3941	0.3425
+SF13_ENG_017	per:title	lsv	AFP_ENG_20100220.0185	secretary of state	238-255	257-270	183-321	0.8227
+SF13_ENG_017	per:title	lsv	bolt-eng-DF-199-192783-6865170	staff	188171-188175	188177-188190	188162-188256	0.8422
+SF13_ENG_017	per:title	lsv	AFP_ENG_20100220.0161	supreme allied commander	1338-1361	1237-1240	1237-1414	0.6258
+SF13_ENG_018	per:cause_of_death	lsv	NYT_ENG_20100901.0034	prostate cancer	3449-3463	3358-3362	3317-3489	0.4661
+SF13_ENG_018	per:city_of_death	lsv	NYT_ENG_20100712.0143	Cleveland Heights	421-437	138-149	138-444	0.6171
+SF13_ENG_018	per:country_of_death	lsv	NIL
+SF13_ENG_018	per:date_of_death	lsv	WPB_ENG_20100713.0032	Monday	2417-2422	2393-2404	2314-2433	1.0000
+SF13_ENG_018	per:religion	lsv	NYT_ENG_20100712.0143	Jewish	2342-2347	2277-2281	2261-2405	1.0000
+SF13_ENG_018	per:stateorprovince_of_death	lsv	APW_ENG_20100712.0726	Ohio	316-319	199-210	181-325	0.3784
+SF13_ENG_018	per:alternate_names	lsv	NIL
+SF13_ENG_018	per:charges	lsv	NIL
+SF13_ENG_018	per:children	lsv	NIL
+SF13_ENG_018	per:cities_of_residence	lsv	NYT_ENG_20100905.0022	Cleveland	11607-11615	11577-11581	11531-11684	0.9554
+SF13_ENG_018	per:countries_of_residence	lsv	NIL
+SF13_ENG_018	per:employee_or_member_of	lsv	NIL
+SF13_ENG_018	per:origin	lsv	NIL
+SF13_ENG_018	per:other_family	lsv	NIL
+SF13_ENG_018	per:parents	lsv	NIL
+SF13_ENG_018	per:schools_attended	lsv	NYT_ENG_20100712.0143	VA	5193-5194	5033-5037	4997-5204	0.1284
+SF13_ENG_018	per:schools_attended	lsv	WPB_ENG_20100713.0035	Case Western Reserve University	3270-3300	3243-3247	3243-3449	0.0474
+SF13_ENG_018	per:siblings	lsv	NIL
+SF13_ENG_018	per:spouse	lsv	NIL
+SF13_ENG_018	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_018	per:title	lsv	NYT_ENG_20100712.0143	worker	5179-5184	5033-5037	4997-5204	0.6188
+SF13_ENG_018	per:title	lsv	NYT_ENG_20100712.0143	artist	1411-1416	1434-1438	1319-1492	0.6016
+SF13_ENG_018	per:title	lsv	NYT_ENG_20100905.0022	clerk	2240-2244	2217-2221	2188-2472	0.7378
+SF13_ENG_018	per:title	lsv	NYT_ENG_20100819.0062	cartoonist	1991-2000	2002-2013	1908-2014	0.7791
+SF13_ENG_018	per:title	lsv	NYT_ENG_20100901.0034	graphic artist	3037-3050	3052-3063	2989-3074	0.7286
+SF13_ENG_018	per:title	lsv	NYT_ENG_20090901.0220	writer	1629-1634	1636-1647	1614-1768	0.8491
+SF13_ENG_018	per:title	lsv	NYT_ENG_20100905.0022	nurse	3673-3677	3679-3683	3541-3826	0.7663
+SF13_ENG_018	per:title	lsv	WPB_ENG_20100713.0035	teacher	4642-4648	4591-4595	4584-4668	0.1140
+SF13_ENG_018	per:title	lsv	WPB_ENG_20100713.0035	manufacturer	2568-2579	2482-2486	2437-2603	1.0000
+SF13_ENG_019	per:age	lsv	NIL
+SF13_ENG_019	per:cause_of_death	lsv	AFP_ENG_20100729.0049	natural causes	310-323	208-220	208-346	0.0823
+SF13_ENG_019	per:city_of_death	lsv	NYT_ENG_20100420.0165	Salt Lake City	228-241	175-187	148-293	0.1048
+SF13_ENG_019	per:country_of_birth	lsv	NIL
+SF13_ENG_019	per:country_of_death	lsv	NIL
+SF13_ENG_019	per:date_of_death	lsv	NIL
+SF13_ENG_019	per:religion	lsv	NIL
+SF13_ENG_019	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_019	per:alternate_names	lsv	NIL
+SF13_ENG_019	per:charges	lsv	NIL
+SF13_ENG_019	per:children	lsv	NIL
+SF13_ENG_019	per:cities_of_residence	lsv	AFP_ENG_20100420.0022	Salt Lake City	415-428	443-450	383-519	0.5704
+SF13_ENG_019	per:countries_of_residence	lsv	NIL
+SF13_ENG_019	per:employee_or_member_of	lsv	NIL
+SF13_ENG_019	per:origin	lsv	NIL
+SF13_ENG_019	per:other_family	lsv	NIL
+SF13_ENG_019	per:parents	lsv	NYT_ENG_20100420.0165	Brian	4789-4793	4720-4727	4720-4832	0.0626
+SF13_ENG_019	per:schools_attended	lsv	NIL
+SF13_ENG_019	per:siblings	lsv	NIL
+SF13_ENG_019	per:spouse	lsv	NYT_ENG_20100420.0040	Lori	919-922	902-909	865-1044	0.8663
+SF13_ENG_019	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_019	per:title	lsv	NYT_ENG_20100420.0165	tight end	2233-2241	2196-2203	2196-2312	0.7807
+SF13_ENG_019	per:title	lsv	NYT_ENG_20100313.0128	scouting	1468-1475	1648-1660	1419-1706	0.4154
+SF13_ENG_019	per:title	lsv	bolt-eng-DF-212-191668-3063442	president	1659-1667	1669-1681	1585-1687	1.0000
+SF13_ENG_020	per:age	lsv	LTW_ENG_20091129.0048	52	95-96	82-92	58-102	1.0000
+SF13_ENG_020	per:cause_of_death	lsv	NIL
+SF13_ENG_020	per:city_of_birth	lsv	LTW_ENG_20091129.0047	Anaheim	2122-2128	2037-2042	2037-2153	1.0000
+SF13_ENG_020	per:city_of_death	lsv	NIL
+SF13_ENG_020	per:country_of_birth	lsv	NIL
+SF13_ENG_020	per:country_of_death	lsv	NIL
+SF13_ENG_020	per:date_of_birth	lsv	NIL
+SF13_ENG_020	per:date_of_death	lsv	NIL
+SF13_ENG_020	per:religion	lsv	NIL
+SF13_ENG_020	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_020	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_020	per:alternate_names	lsv	NIL
+SF13_ENG_020	per:charges	lsv	NIL
+SF13_ENG_020	per:children	lsv	NIL
+SF13_ENG_020	per:cities_of_residence	lsv	NIL
+SF13_ENG_020	per:countries_of_residence	lsv	NIL
+SF13_ENG_020	per:employee_or_member_of	lsv	NIL
+SF13_ENG_020	per:origin	lsv	NIL
+SF13_ENG_020	per:other_family	lsv	NIL
+SF13_ENG_020	per:parents	lsv	NIL
+SF13_ENG_020	per:schools_attended	lsv	LTW_ENG_20091129.0047	Western High School	2099-2117	2037-2042	2037-2153	0.5217
+SF13_ENG_020	per:siblings	lsv	LTW_ENG_20091129.0048	John	3569-3572	3534-3539	3534-3655	0.4623
+SF13_ENG_020	per:spouse	lsv	NIL
+SF13_ENG_020	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_020	per:title	lsv	eng-NG-31-126851-9167943	writer	470-475	430-446	430-541	1.0000
+SF13_ENG_020	per:title	lsv	LTW_ENG_20091129.0048	Sportswriter	69-80	82-92	58-102	0.6479
+SF13_ENG_020	per:title	lsv	APW_ENG_20091128.0625	columnist	749-757	711-721	673-783	0.1217
+SF13_ENG_020	per:title	lsv	LTW_ENG_20091129.0047	copy editor	3578-3588	3535-3540	3535-3656	0.1992
+SF13_ENG_021	per:age	lsv	NIL
+SF13_ENG_021	per:cause_of_death	lsv	NIL
+SF13_ENG_021	per:city_of_birth	lsv	NIL
+SF13_ENG_021	per:city_of_death	lsv	NIL
+SF13_ENG_021	per:country_of_birth	lsv	NIL
+SF13_ENG_021	per:country_of_death	lsv	NIL
+SF13_ENG_021	per:date_of_birth	lsv	NIL
+SF13_ENG_021	per:date_of_death	lsv	NIL
+SF13_ENG_021	per:religion	lsv	NIL
+SF13_ENG_021	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_021	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_021	per:alternate_names	lsv	NIL
+SF13_ENG_021	per:charges	lsv	NIL
+SF13_ENG_021	per:children	lsv	NIL
+SF13_ENG_021	per:cities_of_residence	lsv	NIL
+SF13_ENG_021	per:countries_of_residence	lsv	NIL
+SF13_ENG_021	per:employee_or_member_of	lsv	NIL
+SF13_ENG_021	per:origin	lsv	NIL
+SF13_ENG_021	per:other_family	lsv	NIL
+SF13_ENG_021	per:parents	lsv	NIL
+SF13_ENG_021	per:schools_attended	lsv	NIL
+SF13_ENG_021	per:siblings	lsv	NIL
+SF13_ENG_021	per:spouse	lsv	NIL
+SF13_ENG_021	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_021	per:title	lsv	APW_ENG_20100921.0712	spokeswoman	1826-1836	1623-1631	1623-1850	1.0000
+SF13_ENG_022	per:age	lsv	NIL
+SF13_ENG_022	per:cause_of_death	lsv	NIL
+SF13_ENG_022	per:city_of_birth	lsv	XIN_ENG_20100520.0288	Bayonne	441-447	323-342	323-481	0.0148
+SF13_ENG_022	per:city_of_death	lsv	NIL
+SF13_ENG_022	per:country_of_birth	lsv	NIL
+SF13_ENG_022	per:country_of_death	lsv	NIL
+SF13_ENG_022	per:date_of_birth	lsv	NIL
+SF13_ENG_022	per:date_of_death	lsv	NIL
+SF13_ENG_022	per:religion	lsv	NIL
+SF13_ENG_022	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_022	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_022	per:alternate_names	lsv	NIL
+SF13_ENG_022	per:charges	lsv	NIL
+SF13_ENG_022	per:children	lsv	NIL
+SF13_ENG_022	per:cities_of_residence	lsv	NIL
+SF13_ENG_022	per:countries_of_residence	lsv	AFP_ENG_20100524.0080	France	1254-1259	1179-1184	1179-1349	0.2675
+SF13_ENG_022	per:employee_or_member_of	lsv	NIL
+SF13_ENG_022	per:origin	lsv	NIL
+SF13_ENG_022	per:other_family	lsv	NIL
+SF13_ENG_022	per:parents	lsv	NIL
+SF13_ENG_022	per:schools_attended	lsv	NIL
+SF13_ENG_022	per:siblings	lsv	NIL
+SF13_ENG_022	per:spouse	lsv	NIL
+SF13_ENG_022	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_022	per:title	lsv	AFP_ENG_20100520.0465	commander	290-298	238-257	188-355	0.7480
+SF13_ENG_023	per:cause_of_death	lsv	NIL
+SF13_ENG_023	per:city_of_death	lsv	NIL
+SF13_ENG_023	per:country_of_death	lsv	NIL
+SF13_ENG_023	per:date_of_death	lsv	NIL
+SF13_ENG_023	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_023	per:alternate_names	lsv	NIL
+SF13_ENG_023	per:charges	lsv	LTW_ENG_20091014.0112	felony	3788-3793	3762-3766	3727-3857	0.7903
+SF13_ENG_023	per:charges	lsv	NYT_ENG_20100106.0144	embezzlement	1034-1045	986-997	980-1171	0.5216
+SF13_ENG_023	per:charges	lsv	LTW_ENG_20091014.0112	misdemeanor	3800-3810	3762-3766	3727-3857	0.0641
+SF13_ENG_023	per:children	lsv	NIL
+SF13_ENG_023	per:cities_of_residence	lsv	eng-NG-31-143594-10250753	Baltimore City	677-690	698-709	653-817	0.6806
+SF13_ENG_023	per:countries_of_residence	lsv	NIL
+SF13_ENG_023	per:employee_or_member_of	lsv	NYT_ENG_20091201.0119	University of Maryland	4522-4543	4405-4416	4375-4544	0.3554
+SF13_ENG_023	per:origin	lsv	NIL
+SF13_ENG_023	per:other_family	lsv	NIL
+SF13_ENG_023	per:parents	lsv	NIL
+SF13_ENG_023	per:schools_attended	lsv	eng-NG-31-143594-10248883	PM	9389-9390	9247-9258	9241-9391	0.0287
+SF13_ENG_023	per:siblings	lsv	NIL
+SF13_ENG_023	per:spouse	lsv	NIL
+SF13_ENG_023	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_023	per:title	lsv	NYT_ENG_20091201.0119	law professor	4501-4513	4405-4416	4375-4544	0.2498
+SF13_ENG_023	per:title	lsv	NYT_ENG_20091109.0061	school teacher	4111-4124	4088-4092	4088-4157	0.3915
+SF13_ENG_023	per:title	lsv	bolt-eng-DF-170-181122-8793434	developer	18955-18963	18875-18886	18859-19055	0.2117
+SF13_ENG_023	per:title	lsv	APW_ENG_20090819.1082	Mayor	2333-2337	2339-2350	2333-2539	1.0000
+SF13_ENG_023	per:title	lsv	NYT_ENG_20091201.0119	lobbyist	4189-4196	4131-4135	4100-4364	0.3495
+SF13_ENG_024	per:age	lsv	NIL
+SF13_ENG_024	per:cause_of_death	lsv	NIL
+SF13_ENG_024	per:city_of_birth	lsv	NIL
+SF13_ENG_024	per:city_of_death	lsv	NIL
+SF13_ENG_024	per:country_of_birth	lsv	NIL
+SF13_ENG_024	per:country_of_death	lsv	NIL
+SF13_ENG_024	per:date_of_birth	lsv	NIL
+SF13_ENG_024	per:date_of_death	lsv	NIL
+SF13_ENG_024	per:religion	lsv	NIL
+SF13_ENG_024	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_024	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_024	per:alternate_names	lsv	NIL
+SF13_ENG_024	per:charges	lsv	NIL
+SF13_ENG_024	per:children	lsv	NIL
+SF13_ENG_024	per:cities_of_residence	lsv	NIL
+SF13_ENG_024	per:countries_of_residence	lsv	NIL
+SF13_ENG_024	per:employee_or_member_of	lsv	NIL
+SF13_ENG_024	per:origin	lsv	NIL
+SF13_ENG_024	per:other_family	lsv	NIL
+SF13_ENG_024	per:parents	lsv	NIL
+SF13_ENG_024	per:schools_attended	lsv	NIL
+SF13_ENG_024	per:siblings	lsv	NIL
+SF13_ENG_024	per:spouse	lsv	NIL
+SF13_ENG_024	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_024	per:title	lsv	APW_ENG_20090623.0835	dentist	1042-1048	969-974	969-1187	0.9507
+SF13_ENG_025	per:age	lsv	NIL
+SF13_ENG_025	per:cause_of_death	lsv	NIL
+SF13_ENG_025	per:city_of_birth	lsv	APW_ENG_20100211.0214	Adrian	2219-2224	2200-2205	2200-2281	1.0000
+SF13_ENG_025	per:city_of_death	lsv	NIL
+SF13_ENG_025	per:country_of_birth	lsv	AFP_ENG_20101101.0408	Hong Kong	58-66	99-104	58-109	0.9782
+SF13_ENG_025	per:country_of_death	lsv	NIL
+SF13_ENG_025	per:date_of_birth	lsv	NIL
+SF13_ENG_025	per:date_of_death	lsv	NIL
+SF13_ENG_025	per:religion	lsv	NIL
+SF13_ENG_025	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_025	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_025	per:alternate_names	lsv	NIL
+SF13_ENG_025	per:charges	lsv	APW_ENG_20101101.0169	murder	415-420	385-396	385-546	1.0000
+SF13_ENG_025	per:children	lsv	NIL
+SF13_ENG_025	per:cities_of_residence	lsv	APW_ENG_20100112.0294	Minneapolis	2654-2664	2584-2589	2584-2665	0.4545
+SF13_ENG_025	per:cities_of_residence	lsv	APW_ENG_20100112.0447	Adrian	2806-2811	2787-2792	2787-2868	0.9910
+SF13_ENG_025	per:countries_of_residence	lsv	APW_ENG_20100211.0481	Hong Kong	453-461	532-543	453-605	0.0328
+SF13_ENG_025	per:employee_or_member_of	lsv	NIL
+SF13_ENG_025	per:origin	lsv	AFP_ENG_20100902.0223	Hong Kong	592-600	437-449	391-626	0.2275
+SF13_ENG_025	per:other_family	lsv	NIL
+SF13_ENG_025	per:parents	lsv	APW_ENG_20100112.0447	Jean McGlothlin	1833-1847	1816-1821	1753-1864	1.0000
+SF13_ENG_025	per:parents	lsv	AFP_ENG_20100112.0679	Jean McGothlin	1814-1827	1798-1803	1723-1837	0.5425
+SF13_ENG_025	per:parents	lsv	AFP_ENG_20100112.0512	Ira Keeshin	1864-1874	1848-1853	1848-1931	0.9002
+SF13_ENG_025	per:schools_attended	lsv	AFP_ENG_20100902.0223	High Court	1172-1181	1216-1221	1167-1307	0.0147
+SF13_ENG_025	per:siblings	lsv	APW_ENG_20101216.0760	Robert	2987-2992	2969-2974	2969-3115	0.9638
+SF13_ENG_025	per:siblings	lsv	APW_ENG_20100211.0481	Andrew Kissel	4307-4319	4282-4294	4282-4350	1.0000
+SF13_ENG_025	per:spouse	lsv	APW_ENG_20101216.0760	Nancy	3148-3152	3126-3138	3126-3380	0.8663
+SF13_ENG_025	per:spouse	lsv	APW_ENG_20100303.0204	Robert	1288-1293	1251-1256	1226-1430	0.0902
+SF13_ENG_025	per:statesorprovinces_of_residence	lsv	APW_ENG_20100211.0683	Michigan	1330-1337	1300-1305	1300-1460	0.2598
+SF13_ENG_025	per:statesorprovinces_of_residence	lsv	APW_ENG_20100211.0481	Vermont	4031-4037	3904-3915	3904-4038	0.1902
+SF13_ENG_025	per:title	lsv	eng-NG-31-104877-8883320	writer	9935-9940	9942-9954	9922-10072	0.6684
+SF13_ENG_025	per:title	lsv	APW_ENG_20100112.0294	investment banker	2310-2326	2251-2256	2251-2421	1.0000
+SF13_ENG_025	per:title	lsv	APW_ENG_20100211.1034	electrician	1943-1953	1886-1897	1886-2006	0.3243
+SF13_ENG_025	per:title	lsv	APW_ENG_20101216.0760	banker	3009-3014	2969-2974	2969-3115	0.1264
+SF13_ENG_026	per:cause_of_death	lsv	XIN_ENG_20100808.0131	lung cancer	230-240	204-216	182-300	1.0000
+SF13_ENG_026	per:city_of_death	lsv	APW_ENG_20100809.0107	Edgartown	427-435	382-385	382-518	1.0000
+SF13_ENG_026	per:country_of_death	lsv	NIL
+SF13_ENG_026	per:date_of_death	lsv	NIL
+SF13_ENG_026	per:religion	lsv	NIL
+SF13_ENG_026	per:stateorprovince_of_death	lsv	APW_ENG_20100809.0084	Tennessee .	470-479	332-335	332-479	1.0000
+SF13_ENG_026	per:alternate_names	lsv	NIL
+SF13_ENG_026	per:charges	lsv	NIL
+SF13_ENG_026	per:children	lsv	NYT_ENG_20100809.0006	Dahl	8453-8456	8411-8414	8373-8524	0.8498
+SF13_ENG_026	per:cities_of_residence	lsv	NYT_ENG_20100809.0006	Packard	4689-4695	4648-4651	4638-4809	0.2937
+SF13_ENG_026	per:cities_of_residence	lsv	NYT_ENG_20100809.0006	Knoxville	4830-4838	4811-4814	4811-5014	1.0000
+SF13_ENG_026	per:countries_of_residence	lsv	NIL
+SF13_ENG_026	per:employee_or_member_of	lsv	NIL
+SF13_ENG_026	per:origin	lsv	NIL
+SF13_ENG_026	per:other_family	lsv	NIL
+SF13_ENG_026	per:parents	lsv	APW_ENG_20100809.0131	Paul Newman	890-900	715-718	715-902	0.3514
+SF13_ENG_026	per:schools_attended	lsv	NIL
+SF13_ENG_026	per:siblings	lsv	NIL
+SF13_ENG_026	per:spouse	lsv	NIL
+SF13_ENG_026	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_026	per:title	lsv	WPB_ENG_20100809.0015	casting	3002-3008	3010-3013	2930-3057	0.7088
+SF13_ENG_026	per:title	lsv	NYT_ENG_20100809.0006	manager	4731-4737	4648-4651	4638-4809	0.1885
+SF13_ENG_026	per:title	lsv	APW_ENG_20100809.0284	writer	5233-5238	5158-5161	5152-5239	0.0617
+SF13_ENG_026	per:title	lsv	AFP_ENG_20100328.0475	spokeswoman	2880-2890	2892-2904	2872-2968	0.6610
+SF13_ENG_026	per:title	lsv	WPB_ENG_20100809.0015	Star	86-89	57-69	57-104	0.2319
+SF13_ENG_026	per:title	lsv	AFP_ENG_20100809.0118	associate	377-385	187-199	176-406	0.2147
+SF13_ENG_026	per:title	lsv	WPB_ENG_20100809.0027	actress	2921-2927	2881-2893	2869-3196	1.0000
+SF13_ENG_026	per:title	lsv	WPB_ENG_20100809.0015	housekeeper	1384-1394	1323-1326	1323-1455	0.8474
+SF13_ENG_026	per:title	lsv	APW_ENG_20101112.0041	reporter	1236-1243	1178-1190	1178-1313	0.0959
+SF13_ENG_026	per:title	lsv	WPB_ENG_20100809.0015	columnist	4743-4751	4705-4708	4568-4846	0.2472
+SF13_ENG_027	per:age	lsv	APW_ENG_20091218.0276	59	3550-3551	3529-3547	3527-3607	1.0000
+SF13_ENG_027	per:cause_of_death	lsv	eng-WL-11-99173-12235963	lung cancer	3026-3036	2998-3016	2946-3045	1.0000
+SF13_ENG_027	per:city_of_death	lsv	XIN_ENG_20090827.0007	Tehran	250-255	308-326	250-378	0.5519
+SF13_ENG_027	per:country_of_death	lsv	XIN_ENG_20091018.0014	Iran	1853-1856	1806-1824	1586-1900	0.2398
+SF13_ENG_027	per:date_of_death	lsv	XIN_ENG_20090829.0006	Wednesday	881-889	849-867	680-960	1.0000
+SF13_ENG_027	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_027	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_027	per:alternate_names	lsv	NIL
+SF13_ENG_027	per:charges	lsv	NIL
+SF13_ENG_027	per:children	lsv	NYT_ENG_20090705.0106	Amar al-Hakim	5684-5696	5730-5748	5614-5775	0.0975
+SF13_ENG_027	per:children	lsv	NYT_ENG_20090826.0100	Ammar al-Hakim	3311-3324	3295-3302	3295-3381	1.0000
+SF13_ENG_027	per:children	lsv	XIN_ENG_20090930.0009	Ammar Abdul Aziz al-Hakim	5938-5962	5988-5995	5795-6090	0.8525
+SF13_ENG_027	per:children	lsv	XIN_ENG_20091018.0014	Hakim	1774-1778	1806-1824	1586-1900	0.3621
+SF13_ENG_027	per:children	lsv	XIN_ENG_20091018.0014	Ammar	1764-1768	1806-1824	1586-1900	0.0317
+SF13_ENG_027	per:cities_of_residence	lsv	APW_ENG_20090826.1064	Houston	2018-2024	1810-1817	1810-2025	0.2038
+SF13_ENG_027	per:cities_of_residence	lsv	XIN_ENG_20090829.0003	Najaf	879-883	817-835	786-935	0.4771
+SF13_ENG_027	per:countries_of_residence	lsv	NIL
+SF13_ENG_027	per:employee_or_member_of	lsv	eng-NG-31-141913-9976574	Supreme Council	3790-3804	3755-3773	3665-3805	0.8854
+SF13_ENG_027	per:employee_or_member_of	lsv	eng-NG-31-141913-9976614	Badr Organization	9219-9235	9258-9276	9215-9369	0.1984
+SF13_ENG_027	per:employee_or_member_of	lsv	APW_ENG_20090827.0324	Iraqi Shiite	267-278	287-305	185-445	0.4732
+SF13_ENG_027	per:employee_or_member_of	lsv	bolt-eng-DF-170-181125-9110060	Supreme Islamic Iraq Council	7757-7784	7722-7740	7611-7801	1.0000
+SF13_ENG_027	per:employee_or_member_of	lsv	eng-NG-31-141959-9982309	Islamic Supreme Council of Iraq	6874-6904	6839-6857	6839-7191	0.6455
+SF13_ENG_027	per:employee_or_member_of	lsv	bolt-eng-DF-199-192783-6852679	Supreme Council for Islamic	15624-15650	15684-15702	15620-15789	0.0962
+SF13_ENG_027	per:employee_or_member_of	lsv	APW_ENG_20090827.0722	Iraqi Shiite Muslim	258-276	285-303	189-468	0.4848
+SF13_ENG_027	per:employee_or_member_of	lsv	bolt-eng-DF-170-181125-9112982	White House	1559-1569	1486-1504	1469-1608	0.0172
+SF13_ENG_027	per:origin	lsv	eng-WL-11-99173-12235965	Iraq	21307-21310	21172-21190	20948-21330	0.0776
+SF13_ENG_027	per:other_family	lsv	NIL
+SF13_ENG_027	per:parents	lsv	APW_ENG_20090827.0324	Ayatollah Muhsin al-Hakim	2567-2591	2542-2549	2542-2658	0.8298
+SF13_ENG_027	per:schools_attended	lsv	APW_ENG_20090826.1064	University of Texas M.D. Anderson Cancer Center	1967-2013	1810-1817	1810-2025	0.0517
+SF13_ENG_027	per:siblings	lsv	APW_ENG_20090827.0324	Mohammed Baqir al-Hakim	2785-2807	2759-2766	2759-2851	0.5115
+SF13_ENG_027	per:siblings	lsv	bolt-eng-DF-212-191678-3087590	Mohammed Bakr	13310-13322	13280-13298	13247-13342	1.0000
+SF13_ENG_027	per:spouse	lsv	NIL
+SF13_ENG_027	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_027	per:title	lsv	APW_ENG_20090826.0981	player	1581-1586	1465-1472	1464-1680	0.7206
+SF13_ENG_027	per:title	lsv	XIN_ENG_20090827.0019	politician	296-305	307-325	182-366	0.7995
+SF13_ENG_027	per:title	lsv	XIN_ENG_20090827.0007	Chairman	299-306	308-326	250-378	0.6386
+SF13_ENG_027	per:title	lsv	XIN_ENG_20090608.0031	cleric	3135-3140	3142-3160	3055-3195	0.8079
+SF13_ENG_027	per:title	lsv	NYT_ENG_20090824.0123	founder	4529-4535	4504-4522	4444-4747	0.2246
+SF13_ENG_028	per:cause_of_death	lsv	NYT_ENG_20091011.0059	heart disease	6860-6872	6847-6850	6764-6914	1.0000
+SF13_ENG_028	per:city_of_death	lsv	NYT_ENG_20090628.0116	Tampa	317-321	130-139	130-338	0.8156
+SF13_ENG_028	per:country_of_birth	lsv	NIL
+SF13_ENG_028	per:country_of_death	lsv	NIL
+SF13_ENG_028	per:date_of_death	lsv	bolt-eng-DF-170-181122-8795314	today	186-190	170-179	170-191	1.0000
+SF13_ENG_028	per:religion	lsv	NIL
+SF13_ENG_028	per:stateorprovince_of_death	lsv	LTW_ENG_20090629.0043	Fla.	288-291	130-139	130-303	0.6417
+SF13_ENG_028	per:alternate_names	lsv	NIL
+SF13_ENG_028	per:charges	lsv	NIL
+SF13_ENG_028	per:children	lsv	NYT_ENG_20091015.0180	Billy Mays III	2515-2528	2504-2507	2477-2701	1.0000
+SF13_ENG_028	per:children	lsv	LTW_ENG_20090629.0058	Billy Mays Jr.	4073-4086	4023-4026	3998-4106	0.0839
+SF13_ENG_028	per:children	lsv	NYT_ENG_20090701.0160	Billy Mays III McAlister	1061-1085	973-976	851-1202	0.2824
+SF13_ENG_028	per:cities_of_residence	lsv	NYT_ENG_20090701.0156	Tampa	120-124	135-144	104-183	0.4475
+SF13_ENG_028	per:cities_of_residence	lsv	LTW_ENG_20090629.0043	Pittsburgh	2114-2123	2068-2071	2045-2168	0.6109
+SF13_ENG_028	per:countries_of_residence	lsv	NIL
+SF13_ENG_028	per:employee_or_member_of	lsv	NYT_ENG_20100415.0189	Universal American Mortgage Co.	1154-1184	1124-1133	1063-1255	0.1306
+SF13_ENG_028	per:origin	lsv	NIL
+SF13_ENG_028	per:other_family	lsv	NIL
+SF13_ENG_028	per:parents	lsv	NYT_ENG_20090701.0160	Deborah	1040-1046	1061-1070	851-1202	1.0000
+SF13_ENG_028	per:parents	lsv	NYT_ENG_20090628.0116	Elizabeth	2963-2971	2985-2994	2898-3025	0.0134
+SF13_ENG_028	per:schools_attended	lsv	NIL
+SF13_ENG_028	per:siblings	lsv	NIL
+SF13_ENG_028	per:spouse	lsv	bolt-eng-DF-170-181122-8795314	Deborah Mays	1872-1883	1860-1863	1860-1968	0.2934
+SF13_ENG_028	per:spouse	lsv	bolt-eng-DF-170-181122-8795314	Deborah	3882-3888	3870-3873	3748-3889	0.6514
+SF13_ENG_028	per:statesorprovinces_of_residence	lsv	NYT_ENG_20090807.0174	N.J .	2240-2243	2121-2124	2105-2243	0.2584
+SF13_ENG_028	per:title	lsv	NYT_ENG_20090715.0208	star	174-177	203-212	129-334	0.9715
+SF13_ENG_028	per:title	lsv	NYT_ENG_20100415.0189	loan officer	1138-1149	1124-1133	1063-1255	0.0549
+SF13_ENG_028	per:title	lsv	NYT_ENG_20090609.0163	pioneer	466-472	388-397	345-597	0.6612
+SF13_ENG_028	per:title	lsv	NYT_ENG_20090713.0157	king	1691-1694	1696-1705	1604-1774	0.9338
+SF13_ENG_028	per:title	lsv	LTW_ENG_20090710.0132	president	521-529	393-396	385-606	0.8559
+SF13_ENG_028	per:title	lsv	NYT_ENG_20090630.0175	pitchman	1798-1805	1807-1816	1738-1888	1.0000
+SF13_ENG_028	per:title	lsv	NYT_ENG_20091011.0059	elder	8071-8075	8077-8080	7959-8107	0.9278
+SF13_ENG_028	per:title	lsv	eng-NG-31-126855-12059382	spokesman	23370-23378	23359-23362	23359-23464	0.2861
+SF13_ENG_029	per:cause_of_death	lsv	APW_ENG_20100831.0390	battle	254-259	185-198	185-272	1.0000
+SF13_ENG_029	per:city_of_birth	lsv	WPB_ENG_20100901.0011	Paris	5069-5073	5050-5055	5034-5091	0.9932
+SF13_ENG_029	per:city_of_death	lsv	NIL
+SF13_ENG_029	per:country_of_birth	lsv	NIL
+SF13_ENG_029	per:country_of_death	lsv	NIL
+SF13_ENG_029	per:date_of_death	lsv	APW_ENG_20100901.0773	Tuesday	1387-1393	1359-1372	1294-1476	1.0000
+SF13_ENG_029	per:religion	lsv	NIL
+SF13_ENG_029	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_029	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_029	per:alternate_names	lsv	NIL
+SF13_ENG_029	per:charges	lsv	NIL
+SF13_ENG_029	per:children	lsv	NIL
+SF13_ENG_029	per:cities_of_residence	lsv	WPB_ENG_20100901.0011	Paris	5069-5073	5050-5055	5034-5091	0.8719
+SF13_ENG_029	per:countries_of_residence	lsv	NIL
+SF13_ENG_029	per:employee_or_member_of	lsv	APW_ENG_20090612.0720	Hinault	1992-1998	1969-1974	1938-2063	0.1573
+SF13_ENG_029	per:origin	lsv	APW_ENG_20100831.0565	France	1616-1621	1512-1517	1456-1642	0.2712
+SF13_ENG_029	per:other_family	lsv	NIL
+SF13_ENG_029	per:parents	lsv	NIL
+SF13_ENG_029	per:schools_attended	lsv	NIL
+SF13_ENG_029	per:siblings	lsv	NIL
+SF13_ENG_029	per:spouse	lsv	XIN_ENG_20100831.0328	Valerie Fignon	439-452	497-510	438-570	0.1310
+SF13_ENG_029	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_029	per:title	lsv	APW_ENG_20100831.0565	commentator	577-587	543-548	543-707	1.0000
+SF13_ENG_029	per:title	lsv	APW_ENG_20100831.0565	promoter	7078-7085	7046-7051	7024-7221	0.4296
+SF13_ENG_029	per:title	lsv	APW_ENG_20100831.0647	model	6385-6389	6318-6323	6245-6452	0.2970
+SF13_ENG_029	per:title	lsv	AFP_ENG_20100831.0199	cyclist	178-184	186-199	159-243	0.6270
+SF13_ENG_030	per:cause_of_death	lsv	NYT_ENG_20101106.0033	dementia	709-716	670-677	614-747	1.0000
+SF13_ENG_030	per:city_of_death	lsv	NYT_ENG_20101104.0186	Thousand Oaks	381-393	141-155	141-412	0.2679
+SF13_ENG_030	per:country_of_birth	lsv	NIL
+SF13_ENG_030	per:country_of_death	lsv	NIL
+SF13_ENG_030	per:date_of_death	lsv	NYT_ENG_20101105.0038	Thursday	1212-1219	1193-1200	1193-1312	1.0000
+SF13_ENG_030	per:religion	lsv	NIL
+SF13_ENG_030	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_030	per:alternate_names	lsv	NIL
+SF13_ENG_030	per:charges	lsv	NIL
+SF13_ENG_030	per:children	lsv	NYT_ENG_20101104.0186	Shirlee Englebrecht	6832-6850	6768-6775	6736-6875	0.4394
+SF13_ENG_030	per:children	lsv	NYT_ENG_20101104.0186	Albert	6810-6815	6768-6775	6736-6875	0.2099
+SF13_ENG_030	per:children	lsv	NYT_ENG_20101104.0186	Lee	6802-6804	6768-6775	6736-6875	0.1877
+SF13_ENG_030	per:cities_of_residence	lsv	NYT_ENG_20101104.0142	Detroit	1452-1458	1422-1429	1339-1499	0.5493
+SF13_ENG_030	per:countries_of_residence	lsv	NIL
+SF13_ENG_030	per:employee_or_member_of	lsv	NYT_ENG_20100724.0050	Pittsburgh Pirates	2300-2317	2332-2346	2239-2380	0.1130
+SF13_ENG_030	per:employee_or_member_of	lsv	NYT_ENG_20101104.0142	Tigers	120-125	135-149	113-209	1.0000
+SF13_ENG_030	per:origin	lsv	NIL
+SF13_ENG_030	per:other_family	lsv	NIL
+SF13_ENG_030	per:parents	lsv	NIL
+SF13_ENG_030	per:schools_attended	lsv	NIL
+SF13_ENG_030	per:siblings	lsv	NIL
+SF13_ENG_030	per:spouse	lsv	NIL
+SF13_ENG_030	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_030	per:title	lsv	APW_ENG_20101104.0749	player	1329-1334	1301-1308	1284-1386	0.0443
+SF13_ENG_030	per:title	lsv	eng-NG-31-133683-9578026	manager	15535-15541	15543-15557	15459-15558	1.0000
+SF13_ENG_030	per:title	lsv	APW_ENG_20101104.0749	spokesman	859-867	812-819	801-909	0.9137
+SF13_ENG_030	per:title	lsv	APW_ENG_20101104.0749	writer	882-887	812-819	801-909	0.6516
+SF13_ENG_030	per:title	lsv	NYT_ENG_20101104.0186	coach	4062-4066	4047-4054	4047-4110	0.6498
+SF13_ENG_030	per:title	lsv	NYT_ENG_20101105.0038	assistant	1684-1692	1720-1727	1634-1768	0.0688
+SF13_ENG_030	per:title	lsv	eng-NG-31-100641-11198717	baseball	643-650	652-667	609-709	0.8068
+SF13_ENG_030	per:title	lsv	eng-NG-31-140120-9865875	strongman	67852-67860	67740-67754	67734-67861	0.3090
+SF13_ENG_031	per:cause_of_death	lsv	APW_ENG_20101216.0735	pneumonia	424-432	389-395	389-452	1.0000
+SF13_ENG_031	per:city_of_death	lsv	WPB_ENG_20101216.0075	Santa Monica	545-556	285-297	285-575	0.4205
+SF13_ENG_031	per:country_of_birth	lsv	NIL
+SF13_ENG_031	per:country_of_death	lsv	NIL
+SF13_ENG_031	per:date_of_death	lsv	AFP_ENG_20101216.0039	Wednesday	378-386	360-366	360-529	1.0000
+SF13_ENG_031	per:religion	lsv	NIL
+SF13_ENG_031	per:stateorprovince_of_death	lsv	NYT_ENG_20101216.0084	Calif.	3806-3811	3643-3655	3617-3822	1.0000
+SF13_ENG_031	per:alternate_names	lsv	NIL
+SF13_ENG_031	per:charges	lsv	NIL
+SF13_ENG_031	per:children	lsv	APW_ENG_20101216.0735	Jennifer	8167-8174	8143-8149	8143-8235	0.7472
+SF13_ENG_031	per:cities_of_residence	lsv	APW_ENG_20101224.0081	Santa Monica	1945-1956	1746-1758	1744-2002	0.0800
+SF13_ENG_031	per:countries_of_residence	lsv	NIL
+SF13_ENG_031	per:employee_or_member_of	lsv	NIL
+SF13_ENG_031	per:origin	lsv	NIL
+SF13_ENG_031	per:other_family	lsv	NIL
+SF13_ENG_031	per:parents	lsv	NIL
+SF13_ENG_031	per:schools_attended	lsv	NIL
+SF13_ENG_031	per:siblings	lsv	NIL
+SF13_ENG_031	per:spouse	lsv	WPB_ENG_20101216.0075	Julie Andrews	1404-1416	1378-1384	1260-1417	0.6925
+SF13_ENG_031	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_031	per:title	lsv	NYT_ENG_20101216.0121	impersonator	1169-1180	1028-1034	999-1181	0.2003
+SF13_ENG_031	per:title	lsv	NYT_ENG_20101216.0121	count	1138-1142	1028-1034	999-1181	0.3271
+SF13_ENG_031	per:title	lsv	WPB_ENG_20101216.0075	interpreter	1826-1836	1810-1816	1773-1998	0.7099
+SF13_ENG_031	per:title	lsv	WPB_ENG_20101216.0075	courier	4854-4860	4807-4813	4785-4927	0.1052
+SF13_ENG_031	per:title	lsv	APW_ENG_20101216.0886	director	4070-4077	4045-4051	4035-4150	0.8705
+SF13_ENG_031	per:title	lsv	AFP_ENG_20101216.0039	stepson	1413-1419	1399-1405	1337-1453	0.0899
+SF13_ENG_031	per:title	lsv	APW_ENG_20101216.0966	writer	224-229	192-204	192-388	0.2532
+SF13_ENG_031	per:title	lsv	WPB_ENG_20101216.0075	producer	2454-2461	2352-2358	2352-2595	0.3543
+SF13_ENG_031	per:title	lsv	NYT_ENG_20101216.0121	president	8385-8393	8283-8289	8274-8415	0.4546
+SF13_ENG_031	per:title	lsv	WPB_ENG_20101216.0075	filmmaker	311-319	285-297	285-575	0.7821
+SF13_ENG_032	per:age	lsv	AFP_ENG_20101010.0265	87	371-372	355-368	308-404	0.9706
+SF13_ENG_032	per:cause_of_death	lsv	AFP_ENG_20101010.0278	natural causes	454-467	384-397	384-513	0.1228
+SF13_ENG_032	per:city_of_birth	lsv	AFP_ENG_20101013.0326	Daejeon	510-516	387-400	387-581	0.2608
+SF13_ENG_032	per:city_of_death	lsv	NIL
+SF13_ENG_032	per:country_of_birth	lsv	NIL
+SF13_ENG_032	per:country_of_death	lsv	NIL
+SF13_ENG_032	per:date_of_birth	lsv	NIL
+SF13_ENG_032	per:date_of_death	lsv	AFP_ENG_20101014.0265	Sunday aged 87	402-415	377-390	362-519	1.0000
+SF13_ENG_032	per:religion	lsv	NIL
+SF13_ENG_032	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_032	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_032	per:alternate_names	lsv	NIL
+SF13_ENG_032	per:charges	lsv	NIL
+SF13_ENG_032	per:children	lsv	NIL
+SF13_ENG_032	per:cities_of_residence	lsv	AFP_ENG_20101013.0326	Daejeon	510-516	387-400	387-581	0.7811
+SF13_ENG_032	per:countries_of_residence	lsv	NIL
+SF13_ENG_032	per:employee_or_member_of	lsv	NIL
+SF13_ENG_032	per:origin	lsv	NIL
+SF13_ENG_032	per:other_family	lsv	NIL
+SF13_ENG_032	per:parents	lsv	NIL
+SF13_ENG_032	per:schools_attended	lsv	NIL
+SF13_ENG_032	per:siblings	lsv	NIL
+SF13_ENG_032	per:spouse	lsv	NIL
+SF13_ENG_032	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_032	per:title	lsv	AFP_ENG_20100424.0382	architect	3630-3638	3610-3623	3610-3771	0.6174
+SF13_ENG_032	per:title	lsv	AFP_ENG_20100331.0025	secretary	427-435	402-415	402-554	0.7121
+SF13_ENG_033	per:cause_of_death	lsv	APW_ENG_20091109.0370	cardiac arrest	399-412	368-375	331-413	0.0785
+SF13_ENG_033	per:city_of_death	lsv	NIL
+SF13_ENG_033	per:country_of_death	lsv	NIL
+SF13_ENG_033	per:date_of_death	lsv	AFP_ENG_20091109.0443	late Sunday	791-801	777-784	749-839	1.0000
+SF13_ENG_033	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_033	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_033	per:alternate_names	lsv	NIL
+SF13_ENG_033	per:charges	lsv	NIL
+SF13_ENG_033	per:children	lsv	NIL
+SF13_ENG_033	per:cities_of_residence	lsv	APW_ENG_20091109.0464	Moscow	3341-3346	3275-3282	3275-3441	0.3087
+SF13_ENG_033	per:countries_of_residence	lsv	NIL
+SF13_ENG_033	per:employee_or_member_of	lsv	NIL
+SF13_ENG_033	per:origin	lsv	NIL
+SF13_ENG_033	per:other_family	lsv	NIL
+SF13_ENG_033	per:parents	lsv	NIL
+SF13_ENG_033	per:schools_attended	lsv	XIN_ENG_20091109.0294	Moscow State University	582-604	558-565	536-647	1.0000
+SF13_ENG_033	per:siblings	lsv	NIL
+SF13_ENG_033	per:spouse	lsv	NIL
+SF13_ENG_033	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_033	per:title	lsv	XIN_ENG_20091109.0294	astrophysicist	214-227	229-243	171-352	0.4986
+SF13_ENG_033	per:title	lsv	APW_ENG_20091109.0446	scientist	2740-2748	2710-2717	2693-2767	0.2034
+SF13_ENG_033	per:title	lsv	APW_ENG_20091109.0464	physicist	1387-1395	1368-1375	1326-1545	0.7450
+SF13_ENG_034	per:age	lsv	NIL
+SF13_ENG_034	per:cause_of_death	lsv	APW_ENG_20091116.1280	cancer	374-379	286-292	255-380	0.6007
+SF13_ENG_034	per:city_of_birth	lsv	NIL
+SF13_ENG_034	per:city_of_death	lsv	LTW_ENG_20091119.0064	Pacific Palisades	439-455	184-196	184-521	0.9361
+SF13_ENG_034	per:country_of_birth	lsv	NIL
+SF13_ENG_034	per:country_of_death	lsv	NIL
+SF13_ENG_034	per:date_of_birth	lsv	NYT_ENG_20091117.0047	1941-07-09	2063-2074	2033-2049	2033-2165	1.0000
+SF13_ENG_034	per:date_of_death	lsv	NYT_ENG_20100609.0050	last year	3934-3942	3910-3922	3876-4029	1.0000
+SF13_ENG_034	per:religion	lsv	NIL
+SF13_ENG_034	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_034	per:stateorprovince_of_death	lsv	LTW_ENG_20091119.0064	Calif.	458-463	184-196	184-521	0.2768
+SF13_ENG_034	per:alternate_names	lsv	NIL
+SF13_ENG_034	per:charges	lsv	NIL
+SF13_ENG_034	per:children	lsv	NIL
+SF13_ENG_034	per:cities_of_residence	lsv	NIL
+SF13_ENG_034	per:countries_of_residence	lsv	NIL
+SF13_ENG_034	per:employee_or_member_of	lsv	AFP_ENG_20091116.0010	National Thoroughbred Racing Association	561-600	437-449	436-601	0.7260
+SF13_ENG_034	per:origin	lsv	NIL
+SF13_ENG_034	per:other_family	lsv	NIL
+SF13_ENG_034	per:parents	lsv	NIL
+SF13_ENG_034	per:schools_attended	lsv	NIL
+SF13_ENG_034	per:siblings	lsv	NIL
+SF13_ENG_034	per:spouse	lsv	NIL
+SF13_ENG_034	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_034	per:title	lsv	NYT_ENG_20091117.0047	star	4741-4744	4730-4736	4691-4814	0.7129
+SF13_ENG_034	per:title	lsv	NYT_ENG_20100426.0149	trainer	2413-2419	2421-2433	2386-2498	1.0000
+SF13_ENG_034	per:title	lsv	AFP_ENG_20091116.0010	CEO	554-556	437-449	436-601	0.1522
+SF13_ENG_035	per:age	lsv	AFP_ENG_20100412.0529	dozens	2332-2337	2315-2329	2280-2416	0.3602
+SF13_ENG_035	per:cause_of_death	lsv	APW_ENG_20100417.0024	plane crash	519-529	492-506	422-622	1.0000
+SF13_ENG_035	per:city_of_birth	lsv	NIL
+SF13_ENG_035	per:city_of_death	lsv	AFP_ENG_20100411.0306	Smolensk	769-776	710-724	677-955	0.1666
+SF13_ENG_035	per:country_of_birth	lsv	NIL
+SF13_ENG_035	per:country_of_death	lsv	XIN_ENG_20100413.0363	Russia	1172-1177	1113-1127	1056-1215	0.2266
+SF13_ENG_035	per:date_of_birth	lsv	NIL
+SF13_ENG_035	per:date_of_death	lsv	AFP_ENG_20100411.0306	Saturday	742-749	710-724	677-955	0.6822
+SF13_ENG_035	per:religion	lsv	NIL
+SF13_ENG_035	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_035	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_035	per:alternate_names	lsv	NIL
+SF13_ENG_035	per:charges	lsv	NIL
+SF13_ENG_035	per:children	lsv	APW_ENG_20100413.0293	Marta	619-623	586-594	568-691	1.0000
+SF13_ENG_035	per:children	lsv	APW_ENG_20100413.0293	Jaroslaw Kaczynski	633-650	586-594	568-691	0.1959
+SF13_ENG_035	per:cities_of_residence	lsv	NIL
+SF13_ENG_035	per:countries_of_residence	lsv	NIL
+SF13_ENG_035	per:employee_or_member_of	lsv	NIL
+SF13_ENG_035	per:origin	lsv	NIL
+SF13_ENG_035	per:other_family	lsv	NIL
+SF13_ENG_035	per:parents	lsv	NIL
+SF13_ENG_035	per:schools_attended	lsv	NIL
+SF13_ENG_035	per:siblings	lsv	NIL
+SF13_ENG_035	per:spouse	lsv	AFP_ENG_20100412.0542	Kaczynski	644-652	668-682	636-804	0.4161
+SF13_ENG_035	per:spouse	lsv	XIN_ENG_20100410.0027	Lech Kaczynski	911-924	939-953	835-1092	1.0000
+SF13_ENG_035	per:spouse	lsv	AFP_ENG_20100413.0431	Elzbieta Penderecka	2842-2860	2899-2907	2842-2933	0.1054
+SF13_ENG_035	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_035	per:title	lsv	AFP_ENG_20100413.0360	worker	2419-2424	2279-2287	2255-2425	0.1750
+SF13_ENG_035	per:title	lsv	AFP_ENG_20100413.0498	first lady	205-214	216-230	184-379	1.0000
+SF13_ENG_035	per:title	lsv	APW_ENG_20100417.0236	translator	677-686	618-632	615-765	0.8931
+SF13_ENG_035	per:title	lsv	AFP_ENG_20100413.0695	spokeswoman	340-350	251-265	200-356	0.0514
+SF13_ENG_035	per:title	lsv	APW_ENG_20100411.0636	economist	5636-5644	5612-5626	5566-5731	0.1531
+SF13_ENG_036	per:age	lsv	XIN_ENG_20090604.0130	three	752-756	729-749	582-792	0.2902
+SF13_ENG_036	per:cause_of_death	lsv	XIN_ENG_20100321.0078	chronic obstructive pulmonary disease	3869-3905	3843-3849	3818-3970	0.5520
+SF13_ENG_036	per:city_of_birth	lsv	NYT_ENG_20100320.0117	Biratnagar	2891-2900	2839-2845	2839-2930	1.0000
+SF13_ENG_036	per:city_of_death	lsv	AFP_ENG_20100320.0339	Kathmandu	453-461	348-354	348-487	0.1984
+SF13_ENG_036	per:country_of_death	lsv	NIL
+SF13_ENG_036	per:date_of_death	lsv	XIN_ENG_20100321.0083	Saturday	589-596	573-579	573-624	1.0000
+SF13_ENG_036	per:stateorprovince_of_death	lsv	AFP_ENG_20100320.0333	Terai	1433-1437	1303-1309	1303-1461	0.1802
+SF13_ENG_036	per:alternate_names	lsv	NIL
+SF13_ENG_036	per:charges	lsv	NIL
+SF13_ENG_036	per:children	lsv	APW_ENG_20100320.0348	Krishna Khad	471-482	570-576	434-608	0.0582
+SF13_ENG_036	per:children	lsv	XIN_ENG_20100321.0078	Man Mohan Singh	1270-1284	1314-1320	1219-1418	0.0759
+SF13_ENG_036	per:children	lsv	XIN_ENG_20100321.0055	Sujata Koirala	1311-1324	1292-1298	1185-1394	1.0000
+SF13_ENG_036	per:children	lsv	XIN_ENG_20100321.0078	Pratibha Patil	1236-1249	1314-1320	1219-1418	0.0430
+SF13_ENG_036	per:cities_of_residence	lsv	AFP_ENG_20100321.0360	Kathmandu	2229-2237	2147-2153	2147-2340	0.2184
+SF13_ENG_036	per:cities_of_residence	lsv	XIN_ENG_20100320.0046	Nepal	2293-2297	2220-2226	2164-2298	0.4152
+SF13_ENG_036	per:countries_of_residence	lsv	NIL
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20090620.0050	NC	1073-1074	972-992	907-1156	1.0000
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20090620.0050	Communist Party of Nepal	2814-2837	2915-2921	2734-3055	0.5662
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20090609.0088	Nepali Congress	635-649	599-619	517-833	0.9884
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20100320.0029	Congress	189-196	234-254	182-322	0.1582
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20100123.0038	HLPM	491-494	554-574	487-678	0.3311
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20090901.0139	Unified Communist Party of Nepal ( Maoist	2076-2115	2129-2149	1882-2258	0.0154
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20091206.0078	KATHMANDU	2008-2016	2047-2067	2008-2368	0.1254
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20090609.0088	Nepal	534-538	599-619	517-833	0.0811
+SF13_ENG_036	per:employee_or_member_of	lsv	XIN_ENG_20100321.0055	Constituent Assembly	268-287	414-434	202-498	0.0016
+SF13_ENG_036	per:origin	lsv	NIL
+SF13_ENG_036	per:other_family	lsv	NIL
+SF13_ENG_036	per:parents	lsv	NIL
+SF13_ENG_036	per:schools_attended	lsv	NIL
+SF13_ENG_036	per:siblings	lsv	NIL
+SF13_ENG_036	per:spouse	lsv	NIL
+SF13_ENG_036	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_036	per:title	lsv	XIN_ENG_20091206.0078	President	2037-2045	2047-2067	2008-2368	0.5747
+SF13_ENG_036	per:title	lsv	AFP_ENG_20100320.0266	union organiser	1483-1497	1443-1449	1443-1586	0.0311
+SF13_ENG_036	per:title	lsv	APW_ENG_20100320.0179	politician	72-81	83-89	58-104	0.5146
+SF13_ENG_036	per:title	lsv	NYT_ENG_20100320.0117	spokesman	1523-1531	1448-1454	1447-1597	0.0846
+SF13_ENG_036	per:title	lsv	AFP_ENG_20100320.0167	broker	77-82	84-90	58-90	0.5434
+SF13_ENG_036	per:title	lsv	XIN_ENG_20100320.0073	pioneer	723-729	709-715	698-903	0.3189
+SF13_ENG_036	per:title	lsv	XIN_ENG_20100716.0044	Prime Minister	334-347	349-369	180-370	0.6948
+SF13_ENG_036	per:title	lsv	XIN_ENG_20090620.0050	acting president	3857-3872	3842-3848	3798-3883	0.2794
+SF13_ENG_036	per:title	lsv	XIN_ENG_20100321.0083	Chairman	334-341	193-213	183-372	0.2949
+SF13_ENG_036	per:title	lsv	AFP_ENG_20100321.0267	guardian	702-709	590-596	590-766	1.0000
+SF13_ENG_036	per:title	lsv	XIN_ENG_20090604.0130	premier	1146-1152	1047-1053	1040-1221	0.6095
+SF13_ENG_037	per:cause_of_death	lsv	NIL
+SF13_ENG_037	per:city_of_death	lsv	NIL
+SF13_ENG_037	per:country_of_death	lsv	NIL
+SF13_ENG_037	per:date_of_death	lsv	NIL
+SF13_ENG_037	per:religion	lsv	NIL
+SF13_ENG_037	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_037	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_037	per:alternate_names	lsv	NIL
+SF13_ENG_037	per:charges	lsv	NIL
+SF13_ENG_037	per:children	lsv	NIL
+SF13_ENG_037	per:cities_of_residence	lsv	APW_ENG_20100912.0283	Paris	2622-2626	2602-2608	2577-2644	1.0000
+SF13_ENG_037	per:countries_of_residence	lsv	NIL
+SF13_ENG_037	per:employee_or_member_of	lsv	APW_ENG_20100912.0369	New Wave	236-243	193-206	177-351	0.1149
+SF13_ENG_037	per:origin	lsv	WPB_ENG_20100914.0017	Algerian	3366-3373	3184-3190	3175-3378	0.0813
+SF13_ENG_037	per:other_family	lsv	NIL
+SF13_ENG_037	per:parents	lsv	NIL
+SF13_ENG_037	per:schools_attended	lsv	NIL
+SF13_ENG_037	per:siblings	lsv	NIL
+SF13_ENG_037	per:spouse	lsv	NIL
+SF13_ENG_037	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_037	per:title	lsv	AFP_ENG_20100912.0181	maker	212-216	218-231	191-356	0.7281
+SF13_ENG_037	per:title	lsv	AFP_ENG_20100912.0055	author	541-546	432-438	390-571	0.2800
+SF13_ENG_037	per:title	lsv	NYT_ENG_20100912.0125	composer	7113-7120	7091-7097	6926-7179	0.4092
+SF13_ENG_037	per:title	lsv	AFP_ENG_20100912.0193	film director	76-88	90-103	58-118	0.6911
+SF13_ENG_037	per:title	lsv	APW_ENG_20100912.0295	inventor	2279-2286	2263-2269	2227-2334	0.1735
+SF13_ENG_037	per:title	lsv	WPB_ENG_20100914.0017	writer	951-956	921-927	850-1009	1.0000
+SF13_ENG_037	per:title	lsv	NYT_ENG_20100912.0125	film critic	1034-1044	1014-1020	1014-1222	0.1444
+SF13_ENG_038	per:age	lsv	NIL
+SF13_ENG_038	per:cause_of_death	lsv	NIL
+SF13_ENG_038	per:city_of_birth	lsv	LTW_ENG_20090728.0078	Centralia	2288-2296	2265-2274	2250-2323	1.0000
+SF13_ENG_038	per:city_of_death	lsv	LTW_ENG_20090728.0078	New York	331-338	293-302	117-393	0.7446
+SF13_ENG_038	per:country_of_birth	lsv	NIL
+SF13_ENG_038	per:country_of_death	lsv	NIL
+SF13_ENG_038	per:date_of_birth	lsv	NYT_ENG_20090727.0054	1919-04-16	4531-4544	4508-4517	4493-4655	1.0000
+SF13_ENG_038	per:date_of_death	lsv	LTW_ENG_20090728.0108	Sunday	319-324	297-312	297-325	1.0000
+SF13_ENG_038	per:religion	lsv	NIL
+SF13_ENG_038	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_038	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_038	per:alternate_names	lsv	NIL
+SF13_ENG_038	per:charges	lsv	NIL
+SF13_ENG_038	per:children	lsv	NYT_ENG_20090727.0054	Mercier Philip Cunningham	4493-4517	4508-4517	4493-4655	0.2213
+SF13_ENG_038	per:cities_of_residence	lsv	LTW_ENG_20090728.0078	Centralia	2288-2296	2265-2274	2250-2323	0.9764
+SF13_ENG_038	per:countries_of_residence	lsv	NIL
+SF13_ENG_038	per:employee_or_member_of	lsv	NIL
+SF13_ENG_038	per:origin	lsv	NIL
+SF13_ENG_038	per:other_family	lsv	NIL
+SF13_ENG_038	per:parents	lsv	NIL
+SF13_ENG_038	per:schools_attended	lsv	NYT_ENG_20100930.0027	GI Bill	6580-6586	6700-6715	6541-6739	0.3563
+SF13_ENG_038	per:schools_attended	lsv	NYT_ENG_20090727.0054	Cornish School	5835-5848	5805-5814	5796-5860	0.1358
+SF13_ENG_038	per:schools_attended	lsv	NYT_ENG_20100930.0027	Black Mountain College	6617-6638	6700-6715	6541-6739	0.3018
+SF13_ENG_038	per:siblings	lsv	LTW_ENG_20090728.0078	Jack Cunningham	10135-10149	10093-10102	10093-10163	0.5177
+SF13_ENG_038	per:spouse	lsv	NYT_ENG_20090727.0054	Cage	9299-9302	9357-9366	9290-9506	0.1239
+SF13_ENG_038	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_038	per:title	lsv	XIN_ENG_20090728.0160	performer	1715-1723	1686-1695	1661-1873	0.4982
+SF13_ENG_038	per:title	lsv	NYT_ENG_20090609.0114	model	1324-1328	1274-1283	1274-1437	0.6360
+SF13_ENG_038	per:title	lsv	APW_ENG_20090921.0007	dancer	5995-6000	5961-5976	5690-6019	0.4860
+SF13_ENG_038	per:title	lsv	LTW_ENG_20090728.0078	nonprofit	8569-8577	8579-8594	8565-8641	0.6487
+SF13_ENG_038	per:title	lsv	XIN_ENG_20090728.0160	teacher	1794-1800	1686-1695	1661-1873	0.1050
+SF13_ENG_038	per:title	lsv	NYT_ENG_20100926.0061	residency	2124-2132	2070-2099	1755-2178	0.0247
+SF13_ENG_038	per:title	lsv	NYT_ENG_20090727.0050	choreographer	438-450	407-422	377-572	1.0000
+SF13_ENG_038	per:title	lsv	LTW_ENG_20090729.0072	chair	1044-1048	1005-1014	934-1073	0.4787
+SF13_ENG_039	per:cause_of_death	lsv	bolt-eng-DF-200-192455-6207174	cancer	22861-22866	22842-22851	22830-22971	1.0000
+SF13_ENG_039	per:city_of_death	lsv	NIL
+SF13_ENG_039	per:country_of_death	lsv	NIL
+SF13_ENG_039	per:date_of_death	lsv	NIL
+SF13_ENG_039	per:religion	lsv	NIL
+SF13_ENG_039	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_039	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_039	per:alternate_names	lsv	NIL
+SF13_ENG_039	per:charges	lsv	NIL
+SF13_ENG_039	per:children	lsv	NIL
+SF13_ENG_039	per:cities_of_residence	lsv	NIL
+SF13_ENG_039	per:countries_of_residence	lsv	NIL
+SF13_ENG_039	per:employee_or_member_of	lsv	NIL
+SF13_ENG_039	per:origin	lsv	NIL
+SF13_ENG_039	per:other_family	lsv	NIL
+SF13_ENG_039	per:parents	lsv	bolt-eng-DF-212-191667-3075509	Contestant Jackiey Budden	4162-4186	4205-4214	4162-4311	0.8011
+SF13_ENG_039	per:parents	lsv	bolt-eng-DF-212-191667-3075509	Jackiey Budden	44282-44295	44267-44271	44267-44465	1.0000
+SF13_ENG_039	per:schools_attended	lsv	NIL
+SF13_ENG_039	per:siblings	lsv	NIL
+SF13_ENG_039	per:spouse	lsv	NIL
+SF13_ENG_039	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_039	per:title	lsv	bolt-eng-DF-200-192446-3810331	justice	29509-29515	29479-29488	29409-29633	0.4680
+SF13_ENG_039	per:title	lsv	AFP_ENG_20091226.0305	TV personality	2260-2273	2275-2284	2260-2437	0.9521
+SF13_ENG_039	per:title	lsv	bolt-eng-DF-200-192446-3808794	musician	38025-38032	37955-37964	37922-38033	0.0372
+SF13_ENG_039	per:title	lsv	AFP_ENG_20090905.0314	star	66-69	71-75	58-103	1.0000
+SF13_ENG_039	per:title	lsv	AFP_ENG_20090905.0314	count	284-288	251-260	178-322	0.1681
+SF13_ENG_039	per:title	lsv	APW_ENG_20090905.0288	nurse	748-752	716-720	716-830	0.3415
+SF13_ENG_039	per:title	lsv	eng-NG-31-105043-11923476	actress	3424-3430	3356-3365	3280-3450	0.2042
+SF13_ENG_040	per:cause_of_death	lsv	NIL
+SF13_ENG_040	per:city_of_death	lsv	NIL
+SF13_ENG_040	per:country_of_birth	lsv	NIL
+SF13_ENG_040	per:country_of_death	lsv	NIL
+SF13_ENG_040	per:date_of_death	lsv	APW_ENG_20100419.0074	last May	1950-1957	1925-1938	1768-1958	0.4649
+SF13_ENG_040	per:religion	lsv	NIL
+SF13_ENG_040	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_040	per:alternate_names	lsv	NIL
+SF13_ENG_040	per:charges	lsv	NIL
+SF13_ENG_040	per:children	lsv	APW_ENG_20100419.0074	Toby Keith	1768-1777	1925-1938	1768-1958	0.0916
+SF13_ENG_040	per:cities_of_residence	lsv	NIL
+SF13_ENG_040	per:countries_of_residence	lsv	NIL
+SF13_ENG_040	per:employee_or_member_of	lsv	NIL
+SF13_ENG_040	per:origin	lsv	NIL
+SF13_ENG_040	per:other_family	lsv	NIL
+SF13_ENG_040	per:parents	lsv	NIL
+SF13_ENG_040	per:schools_attended	lsv	NIL
+SF13_ENG_040	per:siblings	lsv	NIL
+SF13_ENG_040	per:spouse	lsv	NIL
+SF13_ENG_040	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_040	per:title	lsv	APW_ENG_20100419.0103	star	3432-3435	3437-3450	3280-3470	1.0000
+SF13_ENG_041	per:age	lsv	APW_ENG_20090819.1064	80	2903-2904	2890-2895	2890-3028	0.3845
+SF13_ENG_041	per:cause_of_death	lsv	APW_ENG_20090819.1064	pancreatic cancer	574-590	559-564	559-627	1.0000
+SF13_ENG_041	per:city_of_birth	lsv	LTW_ENG_20090820.0069	New Rochelle	7891-7902	7833-7838	7818-7981	1.0000
+SF13_ENG_041	per:city_of_death	lsv	NYT_ENG_20090819.0080	Bridgehampton	9257-9269	8995-9004	8969-9286	1.0000
+SF13_ENG_041	per:country_of_birth	lsv	NIL
+SF13_ENG_041	per:country_of_death	lsv	NIL
+SF13_ENG_041	per:date_of_birth	lsv	NIL
+SF13_ENG_041	per:date_of_death	lsv	LTW_ENG_20090820.0151	Wednesday	298-306	277-286	105-428	1.0000
+SF13_ENG_041	per:religion	lsv	NIL
+SF13_ENG_041	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_041	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_041	per:alternate_names	lsv	NIL
+SF13_ENG_041	per:charges	lsv	NIL
+SF13_ENG_041	per:children	lsv	NIL
+SF13_ENG_041	per:cities_of_residence	lsv	APW_ENG_20090819.1064	New Rochelle	2055-2066	1980-1985	1965-2067	1.0000
+SF13_ENG_041	per:cities_of_residence	lsv	APW_ENG_20090819.0913	New York	1999-2006	1980-1985	1965-2067	0.6319
+SF13_ENG_041	per:cities_of_residence	lsv	APW_ENG_20090819.0815	New York City	3738-3750	3719-3724	3704-3811	0.6319
+SF13_ENG_041	per:countries_of_residence	lsv	NIL
+SF13_ENG_041	per:employee_or_member_of	lsv	NIL
+SF13_ENG_041	per:origin	lsv	NIL
+SF13_ENG_041	per:other_family	lsv	NIL
+SF13_ENG_041	per:parents	lsv	NIL
+SF13_ENG_041	per:schools_attended	lsv	NIL
+SF13_ENG_041	per:siblings	lsv	NIL
+SF13_ENG_041	per:spouse	lsv	APW_ENG_20090819.0815	Marilyn	5710-5716	5689-5694	5689-5736	0.8139
+SF13_ENG_041	per:statesorprovinces_of_residence	lsv	LTW_ENG_20090820.0143	N.Y.	783-786	662-671	627-798	1.0000
+SF13_ENG_041	per:title	lsv	LTW_ENG_20090820.0143	advertising manager	6165-6183	6037-6042	6037-6215	0.4501
+SF13_ENG_041	per:title	lsv	LTW_ENG_20090916.0050	producer	4488-4495	4497-4506	4390-4601	0.6719
+SF13_ENG_041	per:title	lsv	LTW_ENG_20090820.0069	salesman	7940-7947	7833-7838	7818-7981	0.4543
+SF13_ENG_041	per:title	lsv	LTW_ENG_20090820.0069	reporter	2110-2117	1922-1927	1922-2139	0.2226
+SF13_ENG_041	per:title	lsv	APW_ENG_20090819.0721	pioneer	67-73	75-84	58-95	0.5886
+SF13_ENG_041	per:title	lsv	LTW_ENG_20090820.0093	vice president of research	7383-7408	7215-7220	7215-7606	0.1658
+SF13_ENG_041	per:title	lsv	NYT_ENG_20101025.0165	manager	638-644	646-655	600-732	0.6264
+SF13_ENG_041	per:title	lsv	NYT_ENG_20090717.0211	executive producer	871-888	847-856	803-923	1.0000
+SF13_ENG_041	per:title	lsv	LTW_ENG_20090820.0069	director	2004-2011	1922-1927	1922-2139	0.9583
+SF13_ENG_041	per:title	lsv	NYT_ENG_20090821.0004	commander	2713-2721	2814-2819	2650-2836	0.0435
+SF13_ENG_041	per:title	lsv	LTW_ENG_20090820.0069	whistleblower	10058-10070	9944-9949	9901-10222	0.3700
+SF13_ENG_041	per:title	lsv	NYT_ENG_20090819.0159	consultant	13705-13714	13669-13674	13662-13878	0.0633
+SF13_ENG_042	per:age	lsv	APW_ENG_20091218.0096	62	17728-17729	17716-17725	17716-17730	0.8821
+SF13_ENG_042	per:cause_of_death	lsv	APW_ENG_20090820.0242	hanging	263-269	226-235	184-295	0.7305
+SF13_ENG_042	per:city_of_birth	lsv	NIL
+SF13_ENG_042	per:city_of_death	lsv	NIL
+SF13_ENG_042	per:country_of_birth	lsv	NIL
+SF13_ENG_042	per:country_of_death	lsv	NIL
+SF13_ENG_042	per:date_of_birth	lsv	NIL
+SF13_ENG_042	per:date_of_death	lsv	NIL
+SF13_ENG_042	per:religion	lsv	NIL
+SF13_ENG_042	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_042	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_042	per:alternate_names	lsv	NIL
+SF13_ENG_042	per:charges	lsv	NIL
+SF13_ENG_042	per:children	lsv	NIL
+SF13_ENG_042	per:cities_of_residence	lsv	NIL
+SF13_ENG_042	per:countries_of_residence	lsv	NIL
+SF13_ENG_042	per:employee_or_member_of	lsv	NIL
+SF13_ENG_042	per:origin	lsv	NIL
+SF13_ENG_042	per:other_family	lsv	NIL
+SF13_ENG_042	per:parents	lsv	NIL
+SF13_ENG_042	per:schools_attended	lsv	NIL
+SF13_ENG_042	per:siblings	lsv	NIL
+SF13_ENG_042	per:spouse	lsv	NIL
+SF13_ENG_042	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_042	per:title	lsv	APW_ENG_20090820.0282	entertainer	196-206	208-217	188-405	0.8715
+SF13_ENG_042	per:title	lsv	AFP_ENG_20090618.0464	deputy chairman	492-506	352-361	352-574	1.0000
+SF13_ENG_042	per:title	lsv	LTW_ENG_20090602.0095	host	3205-3208	3044-3048	3044-3229	0.4957
+SF13_ENG_042	per:title	lsv	APW_ENG_20090821.0659	star	86-89	91-100	58-100	0.9751
+SF13_ENG_043	per:age	lsv	NIL
+SF13_ENG_043	per:cause_of_death	lsv	APW_ENG_20090826.0973	heart attack	408-419	388-396	388-568	1.0000
+SF13_ENG_043	per:city_of_birth	lsv	NIL
+SF13_ENG_043	per:city_of_death	lsv	NYT_ENG_20090827.0014	Manhattan	397-405	146-160	146-406	0.3449
+SF13_ENG_043	per:country_of_birth	lsv	NIL
+SF13_ENG_043	per:country_of_death	lsv	NIL
+SF13_ENG_043	per:date_of_birth	lsv	NIL
+SF13_ENG_043	per:date_of_death	lsv	NIL
+SF13_ENG_043	per:religion	lsv	NIL
+SF13_ENG_043	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_043	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_043	per:alternate_names	lsv	NIL
+SF13_ENG_043	per:charges	lsv	NIL
+SF13_ENG_043	per:children	lsv	NIL
+SF13_ENG_043	per:cities_of_residence	lsv	NIL
+SF13_ENG_043	per:countries_of_residence	lsv	NIL
+SF13_ENG_043	per:employee_or_member_of	lsv	NIL
+SF13_ENG_043	per:origin	lsv	NYT_ENG_20090827.0014	British	1577-1583	1412-1420	1283-1602	0.4462
+SF13_ENG_043	per:other_family	lsv	NIL
+SF13_ENG_043	per:parents	lsv	NIL
+SF13_ENG_043	per:schools_attended	lsv	NIL
+SF13_ENG_043	per:siblings	lsv	NIL
+SF13_ENG_043	per:spouse	lsv	NIL
+SF13_ENG_043	per:statesorprovinces_of_residence	lsv	LTW_ENG_20090829.0049	N.Y.	3272-3275	3225-3233	3210-3304	0.2248
+SF13_ENG_043	per:title	lsv	NYT_ENG_20090827.0014	arranger	3975-3982	3947-3955	3947-4138	0.6966
+SF13_ENG_043	per:title	lsv	LTW_ENG_20090827.0140	shaper	3376-3381	3314-3328	3279-3464	0.4775
+SF13_ENG_043	per:title	lsv	NYT_ENG_20090903.0002	songwriter	3677-3686	3688-3702	3628-3841	0.6817
+SF13_ENG_043	per:title	lsv	APW_ENG_20090826.0916	performer	1373-1381	1346-1354	1289-1382	0.2122
+SF13_ENG_043	per:title	lsv	APW_ENG_20090826.0973	singer	2001-2006	1960-1968	1960-2093	0.0467
+SF13_ENG_043	per:title	lsv	NYT_ENG_20090827.0014	producer	3988-3995	3947-3955	3947-4138	0.4251
+SF13_ENG_044	per:age	lsv	LTW_ENG_20090827.0109	83	74-75	58-71	58-120	1.0000
+SF13_ENG_044	per:cause_of_death	lsv	NYT_ENG_20101111.0039	bladder cancer	997-1010	981-985	949-1150	1.0000
+SF13_ENG_044	per:city_of_birth	lsv	APW_ENG_20090826.1147	Hartford	8214-8221	8188-8192	8188-8334	0.9330
+SF13_ENG_044	per:city_of_death	lsv	LTW_ENG_20090827.0109	New York City	429-441	190-203	190-442	1.0000
+SF13_ENG_044	per:country_of_birth	lsv	NIL
+SF13_ENG_044	per:country_of_death	lsv	NIL
+SF13_ENG_044	per:date_of_birth	lsv	NIL
+SF13_ENG_044	per:date_of_death	lsv	NYT_ENG_20091213.0046	XXXX-08-26	172-178	149-162	144-275	1.0000
+SF13_ENG_044	per:religion	lsv	APW_ENG_20090826.1147	Roman	8250-8254	8188-8192	8188-8334	0.7634
+SF13_ENG_044	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_044	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_044	per:alternate_names	lsv	NIL
+SF13_ENG_044	per:charges	lsv	NYT_ENG_20090826.0141	murder	4586-4591	4399-4403	4399-4609	0.1027
+SF13_ENG_044	per:children	lsv	NYT_ENG_20101111.0039	Griffin	1775-1781	1702-1706	1530-1808	1.0000
+SF13_ENG_044	per:children	lsv	APW_ENG_20090826.1147	Griffin Dunne	437-449	409-413	409-553	0.1184
+SF13_ENG_044	per:cities_of_residence	lsv	NYT_ENG_20090826.0141	Hartford	6214-6221	6245-6249	6206-6319	0.1725
+SF13_ENG_044	per:cities_of_residence	lsv	LTW_ENG_20090827.0117	Los Angeles	5982-5992	5967-5971	5958-6036	1.0000
+SF13_ENG_044	per:cities_of_residence	lsv	LTW_ENG_20090827.0117	Las Vegas	737-745	793-797	672-828	0.2667
+SF13_ENG_044	per:countries_of_residence	lsv	NIL
+SF13_ENG_044	per:employee_or_member_of	lsv	NIL
+SF13_ENG_044	per:origin	lsv	NIL
+SF13_ENG_044	per:other_family	lsv	LTW_ENG_20090827.0117	Hannah	14021-14026	13914-13918	13914-14027	0.0826
+SF13_ENG_044	per:parents	lsv	NIL
+SF13_ENG_044	per:schools_attended	lsv	NYT_ENG_20101111.0039	Clouds	1317-1322	1300-1304	1161-1399	0.0979
+SF13_ENG_044	per:schools_attended	lsv	LTW_ENG_20090827.0117	Humphrey Bogart	5539-5553	5513-5517	5424-5638	0.0361
+SF13_ENG_044	per:siblings	lsv	NYT_ENG_20090826.0141	John Gregory Dunne	3537-3554	3506-3510	3506-3594	0.3663
+SF13_ENG_044	per:spouse	lsv	APW_ENG_20090826.1117	Ellen Griffin Dunne	9566-9584	9546-9550	9546-9623	0.8668
+SF13_ENG_044	per:spouse	lsv	NYT_ENG_20090826.0141	Joan Didion	3583-3593	3506-3510	3506-3594	0.3388
+SF13_ENG_044	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_044	per:title	lsv	LTW_ENG_20090827.0117	buyer	12383-12387	12344-12348	12344-12452	1.0000
+SF13_ENG_044	per:title	lsv	LTW_ENG_20090827.0117	film producer	960-972	933-937	933-1031	0.7418
+SF13_ENG_044	per:title	lsv	LTW_ENG_20090827.0117	queen	2417-2421	2395-2399	2297-2440	0.0139
+SF13_ENG_044	per:title	lsv	WPB_ENG_20101207.0004	writer	6977-6982	6984-6997	6973-7105	0.5836
+SF13_ENG_044	per:title	lsv	LTW_ENG_20090827.0117	novelist	181-188	148-161	148-445	0.4703
+SF13_ENG_044	per:title	lsv	APW_ENG_20090826.1147	Author	188-193	195-208	188-398	0.6251
+SF13_ENG_044	per:title	lsv	LTW_ENG_20090827.0117	screenwriter	4766-4777	4750-4754	4713-4850	0.2044
+SF13_ENG_044	per:title	lsv	LTW_ENG_20090827.0109	journalist	221-230	190-203	190-442	0.8185
+SF13_ENG_044	per:title	lsv	NYT_ENG_20101111.0039	editor	2398-2403	2368-2372	2306-2526	0.0383
+SF13_ENG_044	per:title	lsv	LTW_ENG_20090827.0117	soldier	5104-5110	4995-4999	4995-5138	0.8036
+SF13_ENG_045	per:cause_of_death	lsv	APW_ENG_20100423.1101	drug overdose	1001-1013	981-989	981-1040	1.0000
+SF13_ENG_045	per:city_of_death	lsv	APW_ENG_20100114.1379	New York	421-428	387-400	361-455	0.3302
+SF13_ENG_045	per:country_of_birth	lsv	NIL
+SF13_ENG_045	per:country_of_death	lsv	NIL
+SF13_ENG_045	per:date_of_death	lsv	NYT_ENG_20090913.0015	last month	4687-4696	4671-4675	4606-4765	1.0000
+SF13_ENG_045	per:religion	lsv	NIL
+SF13_ENG_045	per:stateorprovince_of_death	lsv	APW_ENG_20090902.0988	South Carolina	1787-1800	1722-1730	1722-1825	0.1771
+SF13_ENG_045	per:alternate_names	lsv	NIL
+SF13_ENG_045	per:charges	lsv	NIL
+SF13_ENG_045	per:children	lsv	NIL
+SF13_ENG_045	per:cities_of_residence	lsv	APW_ENG_20090828.1285	New York City	282-294	251-255	184-305	0.1887
+SF13_ENG_045	per:cities_of_residence	lsv	LTW_ENG_20090829.0102	Philadelphia	931-942	909-917	909-961	0.9609
+SF13_ENG_045	per:countries_of_residence	lsv	NIL
+SF13_ENG_045	per:employee_or_member_of	lsv	AFP_ENG_20100119.0058	Royal Caribbean International	2084-2112	2049-2062	2049-2244	0.6877
+SF13_ENG_045	per:employee_or_member_of	lsv	APW_ENG_20091030.1329	Royal Caribbean International President &	1805-1849	1855-1868	1683-1930	0.8474
+SF13_ENG_045	per:employee_or_member_of	lsv	APW_ENG_20100122.1279	Royal	2178-2182	2212-2225	2178-2304	0.2606
+SF13_ENG_045	per:origin	lsv	NIL
+SF13_ENG_045	per:other_family	lsv	NIL
+SF13_ENG_045	per:parents	lsv	APW_ENG_20090902.1160	Andrea Gross	2644-2655	2624-2632	2580-2808	1.0000
+SF13_ENG_045	per:schools_attended	lsv	WPB_ENG_20100928.0004	MIT	1136-1138	1149-1162	1022-1163	0.0301
+SF13_ENG_045	per:siblings	lsv	NIL
+SF13_ENG_045	per:spouse	lsv	NIL
+SF13_ENG_045	per:statesorprovinces_of_residence	lsv	APW_ENG_20090901.0969	South Carolina	439-452	379-383	347-519	0.4857
+SF13_ENG_045	per:title	lsv	APW_ENG_20090829.0172	drummer	2627-2633	2603-2611	2576-2726	0.1784
+SF13_ENG_045	per:title	lsv	LTW_ENG_20091007.0013	president	7861-7869	7871-7884	7825-7885	0.6514
+SF13_ENG_045	per:title	lsv	APW_ENG_20100122.1279	President and CEO	2194-2210	2212-2225	2178-2304	0.6995
+SF13_ENG_045	per:title	lsv	APW_ENG_20090830.0050	examiner	323-330	306-310	184-366	0.0623
+SF13_ENG_045	per:title	lsv	APW_ENG_20091031.0015	CEO	1846-1848	1850-1863	1678-1925	0.6217
+SF13_ENG_045	per:title	lsv	APW_ENG_20090829.0105	vice president	3887-3900	3791-3795	3752-3933	0.4704
+SF13_ENG_045	per:title	lsv	APW_ENG_20090829.0647	host	1080-1083	1051-1059	979-1121	1.0000
+SF13_ENG_045	per:title	lsv	LTW_ENG_20091107.0056	turntablist	5099-5109	5072-5080	5072-5268	0.2996
+SF13_ENG_045	per:title	lsv	APW_ENG_20090829.0080	celebrity	233-241	184-188	184-395	0.3325
+SF13_ENG_045	per:title	lsv	APW_ENG_20091208.1292	disc jockey	495-505	507-511	467-559	0.6771
+SF13_ENG_045	per:title	lsv	APW_ENG_20090829.0039	deejay	1065-1070	1044-1052	1044-1169	0.2138
+SF13_ENG_045	per:title	lsv	APW_ENG_20090613.0339	Dr.	2783-2785	2787-2800	2633-2889	0.6379
+SF13_ENG_046	per:cause_of_death	lsv	AFP_ENG_20101206.0060	brain hemorrhage	280-295	199-210	179-328	0.6539
+SF13_ENG_046	per:city_of_death	lsv	NYT_ENG_20101206.0124	Santa Fe	4582-4589	4331-4342	4304-4606	0.1789
+SF13_ENG_046	per:country_of_death	lsv	NIL
+SF13_ENG_046	per:date_of_death	lsv	NYT_ENG_20101210.0093	last Sunday	2917-2927	2894-2905	2855-3060	1.0000
+SF13_ENG_046	per:religion	lsv	NIL
+SF13_ENG_046	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_046	per:stateorprovince_of_death	lsv	NYT_ENG_20101206.0204	N.M.	390-393	135-146	135-404	0.5924
+SF13_ENG_046	per:alternate_names	lsv	NIL
+SF13_ENG_046	per:charges	lsv	NIL
+SF13_ENG_046	per:children	lsv	NIL
+SF13_ENG_046	per:cities_of_residence	lsv	NIL
+SF13_ENG_046	per:countries_of_residence	lsv	NIL
+SF13_ENG_046	per:employee_or_member_of	lsv	NIL
+SF13_ENG_046	per:origin	lsv	NIL
+SF13_ENG_046	per:other_family	lsv	NIL
+SF13_ENG_046	per:parents	lsv	NYT_ENG_20101206.0204	Hazel	604-608	493-500	493-728	0.1223
+SF13_ENG_046	per:parents	lsv	NYT_ENG_20101206.0204	Jeff	595-598	493-500	493-728	0.1715
+SF13_ENG_046	per:schools_attended	lsv	eng-NG-31-127207-9204981	Cowboys	3593-3599	3613-3624	3432-3826	0.9196
+SF13_ENG_046	per:siblings	lsv	NYT_ENG_20101210.0152	Dandy Don	504-512	559-566	427-590	0.5513
+SF13_ENG_046	per:spouse	lsv	NIL
+SF13_ENG_046	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_046	per:title	lsv	NYT_ENG_20101206.0124	color commentator	4400-4416	4331-4342	4304-4606	0.3124
+SF13_ENG_046	per:title	lsv	AFP_ENG_20101206.0060	Player	817-822	764-775	756-843	0.6078
+SF13_ENG_046	per:title	lsv	eng-NG-31-142407-10043490	businessman	5072-5082	5046-5057	5040-5204	0.1857
+SF13_ENG_046	per:title	lsv	NYT_ENG_20101206.0204	star	158-161	135-146	135-404	0.1758
+SF13_ENG_046	per:title	lsv	NYT_ENG_20101206.0204	quarterback	163-173	135-146	135-404	1.0000
+SF13_ENG_046	per:title	lsv	NYT_ENG_20101210.0152	coach	2976-2980	2893-2900	2841-3113	0.5185
+SF13_ENG_046	per:title	lsv	AFP_ENG_20101206.0060	pitchman	2240-2247	2163-2170	2138-2263	0.3564
+SF13_ENG_046	per:title	lsv	NYT_ENG_20101208.0184	Cowboy	258-263	232-243	132-301	0.2172
+SF13_ENG_046	per:title	lsv	AFP_ENG_20101206.0060	announcer	1947-1955	1848-1855	1848-2026	0.4719
+SF13_ENG_047	per:age	lsv	NIL
+SF13_ENG_047	per:cause_of_death	lsv	NIL
+SF13_ENG_047	per:city_of_birth	lsv	NIL
+SF13_ENG_047	per:city_of_death	lsv	NIL
+SF13_ENG_047	per:country_of_birth	lsv	NIL
+SF13_ENG_047	per:country_of_death	lsv	NIL
+SF13_ENG_047	per:date_of_birth	lsv	NIL
+SF13_ENG_047	per:date_of_death	lsv	WPB_ENG_20100720.0056	XXXX-02-23	1435-1445	1400-1420	1349-1498	1.0000
+SF13_ENG_047	per:religion	lsv	NIL
+SF13_ENG_047	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_047	per:stateorprovince_of_death	lsv	AFP_ENG_20100224.0916	Havana	234-239	201-214	177-312	0.6044
+SF13_ENG_047	per:alternate_names	lsv	NIL
+SF13_ENG_047	per:charges	lsv	NIL
+SF13_ENG_047	per:children	lsv	NIL
+SF13_ENG_047	per:cities_of_residence	lsv	NIL
+SF13_ENG_047	per:countries_of_residence	lsv	NIL
+SF13_ENG_047	per:employee_or_member_of	lsv	WPB_ENG_20100709.0003	European Union	1551-1564	1309-1329	1273-1622	0.1325
+SF13_ENG_047	per:origin	lsv	AFP_ENG_20100224.0691	Cuba	4042-4045	3864-3869	3864-4124	0.4272
+SF13_ENG_047	per:other_family	lsv	NIL
+SF13_ENG_047	per:parents	lsv	AFP_ENG_20100620.0047	Reina Tamayo	1161-1172	1189-1202	1140-1303	1.0000
+SF13_ENG_047	per:parents	lsv	AFP_ENG_20100321.0056	Reyna Luisa Tamayo	1446-1463	1499-1512	1416-1593	0.3478
+SF13_ENG_047	per:schools_attended	lsv	NIL
+SF13_ENG_047	per:siblings	lsv	NIL
+SF13_ENG_047	per:spouse	lsv	NIL
+SF13_ENG_047	per:statesorprovinces_of_residence	lsv	AFP_ENG_20100225.0846	Havana	2046-2051	1942-1947	1942-2052	0.7565
+SF13_ENG_047	per:title	lsv	APW_ENG_20100303.1211	construction worker	957-975	920-940	801-1023	0.6890
+SF13_ENG_047	per:title	lsv	AFP_ENG_20100225.0049	political activist	531-548	550-563	432-564	0.9735
+SF13_ENG_047	per:title	lsv	APW_ENG_20100601.1212	striker	4883-4889	4891-4911	4779-4912	0.9115
+SF13_ENG_047	per:title	lsv	APW_ENG_20100225.1545	carpenter	668-676	619-639	557-753	0.1972
+SF13_ENG_047	per:title	lsv	APW_ENG_20100305.1022	doctor	6440-6445	6400-6405	6322-6469	0.5312
+SF13_ENG_047	per:title	lsv	AFP_ENG_20100224.0916	diplomat	2929-2936	2800-2805	2800-3012	0.1073
+SF13_ENG_047	per:title	lsv	AFP_ENG_20101014.0016	laborer	1922-1928	1892-1905	1892-2020	0.6917
+SF13_ENG_047	per:title	lsv	AFP_ENG_20100224.0233	spokesman	1813-1821	1768-1773	1768-1931	0.5509
+SF13_ENG_047	per:title	lsv	APW_ENG_20100817.0521	Secretary	1398-1406	1195-1200	1195-1460	0.3411
+SF13_ENG_047	per:title	lsv	AFP_ENG_20100430.0081	political prisoner	2263-2280	2282-2295	2161-2387	1.0000
+SF13_ENG_047	per:title	lsv	APW_ENG_20100225.1545	plumber	656-662	619-639	557-753	0.1041
+SF13_ENG_048	per:age	lsv	APW_ENG_20091218.0276	71	549-550	531-546	529-692	1.0000
+SF13_ENG_048	per:cause_of_death	lsv	APW_ENG_20090804.1223	cancer	357-362	340-347	340-413	1.0000
+SF13_ENG_048	per:city_of_birth	lsv	NYT_ENG_20090804.0124	Charlotte	7650-7658	7603-7618	7603-7713	0.4915
+SF13_ENG_048	per:city_of_death	lsv	NIL
+SF13_ENG_048	per:country_of_birth	lsv	NIL
+SF13_ENG_048	per:country_of_death	lsv	NIL
+SF13_ENG_048	per:date_of_birth	lsv	NYT_ENG_20090804.0124	1938-06-19	7632-7644	7603-7618	7603-7713	1.0000
+SF13_ENG_048	per:date_of_death	lsv	NYT_ENG_20090810.0069	Monday	788-793	758-773	758-842	1.0000
+SF13_ENG_048	per:religion	lsv	NIL
+SF13_ENG_048	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_048	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_048	per:alternate_names	lsv	NIL
+SF13_ENG_048	per:charges	lsv	NIL
+SF13_ENG_048	per:children	lsv	NYT_ENG_20090804.0124	Annie Gwathmey	9011-9024	8924-8931	8924-9058	0.8419
+SF13_ENG_048	per:cities_of_residence	lsv	NYT_ENG_20090804.0124	Charlotte	7650-7658	7603-7618	7603-7713	0.0297
+SF13_ENG_048	per:cities_of_residence	lsv	NYT_ENG_20090804.0124	Amagansett	8044-8053	8119-8126	7977-8192	0.0946
+SF13_ENG_048	per:cities_of_residence	lsv	NYT_ENG_20090804.0068	New York	5684-5691	5697-5712	5669-5908	0.0073
+SF13_ENG_048	per:countries_of_residence	lsv	NIL
+SF13_ENG_048	per:employee_or_member_of	lsv	NIL
+SF13_ENG_048	per:origin	lsv	NIL
+SF13_ENG_048	per:other_family	lsv	NIL
+SF13_ENG_048	per:parents	lsv	APW_ENG_20090804.1223	Robert Gwathmey	2297-2311	2244-2251	2244-2350	1.0000
+SF13_ENG_048	per:schools_attended	lsv	NYT_ENG_20090814.0029	University of Pennsylvania	2003-2028	1973-1980	1940-2150	0.3188
+SF13_ENG_048	per:schools_attended	lsv	APW_ENG_20090804.1223	Yale University	2884-2898	2821-2828	2821-2899	0.4801
+SF13_ENG_048	per:siblings	lsv	NIL
+SF13_ENG_048	per:spouse	lsv	APW_ENG_20090804.1223	Rosalie	2327-2333	2244-2251	2244-2350	1.0000
+SF13_ENG_048	per:statesorprovinces_of_residence	lsv	NYT_ENG_20090804.0124	N.C.	7661-7664	7603-7618	7603-7713	0.1314
+SF13_ENG_048	per:title	lsv	NYT_ENG_20091124.0050	architect	945-953	955-970	908-991	1.0000
+SF13_ENG_049	per:cause_of_death	lsv	NIL
+SF13_ENG_049	per:city_of_death	lsv	AFP_ENG_20101016.0007	Cambridge	322-330	180-196	180-363	0.1297
+SF13_ENG_049	per:country_of_death	lsv	NIL
+SF13_ENG_049	per:date_of_death	lsv	NIL
+SF13_ENG_049	per:religion	lsv	NIL
+SF13_ENG_049	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_049	per:stateorprovince_of_death	lsv	AFP_ENG_20101016.0017	Massachusetts	333-345	180-196	180-346	0.6570
+SF13_ENG_049	per:alternate_names	lsv	NIL
+SF13_ENG_049	per:charges	lsv	NIL
+SF13_ENG_049	per:children	lsv	NIL
+SF13_ENG_049	per:cities_of_residence	lsv	NIL
+SF13_ENG_049	per:countries_of_residence	lsv	NIL
+SF13_ENG_049	per:employee_or_member_of	lsv	NIL
+SF13_ENG_049	per:origin	lsv	NIL
+SF13_ENG_049	per:other_family	lsv	NIL
+SF13_ENG_049	per:parents	lsv	NIL
+SF13_ENG_049	per:schools_attended	lsv	NIL
+SF13_ENG_049	per:siblings	lsv	NIL
+SF13_ENG_049	per:spouse	lsv	NIL
+SF13_ENG_049	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_049	per:title	lsv	APW_ENG_20101016.0421	mathematician	232-244	200-216	200-328	0.8840
+SF13_ENG_049	per:title	lsv	AFP_ENG_20101016.0017	statistician	2531-2542	2635-2644	2504-2655	0.0082
+SF13_ENG_050	per:age	lsv	NIL
+SF13_ENG_050	per:cause_of_death	lsv	AFP_ENG_20090602.0734	breast cancer	1956-1968	1921-1930	1876-1977	1.0000
+SF13_ENG_050	per:city_of_birth	lsv	NIL
+SF13_ENG_050	per:city_of_death	lsv	NIL
+SF13_ENG_050	per:country_of_birth	lsv	NIL
+SF13_ENG_050	per:country_of_death	lsv	NIL
+SF13_ENG_050	per:date_of_birth	lsv	NIL
+SF13_ENG_050	per:date_of_death	lsv	NIL
+SF13_ENG_050	per:religion	lsv	NIL
+SF13_ENG_050	per:stateorprovince_of_birth	lsv	NIL
+SF13_ENG_050	per:stateorprovince_of_death	lsv	NIL
+SF13_ENG_050	per:alternate_names	lsv	NIL
+SF13_ENG_050	per:charges	lsv	NIL
+SF13_ENG_050	per:children	lsv	NIL
+SF13_ENG_050	per:cities_of_residence	lsv	NIL
+SF13_ENG_050	per:countries_of_residence	lsv	NIL
+SF13_ENG_050	per:employee_or_member_of	lsv	NIL
+SF13_ENG_050	per:origin	lsv	NIL
+SF13_ENG_050	per:other_family	lsv	NIL
+SF13_ENG_050	per:parents	lsv	NIL
+SF13_ENG_050	per:schools_attended	lsv	NIL
+SF13_ENG_050	per:siblings	lsv	NIL
+SF13_ENG_050	per:spouse	lsv	AFP_ENG_20090607.0390	Kim	1414-1416	1432-1441	1394-1488	0.5875
+SF13_ENG_050	per:statesorprovinces_of_residence	lsv	NIL
+SF13_ENG_050	per:title	lsv	AFP_ENG_20100926.0189	dancer	3553-3558	3560-3569	3483-3625	1.0000
+SF13_ENG_051	org:city_of_headquarters	lsv	LTW_ENG_20090828.0093	Balkh	5237-5241	5203-5232	5133-5242	1.0000
+SF13_ENG_051	org:country_of_headquarters	lsv	XIN_ENG_20100417.0089	Afghanistan	248-258	262-291	196-316	0.2499
+SF13_ENG_051	org:date_dissolved	lsv	NIL
+SF13_ENG_051	org:date_founded	lsv	NIL
+SF13_ENG_051	org:number_of_employees_members	lsv	XIN_ENG_20100417.0082	five	624-627	644-673	605-798	1.0000
+SF13_ENG_051	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_051	org:website	lsv	NIL
+SF13_ENG_051	org:alternate_names	lsv	NIL
+SF13_ENG_051	org:founded_by	lsv	NIL
+SF13_ENG_051	org:member_of	lsv	NIL
+SF13_ENG_051	org:members	lsv	NIL
+SF13_ENG_051	org:parents	lsv	NIL
+SF13_ENG_051	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_051	org:shareholders	lsv	NIL
+SF13_ENG_051	org:subsidiaries	lsv	NIL
+SF13_ENG_051	org:top_members_employees	lsv	LTW_ENG_20090828.0093	Mahgul Yamam	5173-5184	5203-5232	5133-5242	0.6879
+SF13_ENG_052	org:city_of_headquarters	lsv	NIL
+SF13_ENG_052	org:country_of_headquarters	lsv	AFP_ENG_20100905.0079	Portugal	3040-3047	2931-2933	2911-3118	0.5601
+SF13_ENG_052	org:date_dissolved	lsv	NIL
+SF13_ENG_052	org:number_of_employees_members	lsv	APW_ENG_20090729.0487	1,000	1233-1237	1196-1198	1151-1304	0.2380
+SF13_ENG_052	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_052	org:website	lsv	NIL
+SF13_ENG_052	org:alternate_names	lsv	NIL
+SF13_ENG_052	org:founded_by	lsv	NIL
+SF13_ENG_052	org:member_of	lsv	NIL
+SF13_ENG_052	org:members	lsv	NIL
+SF13_ENG_052	org:parents	lsv	NIL
+SF13_ENG_052	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_052	org:shareholders	lsv	NIL
+SF13_ENG_052	org:subsidiaries	lsv	NIL
+SF13_ENG_052	org:top_members_employees	lsv	NIL
+SF13_ENG_053	org:country_of_headquarters	lsv	LTW_ENG_20091010.0074	United States	2116-2128	2243-2261	2088-2339	1.0000
+SF13_ENG_053	org:date_dissolved	lsv	NIL
+SF13_ENG_053	org:alternate_names	lsv	NIL
+SF13_ENG_053	org:founded_by	lsv	NIL
+SF13_ENG_053	org:member_of	lsv	NIL
+SF13_ENG_053	org:members	lsv	NIL
+SF13_ENG_053	org:parents	lsv	NIL
+SF13_ENG_053	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_053	org:shareholders	lsv	NIL
+SF13_ENG_053	org:subsidiaries	lsv	NIL
+SF13_ENG_053	org:top_members_employees	lsv	bolt-eng-DF-170-181103-8911258	Kai Huang	2240-2248	2449-2467	2208-2474	0.1283
+SF13_ENG_053	org:top_members_employees	lsv	APW_ENG_20091209.1324	Bob LaVenture	2060-2072	2022-2040	1968-2191	0.1596
+SF13_ENG_053	org:top_members_employees	lsv	eng-NG-31-142506-10058704	Holly Hart	2245-2254	2286-2304	2097-2305	0.0885
+SF13_ENG_053	org:top_members_employees	lsv	bolt-eng-DF-170-181103-8911258	Tom Conway	2394-2403	2449-2467	2208-2474	0.2840
+SF13_ENG_053	org:top_members_employees	lsv	APW_ENG_20100125.1116	Mark Glyptis	445-456	472-490	403-502	0.9747
+SF13_ENG_053	org:top_members_employees	lsv	NYT_ENG_20090708.0126	Andy Stern	6260-6269	6331-6349	6208-6350	0.1767
+SF13_ENG_053	org:top_members_employees	lsv	NYT_ENG_20100812.0170	Gary Beevers	3518-3529	3554-3572	3518-3660	0.7872
+SF13_ENG_053	org:top_members_employees	lsv	bolt-eng-DF-170-181103-8911258	Jinxiang Lu	2284-2294	2449-2467	2208-2474	0.0802
+SF13_ENG_053	org:top_members_employees	lsv	AFP_ENG_20101102.0364	Tim Waters	522-531	572-590	459-613	0.1535
+SF13_ENG_053	org:top_members_employees	lsv	LTW_ENG_20090624.0131	Gary Hubbard	3288-3299	3322-3340	3256-3461	0.0378
+SF13_ENG_053	org:top_members_employees	lsv	bolt-eng-DF-170-181113-61648	Wayne Ranick	2221-2232	2253-2271	1933-2286	0.0561
+SF13_ENG_053	org:top_members_employees	lsv	NYT_ENG_20100808.0113	Darrell Lillie	1106-1119	1135-1153	1067-1202	0.9028
+SF13_ENG_053	org:top_members_employees	lsv	APW_ENG_20090713.0901	Wayne Fraser	711-722	681-692	681-765	0.1165
+SF13_ENG_053	org:top_members_employees	lsv	XIN_ENG_20090908.0223	Ron Bloom	1651-1659	1711-1729	1596-1810	0.2253
+SF13_ENG_053	org:top_members_employees	lsv	NYT_ENG_20101022.0090	Andy Harkulich	4369-4382	4398-4416	4252-4590	0.6412
+SF13_ENG_053	org:top_members_employees	lsv	NYT_ENG_20090702.0082	Rich	6737-6740	6822-6840	6689-6841	0.1269
+SF13_ENG_053	org:top_members_employees	lsv	WPB_ENG_20100723.0040	Tim Goines	3374-3383	3404-3422	3286-3434	0.7397
+SF13_ENG_053	org:top_members_employees	lsv	APW_ENG_20090728.1184	Donna Blythe-Shaw	2378-2394	2428-2446	2172-2479	0.0812
+SF13_ENG_053	org:top_members_employees	lsv	WPB_ENG_20100518.0073	Gerard	2433-2438	2458-2476	2358-2565	0.7357
+SF13_ENG_053	org:top_members_employees	lsv	WPB_ENG_20100826.0005	Ron St. Pierre	5469-5482	5498-5509	5345-5568	0.7802
+SF13_ENG_053	org:top_members_employees	lsv	WPB_ENG_20100826.0005	Steve Hunt	4670-4679	4700-4718	4670-4883	0.3592
+SF13_ENG_053	org:top_members_employees	lsv	NYT_ENG_20100118.0173	Tim Tuttle	2214-2223	2275-2293	2133-2294	0.2373
+SF13_ENG_053	org:top_members_employees	lsv	APW_ENG_20090615.1046	Rolf Gerstenberger	857-874	894-912	733-925	0.9541
+SF13_ENG_053	org:top_members_employees	lsv	NYT_ENG_20100806.0119	Leo W. Gerard	2292-2304	2324-2342	2292-2547	0.8675
+SF13_ENG_053	org:top_members_employees	lsv	LTW_ENG_20091115.0007	Jon Geenan	6748-6757	6797-6815	6748-6849	0.1705
+SF13_ENG_053	org:top_members_employees	lsv	XIN_ENG_20090908.0223	Barack Obama	1625-1636	1711-1729	1596-1810	0.1069
+SF13_ENG_053	org:top_members_employees	lsv	APW_ENG_20101109.0881	Tedlar	1097-1102	1205-1223	990-1288	0.0955
+SF13_ENG_053	org:top_members_employees	lsv	NYT_ENG_20100224.0100	Anthony Fortunato	4273-4289	4323-4352	4224-4433	0.1847
+SF13_ENG_053	org:top_members_employees	lsv	bolt-eng-DF-212-191666-3031627	Alton Glass	33761-33771	33787-33805	33761-33984	0.7736
+SF13_ENG_053	org:top_members_employees	lsv	eng-NG-31-142685-8719021	Calderón	749-756	817-835	734-998	0.0930
+SF13_ENG_053	org:top_members_employees	lsv	APW_ENG_20101109.0750	Gary Guralny	722-733	753-771	722-935	1.0000
+SF13_ENG_054	org:city_of_headquarters	lsv	NIL
+SF13_ENG_054	org:country_of_headquarters	lsv	APW_ENG_20100930.0790	Ireland	8513-8519	8430-8445	8430-8597	0.0562
+SF13_ENG_054	org:date_dissolved	lsv	NIL
+SF13_ENG_054	org:date_founded	lsv	NIL
+SF13_ENG_054	org:number_of_employees_members	lsv	NIL
+SF13_ENG_054	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_054	org:website	lsv	NIL
+SF13_ENG_054	org:alternate_names	lsv	NIL
+SF13_ENG_054	org:founded_by	lsv	NIL
+SF13_ENG_054	org:member_of	lsv	NIL
+SF13_ENG_054	org:members	lsv	NIL
+SF13_ENG_054	org:parents	lsv	NIL
+SF13_ENG_054	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_054	org:shareholders	lsv	NIL
+SF13_ENG_054	org:subsidiaries	lsv	NIL
+SF13_ENG_054	org:top_members_employees	lsv	NIL
+SF13_ENG_055	org:city_of_headquarters	lsv	NIL
+SF13_ENG_055	org:country_of_headquarters	lsv	NIL
+SF13_ENG_055	org:date_dissolved	lsv	NIL
+SF13_ENG_055	org:date_founded	lsv	NIL
+SF13_ENG_055	org:number_of_employees_members	lsv	NIL
+SF13_ENG_055	org:stateorprovince_of_headquarters	lsv	APW_ENG_20100105.0596	Kentucky	316-323	273-299	180-324	0.6378
+SF13_ENG_055	org:website	lsv	NIL
+SF13_ENG_055	org:alternate_names	lsv	NIL
+SF13_ENG_055	org:founded_by	lsv	NIL
+SF13_ENG_055	org:member_of	lsv	NIL
+SF13_ENG_055	org:members	lsv	NIL
+SF13_ENG_055	org:parents	lsv	APW_ENG_20100105.0596	Aviva PLC	206-214	273-299	180-324	0.6094
+SF13_ENG_055	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_055	org:shareholders	lsv	NIL
+SF13_ENG_055	org:subsidiaries	lsv	NIL
+SF13_ENG_055	org:top_members_employees	lsv	NIL
+SF13_ENG_056	org:city_of_headquarters	lsv	NIL
+SF13_ENG_056	org:country_of_headquarters	lsv	NIL
+SF13_ENG_056	org:date_dissolved	lsv	NIL
+SF13_ENG_056	org:date_founded	lsv	NIL
+SF13_ENG_056	org:number_of_employees_members	lsv	NIL
+SF13_ENG_056	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_056	org:website	lsv	NIL
+SF13_ENG_056	org:alternate_names	lsv	NIL
+SF13_ENG_056	org:founded_by	lsv	NIL
+SF13_ENG_056	org:member_of	lsv	NIL
+SF13_ENG_056	org:members	lsv	NIL
+SF13_ENG_056	org:parents	lsv	NIL
+SF13_ENG_056	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_056	org:shareholders	lsv	NIL
+SF13_ENG_056	org:subsidiaries	lsv	NIL
+SF13_ENG_056	org:top_members_employees	lsv	APW_ENG_20100611.1151	Armond Morris	785-797	816-840	785-912	1.0000
+SF13_ENG_056	org:top_members_employees	lsv	NYT_ENG_20100611.0031	Don Koehler	947-957	986-1010	852-1011	0.4385
+SF13_ENG_057	org:city_of_headquarters	lsv	NYT_ENG_20091123.0201	Watertown	3629-3637	3563-3579	3517-3638	1.0000
+SF13_ENG_057	org:country_of_headquarters	lsv	NIL
+SF13_ENG_057	org:date_dissolved	lsv	NIL
+SF13_ENG_057	org:date_founded	lsv	NIL
+SF13_ENG_057	org:number_of_employees_members	lsv	NIL
+SF13_ENG_057	org:stateorprovince_of_headquarters	lsv	APW_ENG_20090918.0664	Massachusetts	449-461	419-430	419-549	0.6001
+SF13_ENG_057	org:website	lsv	NIL
+SF13_ENG_057	org:alternate_names	lsv	NIL
+SF13_ENG_057	org:founded_by	lsv	NIL
+SF13_ENG_057	org:member_of	lsv	NIL
+SF13_ENG_057	org:members	lsv	NIL
+SF13_ENG_057	org:parents	lsv	NIL
+SF13_ENG_057	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_057	org:shareholders	lsv	NIL
+SF13_ENG_057	org:subsidiaries	lsv	NIL
+SF13_ENG_057	org:top_members_employees	lsv	NYT_ENG_20100413.0124	Jason Forcier	1132-1144	1181-1196	1025-1197	0.0474
+SF13_ENG_057	org:top_members_employees	lsv	APW_ENG_20091217.0339	David Vieau	1004-1014	1024-1035	784-1059	1.0000
+SF13_ENG_058	org:city_of_headquarters	lsv	APW_ENG_20090612.0883	New York	503-510	475-491	475-590	1.0000
+SF13_ENG_058	org:country_of_headquarters	lsv	NYT_ENG_20090621.0070	United States	1103-1115	1212-1217	1070-1343	0.9942
+SF13_ENG_058	org:date_dissolved	lsv	NIL
+SF13_ENG_058	org:date_founded	lsv	APW_ENG_20090615.0589	1986-XX-XX	1491-1494	1436-1452	1436-1607	1.0000
+SF13_ENG_058	org:number_of_employees_members	lsv	NIL
+SF13_ENG_058	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_058	org:website	lsv	NIL
+SF13_ENG_058	org:alternate_names	lsv	NIL
+SF13_ENG_058	org:founded_by	lsv	APW_ENG_20090612.0855	Len Blavatnik	876-888	813-829	813-984	0.1418
+SF13_ENG_058	org:member_of	lsv	NIL
+SF13_ENG_058	org:members	lsv	NIL
+SF13_ENG_058	org:parents	lsv	NIL
+SF13_ENG_058	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_058	org:shareholders	lsv	NIL
+SF13_ENG_058	org:subsidiaries	lsv	NIL
+SF13_ENG_058	org:top_members_employees	lsv	NIL
+SF13_ENG_059	org:city_of_headquarters	lsv	NIL
+SF13_ENG_059	org:country_of_headquarters	lsv	APW_ENG_20100419.0274	United Kingdom	198-211	300-326	174-339	1.0000
+SF13_ENG_059	org:date_dissolved	lsv	NIL
+SF13_ENG_059	org:date_founded	lsv	NIL
+SF13_ENG_059	org:number_of_employees_members	lsv	NIL
+SF13_ENG_059	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_059	org:website	lsv	NIL
+SF13_ENG_059	org:alternate_names	lsv	NIL
+SF13_ENG_059	org:founded_by	lsv	NIL
+SF13_ENG_059	org:member_of	lsv	NIL
+SF13_ENG_059	org:members	lsv	NIL
+SF13_ENG_059	org:parents	lsv	NIL
+SF13_ENG_059	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_059	org:shareholders	lsv	NIL
+SF13_ENG_059	org:subsidiaries	lsv	NIL
+SF13_ENG_059	org:top_members_employees	lsv	eng-NG-31-142146-10010942	Michael Coogan	7745-7758	7794-7820	7745-7940	0.1360
+SF13_ENG_060	org:city_of_headquarters	lsv	NYT_ENG_20101217.0109	Washington	1526-1535	1471-1521	1339-1536	1.0000
+SF13_ENG_060	org:country_of_headquarters	lsv	eng-NG-31-108583-8119902	U.S.	3653-3656	3623-3626	3411-3778	0.4925
+SF13_ENG_060	org:date_dissolved	lsv	NIL
+SF13_ENG_060	org:date_founded	lsv	CNA_ENG_20100504.0031	1780-XX-XX	1664-1667	1647-1650	1643-1784	1.0000
+SF13_ENG_060	org:number_of_employees_members	lsv	APW_ENG_20090709.1079	2,533	3215-3219	3236-3239	3137-3262	1.0000
+SF13_ENG_060	org:stateorprovince_of_headquarters	lsv	eng-NG-31-127466-12067305	Louisiana	52413-52421	52345-52395	52125-52523	1.0000
+SF13_ENG_060	org:website	lsv	APW_ENG_20100222.0007	http://www.aaas.org	3918-3936	3912-3915	3912-3936	0.7539
+SF13_ENG_060	org:alternate_names	lsv	NIL
+SF13_ENG_060	org:founded_by	lsv	NIL
+SF13_ENG_060	org:member_of	lsv	NIL
+SF13_ENG_060	org:members	lsv	NIL
+SF13_ENG_060	org:parents	lsv	NIL
+SF13_ENG_060	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_060	org:shareholders	lsv	NIL
+SF13_ENG_060	org:subsidiaries	lsv	NIL
+SF13_ENG_060	org:top_members_employees	lsv	NYT_ENG_20100429.0167	Norman Augustine	2153-2168	2368-2418	2153-2633	0.3689
+SF13_ENG_060	org:top_members_employees	lsv	AFP_ENG_20100217.0598	Peter Agre	928-937	964-967	704-989	0.2358
+SF13_ENG_060	org:top_members_employees	lsv	eng-NG-31-106370-8897187	Mona Younis	3900-3910	3929-3932	3900-4107	0.6658
+SF13_ENG_060	org:top_members_employees	lsv	NYT_ENG_20100309.0045	Eric Stover	5393-5403	5481-5531	5327-5555	0.0375
+SF13_ENG_060	org:top_members_employees	lsv	eng-NG-31-107995-8936662	Sherwood Rowland	32086-32101	32182-32232	32081-32239	0.2133
+SF13_ENG_060	org:top_members_employees	lsv	APW_ENG_20091213.0002	Mark Frankel	1130-1141	1206-1256	993-1257	0.1624
+SF13_ENG_060	org:top_members_employees	lsv	NYT_ENG_20100811.0148	Ginger Pinholster	2705-2721	2761-2811	2705-3093	0.1552
+SF13_ENG_060	org:top_members_employees	lsv	eng-NG-31-100442-10796001	John P. Holdren	31881-31895	31915-31965	31797-32013	0.9802
+SF13_ENG_060	org:top_members_employees	lsv	eng-NG-31-106345-11986075	D.S. Greenberg	102898-102911	102944-102947	102861-103151	0.1261
+SF13_ENG_060	org:top_members_employees	lsv	NYT_ENG_20100429.0167	Mary Good	2331-2339	2368-2418	2153-2633	0.3036
+SF13_ENG_060	org:top_members_employees	lsv	eng-NG-31-142159-10036341	Lars Bromley	2230-2241	2260-2263	2134-2272	0.7932
+SF13_ENG_060	org:top_members_employees	lsv	AFP_ENG_20101110.0270	Patrick Clemins	683-697	763-813	596-814	0.3420
+SF13_ENG_060	org:top_members_employees	lsv	NYT_ENG_20101103.0174	Joanne Carney	3141-3153	3172-3222	3053-3269	1.0000
+SF13_ENG_060	org:top_members_employees	lsv	NYT_ENG_20100429.0167	Patricia Goldman	2247-2262	2368-2418	2153-2633	0.6482
+SF13_ENG_060	org:top_members_employees	lsv	eng-NG-31-141808-9966660	Farah	18717-18721	18793-18843	18615-18844	0.0459
+SF13_ENG_060	org:top_members_employees	lsv	NYT_ENG_20101217.0109	Albert H. Teich	1407-1421	1471-1521	1339-1536	0.3602
+SF13_ENG_060	org:top_members_employees	lsv	LTW_ENG_20090709.0103	Alan Leshner	1703-1714	1729-1779	1690-1823	0.3222
+SF13_ENG_061	org:date_dissolved	lsv	NIL
+SF13_ENG_061	org:number_of_employees_members	lsv	APW_ENG_20090713.1089	more than 4,200	1625-1639	1591-1619	1591-1675	0.7685
+SF13_ENG_061	org:alternate_names	lsv	NIL
+SF13_ENG_061	org:founded_by	lsv	NIL
+SF13_ENG_061	org:member_of	lsv	NIL
+SF13_ENG_061	org:members	lsv	NIL
+SF13_ENG_061	org:parents	lsv	NIL
+SF13_ENG_061	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_061	org:shareholders	lsv	NIL
+SF13_ENG_061	org:subsidiaries	lsv	NYT_ENG_20100404.0026	Holiday Inn Express	2262-2280	2292-2320	2246-2440	1.0000
+SF13_ENG_061	org:top_members_employees	lsv	NYT_ENG_20091201.0036	Don Berg	3646-3653	3687-3715	3578-3802	0.8616
+SF13_ENG_062	org:city_of_headquarters	lsv	NYT_ENG_20090709.0108	Washington	2460-2469	2424-2455	2388-2719	0.2195
+SF13_ENG_062	org:country_of_headquarters	lsv	XIN_ENG_20100615.0302	China	591-595	822-853	490-854	1.0000
+SF13_ENG_062	org:date_dissolved	lsv	NIL
+SF13_ENG_062	org:date_founded	lsv	NIL
+SF13_ENG_062	org:number_of_employees_members	lsv	NIL
+SF13_ENG_062	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_062	org:website	lsv	NIL
+SF13_ENG_062	org:alternate_names	lsv	NIL
+SF13_ENG_062	org:founded_by	lsv	NIL
+SF13_ENG_062	org:member_of	lsv	NIL
+SF13_ENG_062	org:members	lsv	NIL
+SF13_ENG_062	org:parents	lsv	NIL
+SF13_ENG_062	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_062	org:shareholders	lsv	NIL
+SF13_ENG_062	org:subsidiaries	lsv	NIL
+SF13_ENG_062	org:top_members_employees	lsv	WPB_ENG_20100427.0001	Andy Kunz	5023-5031	5051-5082	4970-5147	1.0000
+SF13_ENG_063	org:city_of_headquarters	lsv	WPB_ENG_20100930.0045	Fort Worth	782-791	815-848	677-895	0.1954
+SF13_ENG_063	org:country_of_headquarters	lsv	XIN_ENG_20091103.0179	U.S.	302-305	244-276	184-369	1.0000
+SF13_ENG_063	org:date_dissolved	lsv	NIL
+SF13_ENG_063	org:date_founded	lsv	NIL
+SF13_ENG_063	org:number_of_employees_members	lsv	NIL
+SF13_ENG_063	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_063	org:website	lsv	NIL
+SF13_ENG_063	org:alternate_names	lsv	NIL
+SF13_ENG_063	org:founded_by	lsv	NIL
+SF13_ENG_063	org:member_of	lsv	NIL
+SF13_ENG_063	org:members	lsv	NIL
+SF13_ENG_063	org:parents	lsv	WPB_ENG_20100913.0044	Berkshire	615-623	641-674	615-764	0.0890
+SF13_ENG_063	org:parents	lsv	APW_ENG_20091103.0564	Berkshire Hathaway	641-658	681-713	602-714	0.5165
+SF13_ENG_063	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_063	org:shareholders	lsv	NIL
+SF13_ENG_063	org:subsidiaries	lsv	NIL
+SF13_ENG_063	org:top_members_employees	lsv	NIL
+SF13_ENG_064	org:city_of_headquarters	lsv	NIL
+SF13_ENG_064	org:country_of_headquarters	lsv	AFP_ENG_20101110.0394	United Arab Emirates	323-342	392-396	191-408	1.0000
+SF13_ENG_064	org:date_dissolved	lsv	NIL
+SF13_ENG_064	org:date_founded	lsv	XIN_ENG_20100315.0310	1966-XX-XX	1941-1944	1919-1923	1919-2053	1.0000
+SF13_ENG_064	org:number_of_employees_members	lsv	NIL
+SF13_ENG_064	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_064	org:website	lsv	NIL
+SF13_ENG_064	org:alternate_names	lsv	eng-NG-31-142159-10036079	SIPRI	19759-19763	19706-19753	19493-19764	1.0000
+SF13_ENG_064	org:founded_by	lsv	NIL
+SF13_ENG_064	org:member_of	lsv	NIL
+SF13_ENG_064	org:members	lsv	NIL
+SF13_ENG_064	org:parents	lsv	NIL
+SF13_ENG_064	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_064	org:shareholders	lsv	NIL
+SF13_ENG_064	org:subsidiaries	lsv	NIL
+SF13_ENG_064	org:top_members_employees	lsv	APW_ENG_20090809.0009	Hugh Griffiths	1261-1274	1295-1342	1206-1353	0.0467
+SF13_ENG_064	org:top_members_employees	lsv	AFP_ENG_20101110.0394	Siemon Wezeman	2203-2216	2242-2246	1957-2300	0.1137
+SF13_ENG_064	org:top_members_employees	lsv	XIN_ENG_20091211.0188	Al Qaida	500-507	709-756	417-757	0.0323
+SF13_ENG_064	org:top_members_employees	lsv	XIN_ENG_20100410.0153	Henrik Salander	372-386	411-458	199-511	0.0264
+SF13_ENG_064	org:top_members_employees	lsv	XIN_ENG_20100609.0223	May-Britt Stumbaum	1727-1744	1755-1759	1727-2010	0.0509
+SF13_ENG_064	org:top_members_employees	lsv	XIN_ENG_20100602.0239	Sam Perlo-Freeman	1128-1144	1191-1195	1010-1196	0.0698
+SF13_ENG_064	org:top_members_employees	lsv	WPB_ENG_20101216.0013	Bates Gill	4236-4245	4264-4311	4072-4312	0.9864
+SF13_ENG_064	org:top_members_employees	lsv	XIN_ENG_20100315.0310	Paul Holtom	993-1003	872-876	871-1142	1.0000
+SF13_ENG_064	org:top_members_employees	lsv	APW_ENG_20101021.0266	Pieter Wezeman	1700-1713	1743-1790	1610-1836	0.0368
+SF13_ENG_064	org:top_members_employees	lsv	WPB_ENG_20101216.0013	Dmitry Medvedev	4174-4188	4264-4311	4072-4312	0.0385
+SF13_ENG_065	org:city_of_headquarters	lsv	NIL
+SF13_ENG_065	org:country_of_headquarters	lsv	NIL
+SF13_ENG_065	org:date_dissolved	lsv	NIL
+SF13_ENG_065	org:date_founded	lsv	NIL
+SF13_ENG_065	org:number_of_employees_members	lsv	NIL
+SF13_ENG_065	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_065	org:website	lsv	APW_ENG_20100808.0239	http://www.osbva.org/	7398-7418	7365-7395	7365-7418	0.7539
+SF13_ENG_065	org:alternate_names	lsv	NIL
+SF13_ENG_065	org:founded_by	lsv	NIL
+SF13_ENG_065	org:member_of	lsv	NIL
+SF13_ENG_065	org:members	lsv	NIL
+SF13_ENG_065	org:parents	lsv	NIL
+SF13_ENG_065	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_065	org:shareholders	lsv	NIL
+SF13_ENG_065	org:subsidiaries	lsv	NIL
+SF13_ENG_065	org:top_members_employees	lsv	NIL
+SF13_ENG_066	org:city_of_headquarters	lsv	NIL
+SF13_ENG_066	org:country_of_headquarters	lsv	NIL
+SF13_ENG_066	org:date_dissolved	lsv	NIL
+SF13_ENG_066	org:date_founded	lsv	NIL
+SF13_ENG_066	org:number_of_employees_members	lsv	NIL
+SF13_ENG_066	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_066	org:website	lsv	APW_ENG_20100817.0427	http://www.npf.gov.ng	4038-4058	4016-4035	4016-4058	0.7539
+SF13_ENG_066	org:alternate_names	lsv	NIL
+SF13_ENG_066	org:founded_by	lsv	NIL
+SF13_ENG_066	org:member_of	lsv	NIL
+SF13_ENG_066	org:members	lsv	NIL
+SF13_ENG_066	org:parents	lsv	NIL
+SF13_ENG_066	org:political_religious_affiliation	lsv	XIN_ENG_20100909.0136	Islamic	409-415	196-216	169-422	1.0000
+SF13_ENG_066	org:shareholders	lsv	NIL
+SF13_ENG_066	org:subsidiaries	lsv	NIL
+SF13_ENG_066	org:top_members_employees	lsv	NIL
+SF13_ENG_067	org:city_of_headquarters	lsv	WPB_ENG_20100909.0009	San Francisco	868-880	806-830	644-881	0.6056
+SF13_ENG_067	org:country_of_headquarters	lsv	NYT_ENG_20100731.0050	United States	5623-5635	5576-5600	5467-5811	1.0000
+SF13_ENG_067	org:date_dissolved	lsv	NIL
+SF13_ENG_067	org:date_founded	lsv	NIL
+SF13_ENG_067	org:number_of_employees_members	lsv	NIL
+SF13_ENG_067	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_067	org:website	lsv	eng-NG-31-108620-9000183	http://www.plos.org/	2896-2915	2868-2892	2860-2983	1.0000
+SF13_ENG_067	org:alternate_names	lsv	NIL
+SF13_ENG_067	org:founded_by	lsv	NIL
+SF13_ENG_067	org:member_of	lsv	NIL
+SF13_ENG_067	org:members	lsv	NIL
+SF13_ENG_067	org:parents	lsv	NIL
+SF13_ENG_067	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_067	org:shareholders	lsv	NIL
+SF13_ENG_067	org:subsidiaries	lsv	NIL
+SF13_ENG_067	org:top_members_employees	lsv	AFP_ENG_20090820.0096	Harold Varmus	613-625	555-558	483-665	1.0000
+SF13_ENG_067	org:top_members_employees	lsv	APW_ENG_20100302.0494	Michael Benton	2342-2355	2407-2410	2342-2492	0.1468
+SF13_ENG_067	org:top_members_employees	lsv	NYT_ENG_20091217.0076	Kathryn Whetten	3931-3945	4118-4121	3875-4126	0.5106
+SF13_ENG_068	org:city_of_headquarters	lsv	NIL
+SF13_ENG_068	org:country_of_headquarters	lsv	NIL
+SF13_ENG_068	org:date_dissolved	lsv	NIL
+SF13_ENG_068	org:date_founded	lsv	NIL
+SF13_ENG_068	org:number_of_employees_members	lsv	NIL
+SF13_ENG_068	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_068	org:website	lsv	NIL
+SF13_ENG_068	org:alternate_names	lsv	NIL
+SF13_ENG_068	org:founded_by	lsv	NIL
+SF13_ENG_068	org:member_of	lsv	NIL
+SF13_ENG_068	org:members	lsv	NIL
+SF13_ENG_068	org:parents	lsv	NIL
+SF13_ENG_068	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_068	org:shareholders	lsv	NIL
+SF13_ENG_068	org:subsidiaries	lsv	NIL
+SF13_ENG_068	org:top_members_employees	lsv	LTW_ENG_20091220.0038	John Overstreet	1042-1056	1075-1100	841-1131	1.0000
+SF13_ENG_069	org:city_of_headquarters	lsv	APW_ENG_20090729.0945	Lyon	1162-1165	1115-1157	1011-1215	0.7951
+SF13_ENG_069	org:country_of_headquarters	lsv	eng-NG-31-106361-8895201	France	1516-1521	1463-1505	1310-1595	0.7015
+SF13_ENG_069	org:date_dissolved	lsv	NIL
+SF13_ENG_069	org:date_founded	lsv	NIL
+SF13_ENG_069	org:number_of_employees_members	lsv	NIL
+SF13_ENG_069	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_069	org:website	lsv	APW_ENG_20100516.0593	http://www.iarc.fr/	2359-2377	2314-2356	2314-2377	0.7539
+SF13_ENG_069	org:alternate_names	lsv	APW_ENG_20100517.0926	IARC	2976-2979	2928-2970	2808-3007	0.8953
+SF13_ENG_069	org:founded_by	lsv	NIL
+SF13_ENG_069	org:member_of	lsv	NIL
+SF13_ENG_069	org:members	lsv	NIL
+SF13_ENG_069	org:parents	lsv	eng-NG-31-100638-8845374	World Health Organization of the United Nations	411-457	346-388	312-580	0.2991
+SF13_ENG_069	org:parents	lsv	eng-NG-31-141913-9976379	World Health Organization	26037-26061	25976-26018	25964-26151	1.0000
+SF13_ENG_069	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_069	org:shareholders	lsv	NIL
+SF13_ENG_069	org:subsidiaries	lsv	NIL
+SF13_ENG_069	org:top_members_employees	lsv	WPB_ENG_20100517.0069	Christopher Wild	1362-1377	1396-1438	1301-1455	1.0000
+SF13_ENG_069	org:top_members_employees	lsv	eng-NG-31-139107-9822073	Elio Riboli	24604-24614	24656-24698	24575-24777	0.0416
+SF13_ENG_069	org:top_members_employees	lsv	eng-NG-31-147907-10554827	Mark Rea	4151-4158	4272-4275	4048-4296	0.3670
+SF13_ENG_069	org:top_members_employees	lsv	eng-NG-31-147907-10554827	Vincent Cogliano	2998-3013	3054-3057	2951-3103	0.5674
+SF13_ENG_069	org:top_members_employees	lsv	eng-NG-31-108150-8969104	Attila Matas	4174-4185	4158-4161	4111-4294	0.0039
+SF13_ENG_069	org:top_members_employees	lsv	eng-NG-31-106361-8895596	Dr Peter Boyle	766-779	794-797	689-798	0.0994
+SF13_ENG_070	org:city_of_headquarters	lsv	NIL
+SF13_ENG_070	org:country_of_headquarters	lsv	NIL
+SF13_ENG_070	org:date_dissolved	lsv	NIL
+SF13_ENG_070	org:date_founded	lsv	NIL
+SF13_ENG_070	org:number_of_employees_members	lsv	NIL
+SF13_ENG_070	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_070	org:website	lsv	APW_ENG_20101028.0695	http://www.cfmt.org/	2274-2293	2232-2271	2232-2293	0.7539
+SF13_ENG_070	org:alternate_names	lsv	NIL
+SF13_ENG_070	org:founded_by	lsv	NIL
+SF13_ENG_070	org:member_of	lsv	NIL
+SF13_ENG_070	org:members	lsv	NIL
+SF13_ENG_070	org:parents	lsv	NIL
+SF13_ENG_070	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_070	org:shareholders	lsv	NIL
+SF13_ENG_070	org:subsidiaries	lsv	NIL
+SF13_ENG_070	org:top_members_employees	lsv	NIL
+SF13_ENG_071	org:city_of_headquarters	lsv	NIL
+SF13_ENG_071	org:country_of_headquarters	lsv	NIL
+SF13_ENG_071	org:date_dissolved	lsv	NIL
+SF13_ENG_071	org:date_founded	lsv	NIL
+SF13_ENG_071	org:number_of_employees_members	lsv	NIL
+SF13_ENG_071	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_071	org:website	lsv	APW_ENG_20090714.0494	http://www.sete.gr/	1199-1217	1157-1196	1157-1217	0.7539
+SF13_ENG_071	org:alternate_names	lsv	NIL
+SF13_ENG_071	org:founded_by	lsv	NIL
+SF13_ENG_071	org:member_of	lsv	NIL
+SF13_ENG_071	org:members	lsv	NIL
+SF13_ENG_071	org:parents	lsv	NIL
+SF13_ENG_071	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_071	org:shareholders	lsv	NIL
+SF13_ENG_071	org:subsidiaries	lsv	NIL
+SF13_ENG_071	org:top_members_employees	lsv	NIL
+SF13_ENG_072	org:country_of_headquarters	lsv	NIL
+SF13_ENG_072	org:date_dissolved	lsv	NIL
+SF13_ENG_072	org:number_of_employees_members	lsv	NIL
+SF13_ENG_072	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_072	org:alternate_names	lsv	NIL
+SF13_ENG_072	org:founded_by	lsv	NIL
+SF13_ENG_072	org:member_of	lsv	NIL
+SF13_ENG_072	org:members	lsv	NIL
+SF13_ENG_072	org:parents	lsv	NIL
+SF13_ENG_072	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_072	org:shareholders	lsv	NIL
+SF13_ENG_072	org:subsidiaries	lsv	NIL
+SF13_ENG_072	org:top_members_employees	lsv	NIL
+SF13_ENG_073	org:top_members_employees	lsv	NIL
+SF13_ENG_073	org:city_of_headquarters	lsv	APW_ENG_20091021.0307	New York	750-757	709-738	709-811	1.0000
+SF13_ENG_073	org:country_of_headquarters	lsv	AFP_ENG_20100202.0597	Britain	822-828	777-806	707-913	0.3841
+SF13_ENG_073	org:date_dissolved	lsv	NIL
+SF13_ENG_073	org:date_founded	lsv	NIL
+SF13_ENG_073	org:number_of_employees_members	lsv	NIL
+SF13_ENG_073	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_073	org:website	lsv	NIL
+SF13_ENG_073	org:alternate_names	lsv	NIL
+SF13_ENG_073	org:founded_by	lsv	NIL
+SF13_ENG_073	org:member_of	lsv	NIL
+SF13_ENG_073	org:members	lsv	NIL
+SF13_ENG_073	org:parents	lsv	NIL
+SF13_ENG_073	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_073	org:shareholders	lsv	NIL
+SF13_ENG_073	org:subsidiaries	lsv	NIL
+SF13_ENG_074	org:city_of_headquarters	lsv	NIL
+SF13_ENG_074	org:country_of_headquarters	lsv	AFP_ENG_20100902.0339	Hong Kong	970-978	900-925	788-1027	0.1582
+SF13_ENG_074	org:date_dissolved	lsv	NIL
+SF13_ENG_074	org:date_founded	lsv	NIL
+SF13_ENG_074	org:number_of_employees_members	lsv	NIL
+SF13_ENG_074	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_074	org:website	lsv	NIL
+SF13_ENG_074	org:alternate_names	lsv	NIL
+SF13_ENG_074	org:founded_by	lsv	NIL
+SF13_ENG_074	org:member_of	lsv	NIL
+SF13_ENG_074	org:members	lsv	NIL
+SF13_ENG_074	org:parents	lsv	NIL
+SF13_ENG_074	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_074	org:shareholders	lsv	NIL
+SF13_ENG_074	org:subsidiaries	lsv	NIL
+SF13_ENG_074	org:top_members_employees	lsv	NIL
+SF13_ENG_075	org:city_of_headquarters	lsv	NIL
+SF13_ENG_075	org:country_of_headquarters	lsv	NIL
+SF13_ENG_075	org:date_dissolved	lsv	NIL
+SF13_ENG_075	org:date_founded	lsv	NIL
+SF13_ENG_075	org:number_of_employees_members	lsv	NIL
+SF13_ENG_075	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_075	org:website	lsv	APW_ENG_20100611.1296	http://www.fchampalimaud.org/	2217-2245	2192-2214	2192-2245	0.7539
+SF13_ENG_075	org:alternate_names	lsv	NIL
+SF13_ENG_075	org:founded_by	lsv	NIL
+SF13_ENG_075	org:member_of	lsv	NIL
+SF13_ENG_075	org:members	lsv	NIL
+SF13_ENG_075	org:parents	lsv	NIL
+SF13_ENG_075	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_075	org:shareholders	lsv	NIL
+SF13_ENG_075	org:subsidiaries	lsv	NIL
+SF13_ENG_075	org:top_members_employees	lsv	AFP_ENG_20101005.0319	Leonor Beleza	981-993	1013-1035	977-1193	1.0000
+SF13_ENG_076	org:city_of_headquarters	lsv	WPB_ENG_20100414.0029	Basel	3074-3078	3045-3069	2852-3079	0.8034
+SF13_ENG_076	org:country_of_headquarters	lsv	APW_ENG_20101031.0351	Italy	445-449	371-395	351-554	0.1646
+SF13_ENG_076	org:date_dissolved	lsv	NIL
+SF13_ENG_076	org:date_founded	lsv	NIL
+SF13_ENG_076	org:number_of_employees_members	lsv	AFP_ENG_20090917.0540	360	657-659	614-638	396-696	0.7008
+SF13_ENG_076	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_076	org:website	lsv	NIL
+SF13_ENG_076	org:alternate_names	lsv	NIL
+SF13_ENG_076	org:founded_by	lsv	NIL
+SF13_ENG_076	org:member_of	lsv	NIL
+SF13_ENG_076	org:members	lsv	NIL
+SF13_ENG_076	org:parents	lsv	NIL
+SF13_ENG_076	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_076	org:shareholders	lsv	NIL
+SF13_ENG_076	org:subsidiaries	lsv	NIL
+SF13_ENG_076	org:top_members_employees	lsv	WPB_ENG_20100202.0040	Patrick Odier	3667-3679	3698-3722	3481-3802	1.0000
+SF13_ENG_076	org:top_members_employees	lsv	APW_ENG_20101201.0758	Claude-Alain Margelisch	429-451	465-489	369-490	0.7890
+SF13_ENG_076	org:top_members_employees	lsv	AFP_ENG_20090917.0540	Urs Roth	581-588	614-638	396-696	0.2701
+SF13_ENG_076	org:top_members_employees	lsv	NYT_ENG_20090602.0031	Urs P. Roth	2897-2907	2933-2957	2851-3027	0.2698
+SF13_ENG_077	org:city_of_headquarters	lsv	bolt-eng-DF-212-191669-3115113	Washington	17877-17886	17830-17853	17822-17897	0.1778
+SF13_ENG_077	org:country_of_headquarters	lsv	APW_ENG_20100225.1610	U.S.	3045-3048	2926-2949	2905-3121	1.0000
+SF13_ENG_077	org:date_dissolved	lsv	NIL
+SF13_ENG_077	org:date_founded	lsv	NIL
+SF13_ENG_077	org:number_of_employees_members	lsv	NIL
+SF13_ENG_077	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_077	org:website	lsv	NIL
+SF13_ENG_077	org:alternate_names	lsv	NIL
+SF13_ENG_077	org:founded_by	lsv	NIL
+SF13_ENG_077	org:member_of	lsv	NIL
+SF13_ENG_077	org:members	lsv	NIL
+SF13_ENG_077	org:parents	lsv	NIL
+SF13_ENG_077	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_077	org:shareholders	lsv	NIL
+SF13_ENG_077	org:subsidiaries	lsv	NIL
+SF13_ENG_077	org:top_members_employees	lsv	XIN_ENG_20100220.0102	Tom Kauffman	2859-2870	2891-2914	2807-2955	0.2724
+SF13_ENG_077	org:top_members_employees	lsv	NYT_ENG_20100224.0184	Leslie Kass	2203-2213	2271-2294	2143-2326	0.2559
+SF13_ENG_077	org:top_members_employees	lsv	NYT_ENG_20100209.0170	Ralph Andersen	2954-2967	3043-3066	2785-3101	0.1639
+SF13_ENG_077	org:top_members_employees	lsv	APW_ENG_20090617.0001	Steve Kerekes	2728-2740	2763-2786	2614-2802	0.0828
+SF13_ENG_077	org:top_members_employees	lsv	AFP_ENG_20091115.0328	Carol Berrigan	2509-2522	2575-2598	2509-2731	0.1841
+SF13_ENG_077	org:top_members_employees	lsv	APW_ENG_20091025.0428	Marvin Fertel	1309-1321	1341-1364	1186-1413	1.0000
+SF13_ENG_077	org:top_members_employees	lsv	APW_ENG_20101019.0002	Richard Myers	5795-5807	5855-5878	5690-5898	0.2329
+SF13_ENG_078	org:city_of_headquarters	lsv	eng-NG-31-126851-9167106	Ann Arbor	9122-9130	9052-9073	9008-9225	1.0000
+SF13_ENG_078	org:country_of_headquarters	lsv	bolt-eng-DF-170-181106-8873854	United Kingdom	15499-15512	15316-15337	15281-15514	0.1316
+SF13_ENG_078	org:date_dissolved	lsv	NIL
+SF13_ENG_078	org:date_founded	lsv	NIL
+SF13_ENG_078	org:number_of_employees_members	lsv	NIL
+SF13_ENG_078	org:stateorprovince_of_headquarters	lsv	bolt-eng-DF-199-192823-6764122	Mich.	7613-7617	7576-7597	7543-7706	1.0000
+SF13_ENG_078	org:website	lsv	NIL
+SF13_ENG_078	org:alternate_names	lsv	NIL
+SF13_ENG_078	org:founded_by	lsv	NIL
+SF13_ENG_078	org:member_of	lsv	NIL
+SF13_ENG_078	org:members	lsv	NIL
+SF13_ENG_078	org:parents	lsv	NIL
+SF13_ENG_078	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_078	org:shareholders	lsv	NIL
+SF13_ENG_078	org:subsidiaries	lsv	NIL
+SF13_ENG_078	org:top_members_employees	lsv	APW_ENG_20100528.1421	Islam	648-652	743-764	603-778	0.1189
+SF13_ENG_078	org:top_members_employees	lsv	NYT_ENG_20101007.0097	Robert J. Muise	2296-2310	2341-2362	2296-2409	0.0476
+SF13_ENG_078	org:top_members_employees	lsv	bolt-eng-DF-170-181109-54811	Richard Thompson	1807-1822	1842-1863	1561-1946	1.0000
+SF13_ENG_079	org:city_of_headquarters	lsv	NIL
+SF13_ENG_079	org:country_of_headquarters	lsv	NIL
+SF13_ENG_079	org:date_dissolved	lsv	NIL
+SF13_ENG_079	org:date_founded	lsv	NIL
+SF13_ENG_079	org:number_of_employees_members	lsv	NIL
+SF13_ENG_079	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_079	org:website	lsv	NIL
+SF13_ENG_079	org:alternate_names	lsv	NIL
+SF13_ENG_079	org:founded_by	lsv	NIL
+SF13_ENG_079	org:member_of	lsv	NIL
+SF13_ENG_079	org:members	lsv	NIL
+SF13_ENG_079	org:parents	lsv	NIL
+SF13_ENG_079	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_079	org:shareholders	lsv	NIL
+SF13_ENG_079	org:subsidiaries	lsv	NIL
+SF13_ENG_079	org:top_members_employees	lsv	XIN_ENG_20100901.0226	Anders Bertil	381-393	422-460	205-467	0.9868
+SF13_ENG_079	org:top_members_employees	lsv	XIN_ENG_20100906.0261	Anders Berntell	586-600	625-663	422-690	1.0000
+SF13_ENG_080	org:city_of_headquarters	lsv	NIL
+SF13_ENG_080	org:country_of_headquarters	lsv	eng-NG-31-127304-9209854	India	708-712	691-694	637-712	1.0000
+SF13_ENG_080	org:date_dissolved	lsv	NIL
+SF13_ENG_080	org:date_founded	lsv	NIL
+SF13_ENG_080	org:number_of_employees_members	lsv	NIL
+SF13_ENG_080	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_080	org:website	lsv	NIL
+SF13_ENG_080	org:alternate_names	lsv	NIL
+SF13_ENG_080	org:founded_by	lsv	NIL
+SF13_ENG_080	org:member_of	lsv	NIL
+SF13_ENG_080	org:members	lsv	NIL
+SF13_ENG_080	org:parents	lsv	AFP_ENG_20090817.0207	UN	509-510	562-601	364-609	0.0958
+SF13_ENG_080	org:parents	lsv	eng-NG-31-110705-9049626	Consultative Group	5117-5134	5099-5102	5099-5366	0.2036
+SF13_ENG_080	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_080	org:shareholders	lsv	NIL
+SF13_ENG_080	org:subsidiaries	lsv	NIL
+SF13_ENG_080	org:top_members_employees	lsv	XIN_ENG_20100909.0207	Colin Chartres	867-880	923-926	715-942	0.6745
+SF13_ENG_080	org:top_members_employees	lsv	bolt-eng-DF-170-181110-8770765	Tushar Shah	12038-12048	12063-12102	12029-12209	1.0000
+SF13_ENG_081	org:city_of_headquarters	lsv	NIL
+SF13_ENG_081	org:country_of_headquarters	lsv	NIL
+SF13_ENG_081	org:date_dissolved	lsv	NIL
+SF13_ENG_081	org:date_founded	lsv	NIL
+SF13_ENG_081	org:number_of_employees_members	lsv	NIL
+SF13_ENG_081	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_081	org:website	lsv	APW_ENG_20100927.0836	http://www.dc-opera.org/	2315-2338	2288-2312	2288-2338	0.7539
+SF13_ENG_081	org:alternate_names	lsv	NIL
+SF13_ENG_081	org:founded_by	lsv	NIL
+SF13_ENG_081	org:member_of	lsv	NIL
+SF13_ENG_081	org:members	lsv	NIL
+SF13_ENG_081	org:parents	lsv	NIL
+SF13_ENG_081	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_081	org:shareholders	lsv	NIL
+SF13_ENG_081	org:subsidiaries	lsv	NIL
+SF13_ENG_081	org:top_members_employees	lsv	AFP_ENG_20101006.0013	Philippe Auguin	235-249	288-312	194-354	0.1411
+SF13_ENG_081	org:top_members_employees	lsv	NYT_ENG_20100113.0107	Kenneth R. Feinberg	8509-8527	8550-8574	8509-8610	1.0000
+SF13_ENG_081	org:top_members_employees	lsv	NYT_ENG_20090715.0030	Mark J. Weinstein	1049-1065	1094-1118	926-1119	0.4809
+SF13_ENG_081	org:top_members_employees	lsv	NYT_ENG_20090715.0030	Lenny	927-931	1094-1118	926-1119	0.1908
+SF13_ENG_082	org:city_of_headquarters	lsv	NYT_ENG_20100119.0106	Washington	2339-2348	2306-2334	2207-2349	0.6443
+SF13_ENG_082	org:country_of_headquarters	lsv	NYT_ENG_20100803.0152	United States	9578-9590	9627-9655	9373-9656	0.3844
+SF13_ENG_082	org:date_dissolved	lsv	NIL
+SF13_ENG_082	org:date_founded	lsv	NIL
+SF13_ENG_082	org:number_of_employees_members	lsv	NIL
+SF13_ENG_082	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_082	org:website	lsv	APW_ENG_20100121.0035	http://www.adoptioncouncil.org/index.html	5047-5087	5016-5044	5016-5087	0.7539
+SF13_ENG_082	org:alternate_names	lsv	NIL
+SF13_ENG_082	org:founded_by	lsv	NIL
+SF13_ENG_082	org:member_of	lsv	NIL
+SF13_ENG_082	org:members	lsv	NIL
+SF13_ENG_082	org:parents	lsv	NIL
+SF13_ENG_082	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_082	org:shareholders	lsv	NIL
+SF13_ENG_082	org:subsidiaries	lsv	NIL
+SF13_ENG_082	org:top_members_employees	lsv	APW_ENG_20101226.0005	Chuck Johnson	5137-5149	5163-5191	5137-5385	0.6926
+SF13_ENG_082	org:top_members_employees	lsv	APW_ENG_20100121.0035	Mary Robinson	2719-2731	2745-2773	2658-2774	0.4836
+SF13_ENG_082	org:top_members_employees	lsv	NYT_ENG_20100119.0106	Mary F. Robinson	2267-2282	2306-2334	2207-2349	1.0000
+SF13_ENG_083	org:city_of_headquarters	lsv	NIL
+SF13_ENG_083	org:country_of_headquarters	lsv	NIL
+SF13_ENG_083	org:date_dissolved	lsv	NIL
+SF13_ENG_083	org:date_founded	lsv	NIL
+SF13_ENG_083	org:number_of_employees_members	lsv	NIL
+SF13_ENG_083	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_083	org:website	lsv	NIL
+SF13_ENG_083	org:alternate_names	lsv	NIL
+SF13_ENG_083	org:founded_by	lsv	NIL
+SF13_ENG_083	org:member_of	lsv	NIL
+SF13_ENG_083	org:members	lsv	NIL
+SF13_ENG_083	org:parents	lsv	NIL
+SF13_ENG_083	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_083	org:shareholders	lsv	NIL
+SF13_ENG_083	org:subsidiaries	lsv	NIL
+SF13_ENG_083	org:top_members_employees	lsv	NIL
+SF13_ENG_084	org:city_of_headquarters	lsv	NYT_ENG_20100615.0147	Washington	1697-1706	1669-1692	1576-1707	1.0000
+SF13_ENG_084	org:country_of_headquarters	lsv	NYT_ENG_20101229.0034	China	6078-6082	6261-6284	5901-6317	0.8190
+SF13_ENG_084	org:date_dissolved	lsv	NIL
+SF13_ENG_084	org:date_founded	lsv	NIL
+SF13_ENG_084	org:number_of_employees_members	lsv	NIL
+SF13_ENG_084	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_084	org:website	lsv	APW_ENG_20100910.0695	http://www.bipartisanpolicy.org/	4744-4775	4718-4741	4718-4775	0.7539
+SF13_ENG_084	org:alternate_names	lsv	NIL
+SF13_ENG_084	org:founded_by	lsv	NYT_ENG_20100826.0058	Bob Dole	5300-5307	5159-5182	5155-5430	0.2054
+SF13_ENG_084	org:member_of	lsv	NIL
+SF13_ENG_084	org:members	lsv	NIL
+SF13_ENG_084	org:parents	lsv	NIL
+SF13_ENG_084	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_084	org:shareholders	lsv	NIL
+SF13_ENG_084	org:subsidiaries	lsv	NIL
+SF13_ENG_084	org:top_members_employees	lsv	NYT_ENG_20091212.0085	Jason Grumet	1720-1731	1751-1774	1672-1829	1.0000
+SF13_ENG_084	org:top_members_employees	lsv	AFP_ENG_20100214.0535	Eileen McMenamin	404-419	463-486	366-546	0.5188
+SF13_ENG_084	org:top_members_employees	lsv	NYT_ENG_20101229.0034	Paul Bledsoe	6166-6177	6261-6284	5901-6317	0.0496
+SF13_ENG_084	org:top_members_employees	lsv	NYT_ENG_20090807.0108	Jason S. Grumet	3911-3925	3945-3968	3814-4016	0.8989
+SF13_ENG_084	org:top_members_employees	lsv	WPB_ENG_20101227.0021	Charles Konigsberg	3710-3727	3752-3775	3603-3789	0.5960
+SF13_ENG_084	org:top_members_employees	lsv	APW_ENG_20100126.1287	Alice Rivlin	4995-5006	5175-5198	4954-5224	0.0556
+SF13_ENG_085	org:city_of_headquarters	lsv	XIN_ENG_20101116.0410	Tibet Autonomous	585-600	456-490	440-714	1.0000
+SF13_ENG_085	org:country_of_headquarters	lsv	XIN_ENG_20100420.0420	China	409-413	409-443	361-612	1.0000
+SF13_ENG_085	org:date_dissolved	lsv	NIL
+SF13_ENG_085	org:date_founded	lsv	NIL
+SF13_ENG_085	org:number_of_employees_members	lsv	NIL
+SF13_ENG_085	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_085	org:website	lsv	APW_ENG_20100806.0171	http://www.cbrc.gov.cn	2201-2222	2164-2198	2164-2222	0.7539
+SF13_ENG_085	org:alternate_names	lsv	APW_ENG_20100221.0286	CBRC	913-916	873-907	869-1060	0.2048
+SF13_ENG_085	org:founded_by	lsv	NIL
+SF13_ENG_085	org:member_of	lsv	NIL
+SF13_ENG_085	org:members	lsv	NIL
+SF13_ENG_085	org:parents	lsv	NIL
+SF13_ENG_085	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_085	org:shareholders	lsv	NIL
+SF13_ENG_085	org:subsidiaries	lsv	NIL
+SF13_ENG_085	org:top_members_employees	lsv	XIN_ENG_20090623.0424	Cai Esheng	470-479	503-537	470-677	0.6008
+SF13_ENG_085	org:top_members_employees	lsv	XIN_ENG_20101129.0402	Yan Qingmin	1005-1015	1038-1072	924-1130	0.3893
+SF13_ENG_085	org:top_members_employees	lsv	XIN_ENG_20101219.0277	Jiang Dingzhi	434-446	470-504	434-670	0.5753
+SF13_ENG_085	org:top_members_employees	lsv	AFP_ENG_20100120.0595	Liu Minkang	528-538	557-591	482-659	1.0000
+SF13_ENG_085	org:top_members_employees	lsv	XIN_ENG_20090815.0253	Xiao Yuanqi	605-615	669-703	444-724	0.3896
+SF13_ENG_085	org:top_members_employees	lsv	AFP_ENG_20100920.0210	Nout Wellink	1094-1105	1266-1300	1094-1301	0.1386
+SF13_ENG_085	org:top_members_employees	lsv	AFP_ENG_20100114.0605	Andrew Sheng	374-385	409-443	374-544	0.0816
+SF13_ENG_085	org:top_members_employees	lsv	XIN_ENG_20090723.0433	Liao Min	368-375	395-429	368-628	0.0445
+SF13_ENG_085	org:top_members_employees	lsv	XIN_ENG_20100329.0446	Su Ning	1189-1195	1311-1345	1045-1346	0.0211
+SF13_ENG_085	org:top_members_employees	lsv	XIN_ENG_20100329.0446	Yi Gang	1214-1220	1311-1345	1045-1346	0.2401
+SF13_ENG_085	org:top_members_employees	lsv	AFP_ENG_20100305.0592	Liu Mingkang	1485-1496	1515-1549	1426-1613	0.9815
+SF13_ENG_085	org:top_members_employees	lsv	AFP_ENG_20091221.0542	Li Fuan	677-683	704-738	608-789	0.1395
+SF13_ENG_086	org:city_of_headquarters	lsv	XIN_ENG_20090721.0382	Beijing	666-672	580-639	399-673	0.2241
+SF13_ENG_086	org:country_of_headquarters	lsv	APW_ENG_20100802.0183	China	1583-1587	1488-1547	1464-1619	0.6027
+SF13_ENG_086	org:date_dissolved	lsv	NIL
+SF13_ENG_086	org:date_founded	lsv	XIN_ENG_20100413.0447	2003-XX-XX	864-867	839-843	834-896	1.0000
+SF13_ENG_086	org:number_of_employees_members	lsv	XIN_ENG_20091026.0382	196	1399-1401	1389-1393	1385-1485	0.5791
+SF13_ENG_086	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_086	org:website	lsv	NIL
+SF13_ENG_086	org:alternate_names	lsv	XIN_ENG_20100914.0390	Summer Davos	586-597	413-472	377-638	0.4569
+SF13_ENG_086	org:founded_by	lsv	NIL
+SF13_ENG_086	org:member_of	lsv	NIL
+SF13_ENG_086	org:members	lsv	NIL
+SF13_ENG_086	org:parents	lsv	NIL
+SF13_ENG_086	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_086	org:shareholders	lsv	NIL
+SF13_ENG_086	org:subsidiaries	lsv	AFP_ENG_20090820.0686	Jiangsu Nuclear Power Co	1983-2006	2133-2137	1983-2143	0.3485
+SF13_ENG_086	org:subsidiaries	lsv	XIN_ENG_20090709.0397	Academy of Agricultural Mechanization Sciences	569-614	690-694	424-700	0.0506
+SF13_ENG_086	org:top_members_employees	lsv	XIN_ENG_20091020.0377	Shen Ying	1145-1153	1180-1184	972-1214	0.1552
+SF13_ENG_086	org:top_members_employees	lsv	XIN_ENG_20100207.0216	Li Rongrong	369-379	398-457	369-644	1.0000
+SF13_ENG_086	org:top_members_employees	lsv	AFP_ENG_20091230.0385	Li Wei	2043-2048	2068-2072	1866-2091	0.5900
+SF13_ENG_086	org:top_members_employees	lsv	XIN_ENG_20101222.0364	Shao Ning	2614-2622	2644-2648	2575-2649	0.2097
+SF13_ENG_086	org:top_members_employees	lsv	XIN_ENG_20101222.0364	Xie Qihua	943-951	1105-1109	943-1157	0.1771
+SF13_ENG_086	org:top_members_employees	lsv	XIN_ENG_20101228.0326	Huang Shuhe	472-482	506-565	384-674	0.7607
+SF13_ENG_086	org:top_members_employees	lsv	XIN_ENG_20101223.0351	Wang Yong	521-529	607-611	392-613	0.0907
+SF13_ENG_087	org:city_of_headquarters	lsv	XIN_ENG_20091016.0198	Cochabamba	1346-1355	1331-1334	1296-1450	1.0000
+SF13_ENG_087	org:country_of_headquarters	lsv	AFP_ENG_20091213.0012	Cuba	534-537	475-478	386-538	1.0000
+SF13_ENG_087	org:date_dissolved	lsv	NIL
+SF13_ENG_087	org:date_founded	lsv	AFP_ENG_20100123.0001	2004-XX-XX	1201-1204	1181-1184	1181-1370	1.0000
+SF13_ENG_087	org:number_of_employees_members	lsv	NIL
+SF13_ENG_087	org:stateorprovince_of_headquarters	lsv	XIN_ENG_20100625.0177	Ecuador	497-503	479-482	392-619	0.9537
+SF13_ENG_087	org:website	lsv	NIL
+SF13_ENG_087	org:alternate_names	lsv	AFP_ENG_20090625.0518	ALBA	1779-1782	1735-1773	1694-1854	0.7695
+SF13_ENG_087	org:founded_by	lsv	AFP_ENG_20090629.0110	Hugo Chavez	720-730	641-679	629-843	0.2057
+SF13_ENG_087	org:founded_by	lsv	APW_ENG_20091215.0069	Chavez	3026-3031	3001-3004	2799-3089	1.0000
+SF13_ENG_087	org:member_of	lsv	NIL
+SF13_ENG_087	org:members	lsv	XIN_ENG_20090625.0164	Barbuda	218-224	246-284	159-327	0.7217
+SF13_ENG_087	org:parents	lsv	NIL
+SF13_ENG_087	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_087	org:shareholders	lsv	NIL
+SF13_ENG_087	org:subsidiaries	lsv	NIL
+SF13_ENG_087	org:top_members_employees	lsv	LTW_ENG_20090705.0041	Facusse	4813-4819	4838-4876	4753-4921	0.3201
+SF13_ENG_087	org:top_members_employees	lsv	eng-NG-31-142161-10038031	Alfredo Riera	770-782	953-956	770-963	0.1749
+SF13_ENG_088	org:city_of_headquarters	lsv	WPB_ENG_20100728.0038	Basel	4100-4104	4069-4088	4069-4252	1.0000
+SF13_ENG_088	org:country_of_headquarters	lsv	WPB_ENG_20101004.0048	Mexico	3229-3234	3392-3407	3203-3463	0.4501
+SF13_ENG_088	org:date_dissolved	lsv	NIL
+SF13_ENG_088	org:date_founded	lsv	NIL
+SF13_ENG_088	org:number_of_employees_members	lsv	NIL
+SF13_ENG_088	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_088	org:website	lsv	NIL
+SF13_ENG_088	org:alternate_names	lsv	NIL
+SF13_ENG_088	org:founded_by	lsv	NIL
+SF13_ENG_088	org:member_of	lsv	NIL
+SF13_ENG_088	org:members	lsv	NIL
+SF13_ENG_088	org:parents	lsv	NIL
+SF13_ENG_088	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_088	org:shareholders	lsv	NIL
+SF13_ENG_088	org:subsidiaries	lsv	NIL
+SF13_ENG_088	org:top_members_employees	lsv	NIL
+SF13_ENG_089	org:city_of_headquarters	lsv	NIL
+SF13_ENG_089	org:country_of_headquarters	lsv	XIN_ENG_20091215.0184	Russia	847-852	882-896	836-992	0.9815
+SF13_ENG_089	org:date_dissolved	lsv	NIL
+SF13_ENG_089	org:date_founded	lsv	NIL
+SF13_ENG_089	org:number_of_employees_members	lsv	NIL
+SF13_ENG_089	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_089	org:website	lsv	NIL
+SF13_ENG_089	org:alternate_names	lsv	NIL
+SF13_ENG_089	org:founded_by	lsv	NIL
+SF13_ENG_089	org:member_of	lsv	NIL
+SF13_ENG_089	org:members	lsv	NIL
+SF13_ENG_089	org:parents	lsv	NIL
+SF13_ENG_089	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_089	org:shareholders	lsv	NIL
+SF13_ENG_089	org:subsidiaries	lsv	NIL
+SF13_ENG_089	org:top_members_employees	lsv	bolt-eng-DF-170-181122-8798258	Anatoly Isaikin	558-572	595-609	464-660	1.0000
+SF13_ENG_089	org:top_members_employees	lsv	AFP_ENG_20100901.0148	Viacheslav Davidenko	296-315	336-350	185-373	0.0843
+SF13_ENG_089	org:top_members_employees	lsv	eng-NG-31-142149-8688154	Sergey Chemezov	3091-3105	3128-3142	3091-3256	0.5411
+SF13_ENG_089	org:top_members_employees	lsv	XIN_ENG_20101028.0325	Anatoli Isaikin	339-353	237-251	187-368	0.0374
+SF13_ENG_090	org:date_dissolved	lsv	NIL
+SF13_ENG_090	org:number_of_employees_members	lsv	NIL
+SF13_ENG_090	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_090	org:alternate_names	lsv	NIL
+SF13_ENG_090	org:founded_by	lsv	NIL
+SF13_ENG_090	org:member_of	lsv	NIL
+SF13_ENG_090	org:members	lsv	NIL
+SF13_ENG_090	org:parents	lsv	NIL
+SF13_ENG_090	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_090	org:shareholders	lsv	NIL
+SF13_ENG_090	org:subsidiaries	lsv	NIL
+SF13_ENG_090	org:top_members_employees	lsv	NIL
+SF13_ENG_091	org:city_of_headquarters	lsv	AFP_ENG_20090617.0358	Frankfurt	1808-1816	1720-1727	1720-1903	0.7342
+SF13_ENG_091	org:country_of_headquarters	lsv	AFP_ENG_20090609.0239	Germany	1733-1739	1656-1663	1611-1782	1.0000
+SF13_ENG_091	org:date_dissolved	lsv	NIL
+SF13_ENG_091	org:date_founded	lsv	AFP_ENG_20090618.0420	1881-XX-XX	1025-1028	994-1001	935-1061	1.0000
+SF13_ENG_091	org:number_of_employees_members	lsv	AFP_ENG_20090610.0700	70,000	1190-1195	1173-1180	1173-1213	1.0000
+SF13_ENG_091	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_091	org:website	lsv	NIL
+SF13_ENG_091	org:alternate_names	lsv	NIL
+SF13_ENG_091	org:founded_by	lsv	NIL
+SF13_ENG_091	org:member_of	lsv	NIL
+SF13_ENG_091	org:members	lsv	NIL
+SF13_ENG_091	org:parents	lsv	APW_ENG_20090608.0579	Metro AG	1672-1679	1585-1592	1519-1680	0.0342
+SF13_ENG_091	org:parents	lsv	AFP_ENG_20100523.0247	Highstreet	747-756	801-808	747-862	0.1316
+SF13_ENG_091	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_091	org:shareholders	lsv	NIL
+SF13_ENG_091	org:subsidiaries	lsv	AFP_ENG_20090608.0568	Kardstadt	242-250	217-224	186-386	0.2531
+SF13_ENG_091	org:top_members_employees	lsv	AFP_ENG_20090612.0385	Thomas Middlehoff	260-276	323-330	193-398	0.1051
+SF13_ENG_091	org:top_members_employees	lsv	NYT_ENG_20090829.0009	Thomas Middelhoff	1524-1540	1627-1634	1465-1753	0.0592
+SF13_ENG_091	org:top_members_employees	lsv	APW_ENG_20090609.0624	Karl-Gerhard Eick	1614-1630	1645-1652	1495-1672	1.0000
+SF13_ENG_092	org:date_dissolved	lsv	NIL
+SF13_ENG_092	org:number_of_employees_members	lsv	AFP_ENG_20091106.0600	2,300	1160-1164	1131-1136	1131-1231	0.4979
+SF13_ENG_092	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_092	org:alternate_names	lsv	NIL
+SF13_ENG_092	org:founded_by	lsv	AFP_ENG_20091106.0392	Wolfgang Ley	1616-1627	1445-1450	1407-1628	0.3934
+SF13_ENG_092	org:member_of	lsv	NIL
+SF13_ENG_092	org:members	lsv	NIL
+SF13_ENG_092	org:parents	lsv	NIL
+SF13_ENG_092	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_092	org:shareholders	lsv	NIL
+SF13_ENG_092	org:subsidiaries	lsv	NIL
+SF13_ENG_092	org:top_members_employees	lsv	AFP_ENG_20091106.0400	Bruno Saelzer	1594-1606	1571-1576	1571-1781	0.2618
+SF13_ENG_092	org:top_members_employees	lsv	AFP_ENG_20091106.0273	Aditya Mittal	415-427	564-569	397-610	0.2523
+SF13_ENG_092	org:top_members_employees	lsv	AFP_ENG_20091106.0273	Ursula Dreyer	715-727	738-743	621-762	0.0962
+SF13_ENG_093	org:city_of_headquarters	lsv	NIL
+SF13_ENG_093	org:country_of_headquarters	lsv	NIL
+SF13_ENG_093	org:date_dissolved	lsv	NIL
+SF13_ENG_093	org:date_founded	lsv	NIL
+SF13_ENG_093	org:number_of_employees_members	lsv	NIL
+SF13_ENG_093	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_093	org:website	lsv	NIL
+SF13_ENG_093	org:alternate_names	lsv	NIL
+SF13_ENG_093	org:founded_by	lsv	NIL
+SF13_ENG_093	org:member_of	lsv	NIL
+SF13_ENG_093	org:members	lsv	NIL
+SF13_ENG_093	org:parents	lsv	NIL
+SF13_ENG_093	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_093	org:shareholders	lsv	NIL
+SF13_ENG_093	org:subsidiaries	lsv	NIL
+SF13_ENG_093	org:top_members_employees	lsv	NIL
+SF13_ENG_094	org:city_of_headquarters	lsv	WPB_ENG_20101108.0046	Arlington	6170-6178	6126-6141	5984-6225	1.0000
+SF13_ENG_094	org:country_of_headquarters	lsv	NIL
+SF13_ENG_094	org:date_dissolved	lsv	NIL
+SF13_ENG_094	org:date_founded	lsv	NIL
+SF13_ENG_094	org:number_of_employees_members	lsv	NIL
+SF13_ENG_094	org:stateorprovince_of_headquarters	lsv	NYT_ENG_20100626.0021	Calif.	4433-4438	4403-4418	4346-4456	1.0000
+SF13_ENG_094	org:website	lsv	NIL
+SF13_ENG_094	org:alternate_names	lsv	NIL
+SF13_ENG_094	org:founded_by	lsv	NIL
+SF13_ENG_094	org:member_of	lsv	NIL
+SF13_ENG_094	org:members	lsv	NIL
+SF13_ENG_094	org:parents	lsv	APW_ENG_20091229.0030	OSI Systems Inc.	3769-3784	3741-3756	3591-3867	0.2604
+SF13_ENG_094	org:parents	lsv	AFP_ENG_20091231.0350	OSI Systems	1410-1420	1382-1397	1313-1457	0.4532
+SF13_ENG_094	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_094	org:shareholders	lsv	NIL
+SF13_ENG_094	org:subsidiaries	lsv	NIL
+SF13_ENG_094	org:top_members_employees	lsv	WPB_ENG_20101108.0046	Peter Kant	6086-6095	6126-6141	5984-6225	1.0000
+SF13_ENG_095	org:city_of_headquarters	lsv	NIL
+SF13_ENG_095	org:country_of_headquarters	lsv	NIL
+SF13_ENG_095	org:date_dissolved	lsv	NIL
+SF13_ENG_095	org:date_founded	lsv	NIL
+SF13_ENG_095	org:number_of_employees_members	lsv	NIL
+SF13_ENG_095	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_095	org:website	lsv	NIL
+SF13_ENG_095	org:alternate_names	lsv	NIL
+SF13_ENG_095	org:founded_by	lsv	NIL
+SF13_ENG_095	org:member_of	lsv	NIL
+SF13_ENG_095	org:members	lsv	NIL
+SF13_ENG_095	org:parents	lsv	NIL
+SF13_ENG_095	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_095	org:shareholders	lsv	NIL
+SF13_ENG_095	org:subsidiaries	lsv	NIL
+SF13_ENG_095	org:top_members_employees	lsv	NIL
+SF13_ENG_096	org:city_of_headquarters	lsv	NIL
+SF13_ENG_096	org:country_of_headquarters	lsv	NIL
+SF13_ENG_096	org:date_dissolved	lsv	NIL
+SF13_ENG_096	org:date_founded	lsv	NIL
+SF13_ENG_096	org:number_of_employees_members	lsv	NIL
+SF13_ENG_096	org:stateorprovince_of_headquarters	lsv	LTW_ENG_20090831.0039	Calif.	1572-1577	1512-1538	1512-1730	0.0431
+SF13_ENG_096	org:website	lsv	NIL
+SF13_ENG_096	org:alternate_names	lsv	NIL
+SF13_ENG_096	org:founded_by	lsv	NIL
+SF13_ENG_096	org:member_of	lsv	NIL
+SF13_ENG_096	org:members	lsv	NIL
+SF13_ENG_096	org:parents	lsv	NYT_ENG_20100411.0092	Tribune Co.	3228-3238	3299-3320	3127-3397	0.3278
+SF13_ENG_096	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_096	org:shareholders	lsv	NIL
+SF13_ENG_096	org:subsidiaries	lsv	APW_ENG_20090713.0954	Star	676-679	693-714	672-715	1.0000
+SF13_ENG_096	org:top_members_employees	lsv	WPB_ENG_20100209.0052	Scott Flanders	3583-3596	3617-3643	3583-3663	0.2602
+SF13_ENG_097	org:city_of_headquarters	lsv	APW_ENG_20091030.0934	Turku	700-704	673-683	537-727	0.6057
+SF13_ENG_097	org:country_of_headquarters	lsv	AFP_ENG_20101111.0030	South Korea	609-619	623-633	593-695	0.2702
+SF13_ENG_097	org:date_dissolved	lsv	NIL
+SF13_ENG_097	org:date_founded	lsv	NIL
+SF13_ENG_097	org:number_of_employees_members	lsv	AFP_ENG_20101103.0162	3,000	1140-1144	1113-1123	1113-1234	1.0000
+SF13_ENG_097	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_097	org:website	lsv	NIL
+SF13_ENG_097	org:alternate_names	lsv	NIL
+SF13_ENG_097	org:founded_by	lsv	NIL
+SF13_ENG_097	org:member_of	lsv	APW_ENG_20101029.0551	STX Europe Group	3014-3029	2973-2983	2973-3093	0.1747
+SF13_ENG_097	org:members	lsv	NIL
+SF13_ENG_097	org:parents	lsv	NIL
+SF13_ENG_097	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_097	org:shareholders	lsv	NIL
+SF13_ENG_097	org:subsidiaries	lsv	NIL
+SF13_ENG_097	org:top_members_employees	lsv	APW_ENG_20101029.0597	Juha Heikinheimo	977-992	1016-1026	921-1057	1.0000
+SF13_ENG_098	org:city_of_headquarters	lsv	APW_ENG_20100729.0363	Billerica	1879-1887	1853-1867	1764-1903	1.0000
+SF13_ENG_098	org:country_of_headquarters	lsv	APW_ENG_20100428.0466	U.S.	755-758	732-746	644-777	1.0000
+SF13_ENG_098	org:date_dissolved	lsv	NIL
+SF13_ENG_098	org:date_founded	lsv	NYT_ENG_20100223.0026	1954-XX-XX	2240-2243	2034-2042	2034-2244	0.7431
+SF13_ENG_098	org:number_of_employees_members	lsv	NYT_ENG_20100224.0190	more than 6,100	1453-1467	1439-1447	1439-1582	1.0000
+SF13_ENG_098	org:stateorprovince_of_headquarters	lsv	APW_ENG_20100729.0363	Massachusetts	1890-1902	1853-1867	1764-1903	1.0000
+SF13_ENG_098	org:website	lsv	NIL
+SF13_ENG_098	org:alternate_names	lsv	NIL
+SF13_ENG_098	org:founded_by	lsv	NIL
+SF13_ENG_098	org:member_of	lsv	NIL
+SF13_ENG_098	org:members	lsv	NIL
+SF13_ENG_098	org:parents	lsv	APW_ENG_20101026.0210	Merck Millipore	755-769	674-682	674-867	0.1861
+SF13_ENG_098	org:parents	lsv	NYT_ENG_20100707.0206	EMD Serono	3882-3891	3925-3939	3795-4044	0.2686
+SF13_ENG_098	org:parents	lsv	NYT_ENG_20100505.0281	Merck KGaA	1595-1604	1544-1558	1488-1620	0.1869
+SF13_ENG_098	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_098	org:shareholders	lsv	NIL
+SF13_ENG_098	org:subsidiaries	lsv	NIL
+SF13_ENG_098	org:top_members_employees	lsv	NIL
+SF13_ENG_099	org:city_of_headquarters	lsv	APW_ENG_20100428.0682	Paris	3490-3494	3482-3485	3425-3542	0.8070
+SF13_ENG_099	org:country_of_headquarters	lsv	APW_ENG_20090917.0189	Brazil	1585-1590	1357-1360	1357-1606	0.4929
+SF13_ENG_099	org:date_dissolved	lsv	NIL
+SF13_ENG_099	org:date_founded	lsv	NIL
+SF13_ENG_099	org:number_of_employees_members	lsv	APW_ENG_20090917.0189	12,000	1626-1631	1617-1620	1617-1715	1.0000
+SF13_ENG_099	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_099	org:website	lsv	NIL
+SF13_ENG_099	org:alternate_names	lsv	NIL
+SF13_ENG_099	org:founded_by	lsv	NIL
+SF13_ENG_099	org:member_of	lsv	NIL
+SF13_ENG_099	org:members	lsv	NIL
+SF13_ENG_099	org:parents	lsv	WPB_ENG_20100611.0053	Fiat	780-783	736-739	657-847	0.0132
+SF13_ENG_099	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_099	org:shareholders	lsv	NIL
+SF13_ENG_099	org:subsidiaries	lsv	AFP_ENG_20100601.0205	Armaris	905-911	945-947	882-1135	0.5686
+SF13_ENG_099	org:top_members_employees	lsv	APW_ENG_20101101.0601	Patrick Boissier	1247-1262	1232-1235	1149-1263	1.0000
+SF13_ENG_099	org:top_members_employees	lsv	APW_ENG_20090917.0189	Eric Lassalle	535-547	572-575	412-589	0.7039
+SF13_ENG_100	org:city_of_headquarters	lsv	NIL
+SF13_ENG_100	org:country_of_headquarters	lsv	APW_ENG_20101108.0786	America	1526-1532	1501-1513	1440-1565	0.3792
+SF13_ENG_100	org:date_dissolved	lsv	NIL
+SF13_ENG_100	org:date_founded	lsv	NIL
+SF13_ENG_100	org:number_of_employees_members	lsv	NIL
+SF13_ENG_100	org:stateorprovince_of_headquarters	lsv	NIL
+SF13_ENG_100	org:website	lsv	NIL
+SF13_ENG_100	org:alternate_names	lsv	NIL
+SF13_ENG_100	org:founded_by	lsv	NYT_ENG_20100107.0176	Anil Kumar	165-174	335-347	165-423	0.1463
+SF13_ENG_100	org:founded_by	lsv	APW_ENG_20101124.0779	Sri Lanka-born Rajaratnam	774-798	840-852	774-972	1.0000
+SF13_ENG_100	org:founded_by	lsv	NYT_ENG_20100120.0010	Raj Rajaratnam	736-749	767-779	681-924	0.8616
+SF13_ENG_100	org:member_of	lsv	NIL
+SF13_ENG_100	org:members	lsv	NIL
+SF13_ENG_100	org:parents	lsv	NIL
+SF13_ENG_100	org:political_religious_affiliation	lsv	NIL
+SF13_ENG_100	org:shareholders	lsv	NIL
+SF13_ENG_100	org:subsidiaries	lsv	NIL
+SF13_ENG_100	org:top_members_employees	lsv	NYT_ENG_20091029.0045	Raj Rajaratnam	3276-3289	3321-3333	3231-3407	0.3444
+SF13_ENG_100	org:top_members_employees	lsv	APW_ENG_20091102.0682	Hector Ruiz	186-196	342-354	186-376	0.2152
