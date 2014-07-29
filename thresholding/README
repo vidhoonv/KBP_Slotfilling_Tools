@@ -1,0 +1,58 @@
+Thresholding for BLP Inference Engine
+=====================================
+
+To perform inference on slot fills for queries, we run the Relation 
+extraction system second time on a second set of queries which are 
+the slot fills obtained in the first run of relation extraction.
+
+Now using the slot fills of these second set of queries, along with
+the slot fills for original queries, inference is performed to fill 
+possible slot fills that can be inferred.
+
+While performing inference, there is a good chance for the system to
+infer low confidence slot fills in which case, the inferred fill 
+would most likely be wrong.
+
+In order to decide optimal confidence threshold values for each
+relation type, we use inferred relations for KBP 2013 SF queries
+and exhaustively try different confidence thresholds in the range 
+0 to 1 (step size 0.01).
+
+In other words, we learn the confidence thresholds to achieve 
+best F1 score for each relation type from KBP 2013 queries and 
+then use these learnt threshold values for filtering relation
+extractions and inferences for KBP 2014 queries.
+
+
+This thresholding tool is a pipeline that performs the following steps:
+
+* create_threshold_file.sh - given a threshold value for a relation type, 
+this script creates a threshold file  that can be supplied to karl's post process
+code to filter slot fills based on that threshold
+
+* create_RE_outfile.sh - given a relation type and relation extractions from a RE system, 
+this script extracts slot fills of the given relation type and produces a new extraction
+file that can be used for karl's post process code
+
+* karl's postprocess code - given a relation extractor output file and a threshold's file
+this block in the pipeline filters slot fill candidates based on threshold values and also
+places NIL entries for slots of queries that have no fills.
+
+* evaluator.sh - given the output file from karl's post process code, the scoring script in
+this block uses a key file and the output file to calculate F1 score
+
+* generate_threshold.sh - for a given relation type, this script calculates F1 score for a 
+range of threshold settings and identifies the threshold value that produces best F1 score
+
+* main.sh/condor-main.sh - this script is wrapper that calls generate_threshold for all relations
+
+* convert_to_thresholds_format.py - the output from thresholding pipeline is not suitable for 
+supplying to karl's post processing system (which is required to use the threshold values for
+KBP 2014 queries). Hence, this simple convertor is used
+
+Author:
+Vidhoon Viswanathan
+
+DISCLAIMER:
+This tool includes "Karl's post processing script" which requires his permission to reuse.
+I did not author that part.
